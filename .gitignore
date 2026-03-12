@@ -1,0 +1,50 @@
+# Keep repo focused on the dashboard + github pages workflow
+.dashboard-cache/
+
+# OpenClaw workspace scaffolding
+.openclaw/
+.agents/
+
+# Other tool/IDE folders that appear in workspace
+.codebuddy/
+.commandcode/
+.cortex/
+.crush/
+.factory/
+.goose/
+.iflow/
+.junie/
+.kilocode/
+.kiro/
+.kode/
+.mcpjam/
+.mux/
+.neovate/
+.openhands/
+.pi/
+.pochi/
+.qoder/
+.qwen/
+.roo/
+.trae/
+.vibe/
+.zencoder/
+
+# Local assistant docs
+AGENTS.md
+HEARTBEAT.md
+IDENTITY.md
+SOUL.md
+TOOLS.md
+USER.md
+skills-lock.json
+
+# local experiments
+bbc-news-material/
+bbc-news-reader/
+
+# Node
+**/node_modules/
+
+# Generated data (we'll commit dashboard/data separately when doing a refresh)
+# **/data/
