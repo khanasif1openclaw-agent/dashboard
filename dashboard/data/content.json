@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T05:36:32.488Z",
+  "generatedAt": "2026-03-13T06:06:13.118Z",
   "sections": {
     "weather": {
       "city": "Sydney",
@@ -11,7 +11,7 @@
         "link": "https://www.bbc.com/news/live/c4gqjyk0vx3t",
         "title": "US refuelling plane crashes in Iraq as Trump eases Russia oil sanctions - follow live",
         "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cc68/live/8b98b2d0-1e60-11f1-98b0-45854f02e2a5.jpg",
-        "published": "2026-03-13T05:27:50.000Z",
+        "published": "2026-03-13T05:50:34.000Z",
         "blurb": "The American military says the rescue efforts are ongoing and aircraft not brought down by hostile or friendly fire."
       },
       {
@@ -61,7 +61,7 @@
         "link": "https://www.abc.net.au/news/justin",
         "title": "Just In",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-03-13T05:18:54.000Z",
+        "published": "2026-03-13T06:02:42.000Z",
         "blurb": "Live breaking news stories from across Australia & around the world."
       },
       {
@@ -223,36 +223,52 @@
     ],
     "finance": [
       {
-        "source": "CNBC Finance",
-        "link": "https://www.cnbc.com/live-tv/full-episodes/",
-        "title": "Watch the CNBC TV Livestream",
-        "image": "https://fm.cnbc.com/applications/cnbc.com/staticcontent/img/versant/cnbc_share_versant.png?v=1524171804&w=1920&h=1080",
+        "source": "Financial Times Markets",
+        "link": "https://www.ft.com/content/823657f2-4f8b-4325-88db-fbbdba6c9e17",
+        "title": "US intervention in oil futures would be ‘biblical disaster’, CME warns ",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb82fa793-95aa-4a7d-9072-c6c4eb317294.jpg?source=next-barrier-page",
         "published": "",
-        "blurb": "Subscribe to CNBC PROSubscribe to Investing ClubLicensing & ReprintsCNBC CouncilsJoin the CNBC PanelDigital ProductsNews ReleasesClosed CaptioningCorrectionsAbout CNBCInternshipsSite MapCareersHelpContactNews TipsGot a confidential news."
+        "blurb": "Terry Duffy says any attempt by the government to lower prices using derivatives market would erode confidence"
       },
       {
-        "source": "CNBC Finance",
-        "link": "https://www.cnbc.com/live-tv/",
-        "title": "Watch the CNBC TV Livestream",
-        "image": "https://fm.cnbc.com/applications/cnbc.com/staticcontent/img/versant/cnbc_share_versant.png?v=1524171804&w=1920&h=1080",
+        "source": "Financial Times Markets",
+        "link": "https://www.ft.com/content/fedb262e-e6db-40bc-a4d0-080812f0f82b",
+        "title": "The AI-driven ‘kill chain’ transforming how the US wages war",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff13c8fde-1c25-472c-9597-ed3b76f3287b.jpg?source=next-barrier-page",
         "published": "",
-        "blurb": "Subscribe to CNBC PROSubscribe to Investing ClubLicensing & ReprintsCNBC CouncilsJoin the CNBC PanelDigital ProductsNews ReleasesClosed CaptioningCorrectionsAbout CNBCInternshipsSite MapCareersHelpContactNews TipsGot a confidential news."
+        "blurb": "Systems from Palantir and Anthropic are helping to turn torrents of battlefield data into thousands of strikes"
       },
       {
-        "source": "CNBC Finance",
-        "link": "https://www.cnbc.com/live-audio/",
-        "title": "live audio",
-        "image": "https://fm.cnbc.com/applications/cnbc.com/staticcontent/img/versant/cnbc_share_versant.png?v=1524171804&w=1920&h=1080",
-        "published": "2018-11-15T14:58:21+0000",
-        "blurb": "Subscribe to CNBC PROSubscribe to Investing ClubLicensing & ReprintsCNBC CouncilsJoin the CNBC PanelDigital ProductsNews ReleasesClosed CaptioningCorrectionsAbout CNBCInternshipsSite MapCareersHelpContactNews TipsGot a confidential news."
+        "source": "Financial Times Markets",
+        "link": "https://www.ft.com/content/f45188dd-57d4-4d5d-90e0-59190543b1ae",
+        "title": "‘Sitting ducks’: oil tankers trapped in Gulf as Iran widens attacks on shipping",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F73b6c4a0-f360-493b-8d55-a8d4310153b5.jpg?source=next-barrier-page",
+        "published": "",
+        "blurb": "Operators face growing risks whether they stay or flee through Strait of Hormuz"
       },
       {
-        "source": "CNBC Finance",
-        "link": "https://www.cnbc.com/video-ceo-interviews/",
-        "title": "CEO Interviews",
-        "image": "https://fm.cnbc.com/applications/cnbc.com/staticcontent/img/versant/cnbc_share_versant.png?v=1524171804&w=1920&h=1080",
-        "published": "2014-11-04T20:32:15+0000",
-        "blurb": "Watch what CEOs have to say about business news headlines, or get updates on what's next for companies."
+        "source": "Financial Times Markets",
+        "link": "https://www.ft.com/content/8d0105cf-e7af-47d5-8757-8447d1986010",
+        "title": "Military briefing: the closest US-Israel war yet",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F358831ff-0995-41c5-ba8a-6a7ef3b07cd1.jpg?source=next-barrier-page",
+        "published": "",
+        "blurb": "Not since the Suez Crisis has the IDF fought alongside an ally in a major military offensive"
+      },
+      {
+        "source": "Financial Times Markets",
+        "link": "https://www.ft.com/content/14713f6f-a1a6-4477-bd10-d3780fbc8ab5",
+        "title": "US has burned through ‘years’ of munitions since start of Iran war",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7f2416f8-9e88-416a-99ee-ebdaf9037c73.jpg?source=next-barrier-page",
+        "published": "",
+        "blurb": "Rapid depletion of stockpile including Tomahawk missiles raises pressure on Trump over cost of conflict"
+      },
+      {
+        "source": "Financial Times Markets",
+        "link": "https://www.ft.com/content/a22570bb-b628-470e-bf9c-217e2b70cc96",
+        "title": "Democrat Jim Clyburn to seek 18th term in Congress at age 85",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F629c2085-e75e-4a26-9565-56f2ea4e8f62.jpg?source=next-barrier-page",
+        "published": "",
+        "blurb": "Re-election bid comes as critics say the US political system has become a gerontocracy"
       },
       {
         "source": "CoinDesk",

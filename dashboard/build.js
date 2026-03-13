@@ -41,8 +41,8 @@ const SOURCES = {
     url: 'https://techcrunch.com/',
   },
   finance: {
-    name: 'CNBC Finance',
-    url: 'https://www.cnbc.com/finance/',
+    name: 'Financial Times Markets',
+    url: 'https://www.ft.com/markets',
   },
   crypto: {
     name: 'CoinDesk',
@@ -254,7 +254,7 @@ async function main() {
       australia: await buildSection('australia', ['au']),
       tech: await buildSection('tech', ['tech', 'tech2']),
       ai: await buildSection('ai', ['ai1', 'ai2', 'ai3', 'ai4']),
-      finance: await buildSection('finance', ['finance', 'crypto']),
+      finance: await buildSection('finance', ['finance', 'crypto'], 6),
     },
   };
 
