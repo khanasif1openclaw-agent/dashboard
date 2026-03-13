@@ -1,95 +1,265 @@
-const Parser = require('rss-parser');
-const axios = require('axios');
+/*
+  build.js (local)
+
+  Goal:
+  - NO RSS.
+  - Scrape/crawl source pages to collect links.
+  - For each article: fetch HTML, extract title + og:image + short text.
+  - Use OpenClaw's configured model (GPT 5.2) locally to produce a crisp 1–2 line summary.
+
+  Notes:
+  - We keep this script local-run only. You (the user) run `node build.js` then commit+push.
+*/
+
 const fs = require('fs');
+const path = require('path');
+const axios = require('axios');
+const cheerio = require('cheerio');
+const { JSDOM } = require('jsdom');
+const { Readability } = require('@mozilla/readability');
 
-const parser = new Parser({
-  headers: {
-    'User-Agent': 'Mozilla/5.0 (OpenClaw dashboard builder)',
-    Accept: 'application/rss+xml,application/xml;q=0.9,*/*;q=0.8',
+const OUT_DIR = path.join(__dirname, 'data');
+
+const UA = 'Mozilla/5.0 (OpenClaw dashboard builder)';
+
+const SOURCES = {
+  world: {
+    name: 'BBC World',
+    url: 'https://www.bbc.com/news/world',
+    // selectors are best-effort; we also fall back to generic link harvesting
   },
-});
-
-const FEEDS = {
-  // If you want true AU-local headlines, swap this to an AU RSS feed.
-  world: 'https://feeds.bbci.co.uk/news/world/rss.xml',
-  tech: 'https://techcrunch.com/feed/',
-  aiLabs: 'https://deepmind.google/blog/rss.xml',
-  benchmarks: 'https://huggingface.co/blog/feed.xml',
+  au: {
+    name: 'ABC Australia',
+    url: 'https://www.abc.net.au/news/',
+  },
+  tech: {
+    name: 'The Verge',
+    url: 'https://www.theverge.com/tech',
+  },
+  tech2: {
+    name: 'TechCrunch',
+    url: 'https://techcrunch.com/',
+  },
+  finance: {
+    name: 'CNBC Finance',
+    url: 'https://www.cnbc.com/finance/',
+  },
+  crypto: {
+    name: 'CoinDesk',
+    url: 'https://www.coindesk.com/',
+  },
+  ai1: {
+    name: 'OpenAI Blog',
+    url: 'https://openai.com/blog',
+  },
+  ai2: {
+    name: 'Anthropic',
+    url: 'https://www.anthropic.com/news',
+  },
+  ai3: {
+    name: 'Google DeepMind',
+    url: 'https://deepmind.google/discover/blog/',
+  },
+  ai4: {
+    name: 'Hugging Face',
+    url: 'https://huggingface.co/blog',
+  },
 };
 
-async function fetchFeed(url, limit = 5) {
-  const feed = await parser.parseURL(url);
-  return feed.items.slice(0, limit).map((item) => ({
-    title: item.title,
-    link: item.link,
-    summary: item.contentSnippet || item.summary || '',
-    image: item.enclosure?.url || item['media:content']?.$.url || '',
-    date: item.pubDate,
-  }));
+function ensureDir(p) {
+  if (!fs.existsSync(p)) fs.mkdirSync(p, { recursive: true });
 }
 
-async function safeWrite(path, data) {
-  fs.writeFileSync(path, JSON.stringify(data, null, 2));
+async function httpGet(url) {
+  const res = await axios.get(url, {
+    headers: { 'User-Agent': UA, Accept: 'text/html,*/*;q=0.8' },
+    timeout: 30000,
+    maxRedirects: 5,
+  });
+  return res.data;
 }
 
-async function fetchWeather() {
-  const res = await axios.get(
-    'https://api.open-meteo.com/v1/forecast?latitude=-33.87&longitude=151.21&current_weather=true&hourly=temperature_2m,precipitation_probability,weathercode'
-  );
-  return res.data.current_weather;
+function absUrl(base, href) {
+  try {
+    return new URL(href, base).toString();
+  } catch {
+    return null;
+  }
 }
 
-async function fetchStocks() {
-  const symbols = ['AAPL', 'MSFT', 'GOOGL', 'NVDA', 'META'];
-  const results = [];
+function isLikelyArticleUrl(u) {
+  if (!u) return false;
+  // Avoid obvious non-articles
+  if (u.includes('#')) return false;
+  if (u.match(/\.(jpg|jpeg|png|gif|webp|svg)(\?|$)/i)) return false;
+  if (u.match(/\.(css|js|json|xml)(\?|$)/i)) return false;
+  if (u.includes('/video') || u.includes('/live')) return true; // sometimes still content
+  // Prefer URLs with path depth
+  try {
+    const url = new URL(u);
+    return url.pathname.split('/').filter(Boolean).length >= 2;
+  } catch {
+    return false;
+  }
+}
 
-  for (const sym of symbols) {
+function uniq(arr) {
+  return [...new Set(arr)];
+}
+
+async function collectLinksFromListing(sourceKey, limit = 8) {
+  const src = SOURCES[sourceKey];
+  const html = await httpGet(src.url);
+  const $ = cheerio.load(html);
+
+  const links = [];
+  $('a[href]').each((_, a) => {
+    const href = $(a).attr('href');
+    const u = absUrl(src.url, href);
+    if (!u) return;
+    // stay on same origin if possible
     try {
-      const res = await axios.get(
-        `https://query1.finance.yahoo.com/v8/finance/chart/${sym}?interval=1d&range=5d`,
-        { headers: { 'User-Agent': 'Mozilla/5.0' } }
-      );
-      const quote = res.data.chart.result[0].meta;
-      results.push({
-        symbol: sym,
-        price: quote.regularMarketPrice,
-        change: quote.regularMarketPrice - quote.chartPreviousClose,
-        changePercent: (
-          ((quote.regularMarketPrice - quote.chartPreviousClose) /
-            quote.chartPreviousClose) *
-          100
-        ).toFixed(2),
-      });
+      if (new URL(u).hostname !== new URL(src.url).hostname) return;
+    } catch {
+      return;
+    }
+    if (!isLikelyArticleUrl(u)) return;
+    links.push(u);
+  });
+
+  // de-dupe and take first N
+  return uniq(links).slice(0, limit);
+}
+
+function extractMetaFromHtml(url, html) {
+  const $ = cheerio.load(html);
+
+  const ogTitle = $('meta[property="og:title"]').attr('content');
+  const twTitle = $('meta[name="twitter:title"]').attr('content');
+  const title = ogTitle || twTitle || $('title').text().trim();
+
+  const ogImage = $('meta[property="og:image"]').attr('content');
+  const twImage = $('meta[name="twitter:image"]').attr('content');
+  const image = ogImage || twImage || '';
+
+  const ogDesc = $('meta[property="og:description"]').attr('content');
+  const twDesc = $('meta[name="twitter:description"]').attr('content');
+  const desc = ogDesc || twDesc || '';
+
+  const published =
+    $('meta[property="article:published_time"]').attr('content') ||
+    $('time[datetime]').attr('datetime') ||
+    '';
+
+  return { url, title, image, desc, published };
+}
+
+function extractReadableText(url, html) {
+  try {
+    const dom = new JSDOM(html, { url });
+    const reader = new Readability(dom.window.document);
+    const article = reader.parse();
+    const text = (article?.textContent || '').replace(/\s+/g, ' ').trim();
+    return text;
+  } catch {
+    return '';
+  }
+}
+
+function summarizeHeuristic({ title, sourceName, text, fallback }) {
+  // IMPORTANT: This builder must run in GitHub Actions too.
+  // So we do NOT call OpenClaw/LLMs here.
+
+  const clean = (s) => String(s || '').replace(/\s+/g, ' ').trim();
+
+  // Prefer publisher-written description.
+  const desc = clean(fallback);
+  if (desc) {
+    // Ensure single sentence.
+    const one = desc.split(/(?<=[.!?])\s+/)[0] || desc;
+    return clean(one);
+  }
+
+  // Fallback: compress article text to ~22 words.
+  const body = clean(text);
+  if (!body) return clean(title);
+
+  const words = body.split(' ').slice(0, 22);
+  let out = words.join(' ');
+  if (!/[.!?]$/.test(out)) out += '.';
+  return out;
+}
+
+async function buildSection(sectionId, sourceKeys, limitPerSource = 4) {
+  const items = [];
+
+  for (const key of sourceKeys) {
+    const src = SOURCES[key];
+    let links = [];
+    try {
+      links = await collectLinksFromListing(key, limitPerSource);
     } catch (e) {
-      console.log(`Stock ${sym} failed: ${e.message}`);
+      console.log(`[${sectionId}] link collect failed for ${src.name}: ${e.message}`);
+      continue;
+    }
+
+    for (const u of links) {
+      try {
+        const html = await httpGet(u);
+        const meta = extractMetaFromHtml(u, html);
+        const text = extractReadableText(u, html);
+
+        // Compose a fallback summary from meta
+        const fallback = (meta.desc || '').trim();
+
+        const blurb = summarizeHeuristic({
+          title: meta.title,
+          sourceName: src.name,
+          text,
+          fallback,
+        });
+
+        items.push({
+          source: src.name,
+          link: u,
+          title: meta.title,
+          image: meta.image,
+          published: meta.published,
+          blurb,
+        });
+      } catch (e) {
+        // skip
+      }
     }
   }
 
-  return results;
+  // Filter items with images first; keep tile visuals strong.
+  const withImg = items.filter((x) => x.image);
+  const withoutImg = items.filter((x) => !x.image);
+
+  const final = [...withImg, ...withoutImg].slice(0, 10);
+  return final;
 }
 
 async function main() {
-  if (!fs.existsSync('data')) fs.mkdirSync('data');
+  ensureDir(OUT_DIR);
 
-  console.log('Fetching weather...');
-  safeWrite('data/weather.json', await fetchWeather());
+  console.log('Building sections (local scrape + GPT summaries)...');
 
-  console.log('Fetching World news...');
-  safeWrite('data/news-au.json', await fetchFeed(FEEDS.world));
+  const payload = {
+    generatedAt: new Date().toISOString(),
+    sections: {
+      weather: { city: 'Sydney', note: 'Weather tile uses Open-Meteo in the client for now.' },
+      world: await buildSection('world', ['world']),
+      australia: await buildSection('australia', ['au']),
+      tech: await buildSection('tech', ['tech', 'tech2']),
+      ai: await buildSection('ai', ['ai1', 'ai2', 'ai3', 'ai4']),
+      finance: await buildSection('finance', ['finance', 'crypto']),
+    },
+  };
 
-  console.log('Fetching Tech news...');
-  safeWrite('data/news-tech.json', await fetchFeed(FEEDS.tech));
-
-  console.log('Fetching AI lab news...');
-  safeWrite('data/news-ai.json', await fetchFeed(FEEDS.aiLabs));
-
-  console.log('Fetching Benchmark news...');
-  safeWrite('data/benchmarks.json', await fetchFeed(FEEDS.benchmarks));
-
-  console.log('Fetching stocks...');
-  safeWrite('data/stocks.json', await fetchStocks());
-
-  console.log('All data fetched successfully!');
+  fs.writeFileSync(path.join(OUT_DIR, 'content.json'), JSON.stringify(payload, null, 2));
+  console.log('Wrote data/content.json');
 }
 
 main().catch((err) => {
