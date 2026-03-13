@@ -1,3 +1,5 @@
 node_modules/
-data/
+# Keep generated content.json in git so Pages always has something to load.
+data/*
+!data/content.json
 .DS_Store
