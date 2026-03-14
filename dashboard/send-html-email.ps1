@@ -1,9 +1,12 @@
 $ErrorActionPreference = 'Stop'
-$htmlPath = Join-Path $PSScriptRoot 'data\email.html'
+$htmlPath = (Resolve-Path (Join-Path $PSScriptRoot 'data\email.html')).Path
 
-# IMPORTANT: pass HTML as a FILE reference to avoid argument parsing issues.
-# gog supports "@path" for --body-html.
+# IMPORTANT:
+# - Passing raw HTML inline breaks argument parsing.
+# - gog supports @file expansion for --body-html, but it must be an unquoted argument.
 
 $bodyHtmlArg = '@' + $htmlPath
+
+if (!(Test-Path $htmlPath)) { throw "Missing HTML file: $htmlPath" }
 
 gog send --to khanasif1@gmail.com --subject "Daily Dashboard (HTML)" --body "If you see this, your client doesn't render HTML." --body-html $bodyHtmlArg --json
