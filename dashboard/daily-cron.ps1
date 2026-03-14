@@ -21,6 +21,9 @@ Copy-Item -Force .\data\email.html (Join-Path $snapDir 'email.html')
 
 Write-Host "[dashboard] sending email via gog..."
 powershell -NoProfile -ExecutionPolicy Bypass -File .\send-html-email.ps1
+if ($LASTEXITCODE -ne 0) {
+  throw "Email send failed (exit code $LASTEXITCODE)"
+}
 
 Write-Host "[dashboard] committing + pushing to GitHub..."
 git add -A
