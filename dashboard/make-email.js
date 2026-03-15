@@ -70,6 +70,10 @@ function sectionBlock(name, items, limit = 5) {
 
 const weather = data?.sections?.weather;
 
+// Public dashboard link (GitHub Pages). If your Pages base differs, set DASHBOARD_URL env var.
+const repo = 'khanasif1openclaw-agent/dashboard';
+const dashboardUrl = process.env.DASHBOARD_URL || `https://${repo.split('/')[0]}.github.io/${repo.split('/')[1]}/`;
+
 const html = `<!doctype html>
 <html>
   <head>
@@ -87,6 +91,9 @@ const html = `<!doctype html>
               <td style="padding:0 0 14px 0;">
                 <div style="font-family:Arial,Helvetica,sans-serif;font-size:20px;line-height:1.2;font-weight:800;color:#111827;">Daily Dashboard</div>
                 <div style="font-family:Arial,Helvetica,sans-serif;font-size:12.5px;line-height:1.4;color:#6B7280;margin-top:4px;">Updated: ${esc(fmt(data.generatedAt))}${weather?.city ? ` • Region: ${esc(weather.city)}` : ''}</div>
+                <div style="font-family:Arial,Helvetica,sans-serif;font-size:12.5px;line-height:1.4;margin-top:6px;">
+                  <a href="${esc(dashboardUrl)}" style="color:#2563EB;text-decoration:underline;">Open dashboard in browser</a>
+                </div>
               </td>
             </tr>
 
