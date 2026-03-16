@@ -26,12 +26,20 @@ if ($LASTEXITCODE -ne 0) {
 }
 
 Write-Host "[dashboard] committing + pushing to GitHub..."
+
+# Fail fast in non-interactive contexts (cron/CI)
+$env:GIT_TERMINAL_PROMPT = "0"
+$env:GCM_INTERACTIVE = "Never"
+
 git add -A
 # Commit only if there are changes
 $changed = git status --porcelain
 if ($changed) {
   git commit -m "Daily dashboard: $today"
+  if ($LASTEXITCODE -ne 0) { throw "git commit failed (exit code $LASTEXITCODE)" }
+
   git push
+  if ($LASTEXITCODE -ne 0) { throw "git push failed (exit code $LASTEXITCODE)" }
 } else {
   Write-Host "[dashboard] no changes to commit."
 }
