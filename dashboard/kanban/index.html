@@ -1,0 +1,273 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Kanban Board</title>
+  <style>
+    :root {
+      --bg: #0b1020;
+      --panel: rgba(255,255,255,0.06);
+      --panel2: rgba(255,255,255,0.085);
+      --text: #e8eefc;
+      --muted: rgba(232,238,252,0.7);
+      --border: rgba(232,238,252,0.14);
+      --shadow: rgba(0,0,0,0.35);
+      --todo: #60a5fa;
+      --inprog: #fbbf24;
+      --done: #34d399;
+      --chip: rgba(255,255,255,0.09);
+      --mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      --sans: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: var(--sans);
+      background: radial-gradient(1200px 800px at 20% 10%, #172554 0%, transparent 55%),
+                  radial-gradient(1000px 700px at 85% 25%, #3b0764 0%, transparent 60%),
+                  var(--bg);
+      color: var(--text);
+    }
+    header {
+      padding: 22px 18px 12px 18px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: 20px;
+      margin: 0 0 6px 0;
+      letter-spacing: 0.2px;
+    }
+    .sub {
+      font-size: 12.5px;
+      color: var(--muted);
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 6px 10px;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      background: var(--chip);
+      box-shadow: 0 10px 30px var(--shadow);
+    }
+    .dot { width: 8px; height: 8px; border-radius: 50%; display:inline-block; }
+    .dot.todo { background: var(--todo); }
+    .dot.inp { background: var(--inprog); }
+    .dot.done { background: var(--done); }
+
+    main { max-width: 1200px; margin: 0 auto; padding: 10px 18px 26px 18px; }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 14px;
+    }
+    @media (max-width: 980px) {
+      .grid { grid-template-columns: 1fr; }
+    }
+
+    .col {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 12px 32px var(--shadow);
+      min-height: 240px;
+    }
+
+    .colHeader {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 12px 12px;
+      border-bottom: 1px solid var(--border);
+      background: linear-gradient(to bottom, rgba(255,255,255,0.07), rgba(255,255,255,0.03));
+    }
+
+    .colTitle {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-weight: 700;
+      font-size: 13px;
+      letter-spacing: 0.25px;
+      text-transform: uppercase;
+    }
+
+    .count {
+      font-family: var(--mono);
+      font-size: 12px;
+      color: var(--muted);
+      padding: 3px 8px;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      background: rgba(255,255,255,0.06);
+    }
+
+    .items { padding: 10px 10px 12px 10px; display: grid; gap: 10px; }
+
+    .card {
+      background: var(--panel2);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 10px 10px;
+    }
+
+    .cardTitle {
+      font-weight: 700;
+      font-size: 14px;
+      margin: 0 0 6px 0;
+      line-height: 1.25;
+    }
+
+    .meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .pill {
+      padding: 4px 8px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      background: rgba(0,0,0,0.15);
+      font-family: var(--mono);
+      font-size: 11.5px;
+    }
+
+    .dueToday { border-color: rgba(251,191,36,0.7); background: rgba(251,191,36,0.14); color: rgba(255,255,255,0.9); }
+
+    .desc {
+      margin: 8px 0 0 0;
+      font-size: 12.5px;
+      line-height: 1.45;
+      color: rgba(232,238,252,0.82);
+      white-space: pre-wrap;
+    }
+
+    .empty {
+      color: var(--muted);
+      font-size: 12.5px;
+      padding: 10px;
+    }
+
+    footer {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 18px 24px 18px;
+      color: var(--muted);
+      font-size: 12px;
+    }
+    a { color: #93c5fd; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Kanban Board</h1>
+    <div class="sub">
+      <span class="chip"><span class="dot todo"></span> To Do</span>
+      <span class="chip"><span class="dot inp"></span> In Progress</span>
+      <span class="chip"><span class="dot done"></span> Done</span>
+      <span class="chip" id="updated">Updated: —</span>
+      <span class="chip"><span style="font-family:var(--mono)">Due today</span> highlights only apply when a due date is explicitly set.</span>
+    </div>
+  </header>
+
+  <main>
+    <div class="grid" id="grid"></div>
+  </main>
+
+  <footer>
+    <div>Source of truth: <a href="./board.json">board.json</a></div>
+  </footer>
+
+  <script>
+    const esc = (s) => String(s ?? '').replace(/[&<>\"']/g, (c) => ({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;','\'':'&#39;'}[c]));
+    const fmt = (iso) => {
+      if (!iso) return '—';
+      try {
+        const d = new Date(iso);
+        return d.toUTCString();
+      } catch { return String(iso); }
+    };
+    const todayYMD = () => {
+      const d = new Date();
+      const y = d.getUTCFullYear();
+      const m = String(d.getUTCMonth()+1).padStart(2,'0');
+      const da = String(d.getUTCDate()).padStart(2,'0');
+      return `${y}-${m}-${da}`;
+    };
+
+    function render(board) {
+      document.getElementById('updated').textContent = `Updated: ${fmt(board.updatedAt)}`;
+      const grid = document.getElementById('grid');
+      grid.innerHTML = '';
+      const ymd = todayYMD();
+
+      for (const col of board.columns || []) {
+        const wrap = document.createElement('section');
+        wrap.className = 'col';
+
+        const colorClass = col.id === 'todo' ? 'todo' : (col.id === 'in_progress' ? 'inp' : 'done');
+
+        const header = document.createElement('div');
+        header.className = 'colHeader';
+        header.innerHTML = `
+          <div class="colTitle"><span class="dot ${colorClass}"></span>${esc(col.name || col.id)}</div>
+          <div class="count">${(col.items || []).length}</div>
+        `;
+        wrap.appendChild(header);
+
+        const items = document.createElement('div');
+        items.className = 'items';
+
+        const list = col.items || [];
+        if (!list.length) {
+          const empty = document.createElement('div');
+          empty.className = 'empty';
+          empty.textContent = 'No items.';
+          items.appendChild(empty);
+        } else {
+          for (const it of list) {
+            const card = document.createElement('article');
+            card.className = 'card';
+            const duePill = it.dueDate ? `<span class="pill ${it.dueDate === ymd ? 'dueToday' : ''}">due:${esc(it.dueDate)}</span>` : '<span class="pill">due:—</span>';
+            const created = it.createdAt ? `<span class="pill">created:${esc(it.createdAt.slice(0,10))}</span>` : '';
+            const id = it.id ? `<span class="pill">#${esc(it.id)}</span>` : '';
+            const prio = it.priority ? `<span class="pill">p:${esc(it.priority)}</span>` : '';
+
+            card.innerHTML = `
+              <div class="cardTitle">${esc(it.title || 'Untitled task')}</div>
+              <div class="meta">${id}${prio}${duePill}${created}</div>
+              ${it.notes ? `<div class="desc">${esc(it.notes)}</div>` : ''}
+            `;
+            items.appendChild(card);
+          }
+        }
+        wrap.appendChild(items);
+        grid.appendChild(wrap);
+      }
+    }
+
+    async function main() {
+      const res = await fetch('./board.json', { cache: 'no-store' });
+      const board = await res.json();
+      render(board);
+    }
+
+    main().catch((e) => {
+      document.getElementById('grid').innerHTML = `<div class="empty">Failed to load board.json: ${esc(e?.message || e)}</div>`;
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": null,
+  "columns": [
+    {
+      "id": "todo",
+      "name": "To Do",
+      "items": []
+    },
+    {
+      "id": "in_progress",
+      "name": "In Progress",
+      "items": []
+    },
+    {
+      "id": "done",
+      "name": "Done",
+      "items": []
+    }
+  ]
+}
