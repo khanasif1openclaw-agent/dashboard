@@ -1,11 +1,21 @@
 {
   "schemaVersion": 1,
-  "updatedAt": null,
+  "updatedAt": "2026-03-16T12:25:56.276Z",
   "columns": [
     {
       "id": "todo",
       "name": "To Do",
-      "items": []
+      "items": [
+        {
+          "id": "1773663956277",
+          "title": "Check viral GitHub repos daily (focus AI) + email top 5 summary",
+          "notes": "Daily: identify top 5 trending/viral AI-focused repos and send summary. No due date unless specified.",
+          "dueDate": null,
+          "priority": "med",
+          "createdAt": "2026-03-16T12:25:56.276Z",
+          "updatedAt": "2026-03-16T12:25:56.276Z"
+        }
+      ]
     },
     {
       "id": "in_progress",
