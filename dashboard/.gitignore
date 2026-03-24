@@ -3,3 +3,7 @@ node_modules/
 data/*
 !data/content.json
 .DS_Store
+
+# Local secrets (never commit)
+.secrets.ps1
+.env

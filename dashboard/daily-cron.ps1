@@ -19,11 +19,7 @@ Copy-Item -Force .\data\content.json (Join-Path $snapDir 'content.json')
 Copy-Item -Force .\index.html (Join-Path $snapDir 'index.html')
 Copy-Item -Force .\data\email.html (Join-Path $snapDir 'email.html')
 
-# Preflight: fail fast if gog auth is broken (prevents silent cron failures)
-Write-Host "[dashboard] checking gog auth..."
-powershell -NoProfile -ExecutionPolicy Bypass -File .\gog-auth-preflight.ps1
-
-Write-Host "[dashboard] sending email via gog..."
+Write-Host "[dashboard] sending email via SMTP (Gmail app password)..."
 powershell -NoProfile -ExecutionPolicy Bypass -File .\send-html-email.ps1
 if ($LASTEXITCODE -ne 0) {
   throw "Email send failed (exit code $LASTEXITCODE)"
