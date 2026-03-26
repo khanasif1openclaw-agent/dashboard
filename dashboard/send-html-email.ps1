@@ -15,5 +15,11 @@ if ([string]::IsNullOrWhiteSpace($to)) { $to = 'khanasif1@gmail.com' }
 # swap double-quotes to single-quotes (safe for HTML attributes).
 $bodyHtml = $html -replace "`r`n","" -replace "`n","" -replace '"',''''
 
-gog gmail send --to "$to" --subject "Daily Dashboard" --body "(HTML report)" --body-html "$bodyHtml" --json | Out-Null
-Write-Host "[gog] sent"
+# Some Gmail accounts will reject large/link-heavy HTML bodies as suspicious.
+# Send a safe plain-text email + attach the HTML file instead.
+$today = (Get-Date).ToUniversalTime().ToString('yyyy-MM-dd')
+$subject = "Daily Dashboard - $today"
+$body = "Daily Dashboard for $today\n\nOpen in browser: https://khanasif1openclaw-agent.github.io/dashboard/\n\n(HTML version attached as email.html)"
+
+gog gmail send --to "$to" --subject "$subject" --body "$body" --attach "$htmlPath" --json | Out-Null
+Write-Host "[gog] sent (attached html)"
