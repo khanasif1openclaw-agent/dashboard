@@ -15,14 +15,17 @@ if ([string]::IsNullOrWhiteSpace($to)) { $to = 'khanasif1@gmail.com' }
 # swap double-quotes to single-quotes (safe for HTML attributes).
 $bodyHtml = $html -replace "`r`n","" -replace "`n","" -replace '"',''''
 
-# Send a plain-text summary + attach the generated HTML.
+# Send full HTML email (no link, no attachment).
 # Use --from (send-as alias) so Gmail recognizes the sender properly.
 $today = (Get-Date).ToUniversalTime().ToString('yyyy-MM-dd')
 $subject = "Daily Dashboard - $today"
-$body = "Daily Dashboard for $today\n\nDashboard link: https://khanasif1openclaw-agent.github.io/dashboard/\n\n(HTML attached as email.html)"
 
 $from = [Environment]::GetEnvironmentVariable('DASHBOARD_EMAIL_FROM')
 if ([string]::IsNullOrWhiteSpace($from)) { $from = 'khanasif1openclaw@gmail.com' }
 
-gog gmail send --to "$to" --from "$from" --subject "$subject" --body "$body" --attach "$htmlPath" --json | Out-Null
-Write-Host "[gog] sent (send-as + attachment)"
+# Windows command-line parsing breaks on multiline args; send HTML as one line.
+# Also swap double-quotes to single-quotes to avoid quoting issues.
+$bodyHtml = $html -replace "`r`n","" -replace "`n","" -replace '"',''''
+
+gog gmail send --to "$to" --from "$from" --subject "$subject" --body "Daily Dashboard (HTML)" --body-html "$bodyHtml" --json | Out-Null
+Write-Host "[gog] sent (full html)"
