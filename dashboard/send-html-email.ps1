@@ -15,11 +15,12 @@ if ([string]::IsNullOrWhiteSpace($to)) { $to = 'khanasif1@gmail.com' }
 # swap double-quotes to single-quotes (safe for HTML attributes).
 $bodyHtml = $html -replace "`r`n","" -replace "`n","" -replace '"',''''
 
-# Some Gmail accounts will reject large/link-heavy HTML bodies as suspicious.
-# Send a safe plain-text email + attach the HTML file instead.
+# Gmail is blocking the Dashboard emails (likely due to HTML/link/attachment signals).
+# Send a minimal plain-text email only (no HTML body, no attachments).
 $today = (Get-Date).ToUniversalTime().ToString('yyyy-MM-dd')
 $subject = "Daily Dashboard - $today"
-$body = "Daily Dashboard for $today\n\nOpen in browser: https://khanasif1openclaw-agent.github.io/dashboard/\n\n(HTML version attached as email.html)"
+$body = "Daily Dashboard for $today.\n\nDashboard link: https://khanasif1openclaw-agent.github.io/dashboard/\n"
 
-gog gmail send --to "$to" --subject "$subject" --body "$body" --attach "$htmlPath" --json | Out-Null
-Write-Host "[gog] sent (attached html)"
+# Note: keep it simple; no attachments.
+gog gmail send --to "$to" --subject "$subject" --body "$body" --json | Out-Null
+Write-Host "[gog] sent (plain text)"
