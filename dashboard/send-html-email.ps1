@@ -10,7 +10,10 @@ if ([string]::IsNullOrWhiteSpace($html)) { throw "Dashboard email HTML is empty:
 $to = [Environment]::GetEnvironmentVariable('DASHBOARD_EMAIL_TO')
 if ([string]::IsNullOrWhiteSpace($to)) { $to = 'khanasif1@gmail.com' }
 
-gog gmail send --to "$to" --subject "Daily Dashboard" --body "(HTML report)" --body-html @'
-$html
-'@ --json | Out-Null
+# PowerShell/Windows command-line parsing breaks if an argument contains newlines.
+# Also, embedded double-quotes can confuse quoting. So we make HTML a single line and
+# swap double-quotes to single-quotes (safe for HTML attributes).
+$bodyHtml = $html -replace "`r`n","" -replace "`n","" -replace '"',''''
+
+gog gmail send --to "$to" --subject "Daily Dashboard" --body "(HTML report)" --body-html "$bodyHtml" --json | Out-Null
 Write-Host "[gog] sent"
