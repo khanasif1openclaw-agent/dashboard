@@ -15,12 +15,14 @@ if ([string]::IsNullOrWhiteSpace($to)) { $to = 'khanasif1@gmail.com' }
 # swap double-quotes to single-quotes (safe for HTML attributes).
 $bodyHtml = $html -replace "`r`n","" -replace "`n","" -replace '"',''''
 
-# Gmail is blocking the Dashboard emails (likely due to HTML/link/attachment signals).
-# Send a minimal plain-text email only (no HTML body, no attachments).
+# Send a plain-text summary + attach the generated HTML.
+# Use --from (send-as alias) so Gmail recognizes the sender properly.
 $today = (Get-Date).ToUniversalTime().ToString('yyyy-MM-dd')
 $subject = "Daily Dashboard - $today"
-$body = "Daily Dashboard for $today.\n\nDashboard link: https://khanasif1openclaw-agent.github.io/dashboard/\n"
+$body = "Daily Dashboard for $today\n\nDashboard link: https://khanasif1openclaw-agent.github.io/dashboard/\n\n(HTML attached as email.html)"
 
-# Note: keep it simple; no attachments.
-gog gmail send --to "$to" --subject "$subject" --body "$body" --json | Out-Null
-Write-Host "[gog] sent (plain text)"
+$from = [Environment]::GetEnvironmentVariable('DASHBOARD_EMAIL_FROM')
+if ([string]::IsNullOrWhiteSpace($from)) { $from = 'khanasif1openclaw@gmail.com' }
+
+gog gmail send --to "$to" --from "$from" --subject "$subject" --body "$body" --attach "$htmlPath" --json | Out-Null
+Write-Host "[gog] sent (send-as + attachment)"
