@@ -33,6 +33,10 @@ $html = Get-Content -Raw -Encoding UTF8 -Path $HtmlPath
 $secure = ConvertTo-SecureString $appPass -AsPlainText -Force
 $cred   = New-Object System.Management.Automation.PSCredential($smtpUser, $secure)
 
+# Prefer HTML body (this is what we generated). Fallback to TextBody only if HTML is empty.
+$body = $html
+if ([string]::IsNullOrWhiteSpace($body)) { $body = $TextBody }
+
 Send-MailMessage `
   -SmtpServer 'smtp.gmail.com' `
   -Port 587 `
@@ -41,7 +45,7 @@ Send-MailMessage `
   -From $from `
   -To $to `
   -Subject $Subject `
-  -Body $TextBody `
+  -Body $body `
   -BodyAsHtml
 
 Write-Host "[smtp] sent"
