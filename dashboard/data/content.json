@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T01:36:06.618Z",
+  "generatedAt": "2026-03-26T02:50:05.829Z",
   "sections": {
     "weather": {
       "city": "Sydney",
@@ -16,11 +16,11 @@
       },
       {
         "source": "BBC World",
-        "link": "https://www.bbc.com/news/live/cn8dldl0jx9t",
-        "title": "'No intention of negotiating for now,' says Iranian minister, as US insists war goals almost met",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a12/live/9035ac60-2899-11f1-a9f3-5fa00e83d5f6.jpg",
-        "published": "2026-03-26T01:33:22.000Z",
-        "blurb": "White House Press Secretary Karoline Leavitt earlier said talks between the US and Iran were ongoing, declining to give more details."
+        "link": "https://www.bbc.com/news/live/cre0vl84qy9t",
+        "title": "Trump says Iran 'afraid' to admit to talks as Tehran rejects reports of dialogue - follow live",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/631d/live/7ee5aaf0-28ad-11f1-a79a-77e93010d956.jpg",
+        "published": "2026-03-26T02:13:03.000Z",
+        "blurb": "Iran's foreign minister says they have \"no intention of negotiating for now\", as the White House insists its war goals have almost been met."
       },
       {
         "source": "BBC World",
@@ -61,7 +61,7 @@
         "link": "https://www.abc.net.au/news/justin",
         "title": "Just In",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-03-26T01:29:13.000Z",
+        "published": "2026-03-26T02:45:24.000Z",
         "blurb": "Live breaking news stories from across Australia & around the world."
       },
       {
