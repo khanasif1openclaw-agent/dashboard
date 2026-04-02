@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T02:27:19.756Z",
+  "generatedAt": "2026-04-02T03:51:27.259Z",
   "sections": {
     "weather": {
       "city": "Sydney",
@@ -8,19 +8,19 @@
     "world": [
       {
         "source": "BBC World",
-        "link": "https://www.bbc.com/news/live/c36r5p1l7w3t",
-        "title": "Live updates: Trump says Iran war objectives 'nearing completion' in address to nation",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/315f/live/34509440-2e30-11f1-b297-95b0a0a8331e.jpg",
-        "published": "2026-04-02T02:24:16.000Z",
-        "blurb": "The speech comes amid Trump’s recent criticism of Nato allies, and his threats to leave the military alliance."
+        "link": "https://www.bbc.com/news/live/c4g4ygw0r02t",
+        "title": "Artemis II crew 'safe, secure and in great spirits', Nasa says after spectacular Moon mission launch - watch and follow live",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1fd6/live/376cbcd0-2e3a-11f1-9a31-03c701f02bf6.jpg",
+        "published": "2026-04-02T03:40:13.000Z",
+        "blurb": "The 10-day trip won't see astronauts land on the Moon, but they will circle it - and could travel further from Earth than anyone has ever been before."
       },
       {
         "source": "BBC World",
-        "link": "https://www.bbc.com/news/articles/c79je4vldq5o",
-        "title": "What do Trump's latest comments on leaving Nato mean for the alliance?",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8e7f/live/6b402fe0-2de7-11f1-934f-036468834728.jpg",
-        "published": "2026-04-01T16:31:17.102Z",
-        "blurb": "Trump has criticised Nato members for showing a lack of support for US objectives in Iran."
+        "link": "https://www.bbc.com/news/videos/cwydnrmggnno",
+        "title": "Watch the moment Artemis II blasts into space on historic mission",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7476/live/1e100920-2e1e-11f1-b297-95b0a0a8331e.jpg",
+        "published": "2026-04-01T23:00:39.113Z",
+        "blurb": "After delays and technical issues, the first crewed Moon mission in 50 years finally took off from Florida and is now in Earth's orbit."
       },
       {
         "source": "BBC World",
@@ -45,7 +45,7 @@
         "link": "https://www.abc.net.au/news/justin",
         "title": "Just In",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-04-02T02:21:41.000Z",
+        "published": "2026-04-02T03:32:25.000Z",
         "blurb": "Live breaking news stories from across Australia & around the world."
       },
       {
@@ -53,7 +53,7 @@
         "link": "https://www.abc.net.au/news/politics",
         "title": "Politics",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-04-02T01:56:39.000Z",
+        "published": "2026-04-02T03:16:53.000Z",
         "blurb": "Australian politics, policy analysis, explainers, election coverage and more"
       },
       {
@@ -61,7 +61,7 @@
         "link": "https://www.abc.net.au/news/world",
         "title": "World News",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-04-01T23:36:14.000Z",
+        "published": "2026-04-02T03:13:37.000Z",
         "blurb": "The latest World News headlines, photos, video and audio content from the ABC's trusted network of overseas-based journalists."
       },
       {
