@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T14:52:06.776Z",
+  "generatedAt": "2026-04-25T22:00:11.142Z",
   "sections": {
     "weather": {
       "city": "Sydney",
@@ -8,18 +8,18 @@
     "world": [
       {
         "source": "BBC World",
-        "link": "https://www.bbc.com/news/live/cd7j1g94d1lt",
-        "title": "Iran's foreign minister says he shared Tehran's 'views' on ending war at Islamabad talks - live updates",
-        "image": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png",
-        "published": "2026-04-25T14:32:17.000Z",
-        "blurb": "The White House says envoys Steve Witkoff and Jared Kushner will also head to the Pakistani capital for talks - but Iranian officials tell the BBC that a meeting with the US is not on their agenda."
+        "link": "https://www.bbc.com/news/articles/c4g6nyvl29po",
+        "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8b84/live/6b377100-40e5-11f1-ac78-2112837ce2aa.jpg",
+        "published": "2026-04-25T21:34:12.593Z",
+        "blurb": "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner."
       },
       {
         "source": "BBC World",
         "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo",
         "title": "Armed groups launch co-ordinated attacks across Mali",
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0f56/live/2e2451f0-40b0-11f1-9cb2-cda518707cb6.jpg",
-        "published": "2026-04-25T14:12:44.482Z",
+        "published": "2026-04-25T21:13:49.907Z",
         "blurb": "Witnesses report clashes in the centre and north, in what has been described as the largest jihadist attack in years."
       },
       {
@@ -45,7 +45,7 @@
         "link": "https://www.abc.net.au/news/justin",
         "title": "Just In",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-04-25T14:35:42.000Z",
+        "published": "2026-04-25T21:31:19.000Z",
         "blurb": "Live breaking news stories from across Australia & around the world."
       },
       {
@@ -53,7 +53,7 @@
         "link": "https://www.abc.net.au/news/politics",
         "title": "Politics",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-04-24T19:56:02.000Z",
+        "published": "2026-04-25T21:13:39.000Z",
         "blurb": "Australian politics, policy analysis, explainers, election coverage and more"
       },
       {
@@ -61,7 +61,7 @@
         "link": "https://www.abc.net.au/news/world",
         "title": "World News",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-04-25T14:35:42.000Z",
+        "published": "2026-04-25T19:36:38.000Z",
         "blurb": "The latest World News headlines, photos, video and audio content from the ABC's trusted network of overseas-based journalists."
       },
       {
@@ -87,7 +87,7 @@
         "link": "https://www.theverge.com/archives/full",
         "title": "Archive for April 2026 - Page 1 | The Verge",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2024/10/the_verge_social_share.png",
-        "published": "2026-04-25T00:15:19+00:00",
+        "published": "2026-04-25T13:30:00+00:00",
         "blurb": "The Verge is about technology and how it makes us feel."
       },
       {
@@ -119,7 +119,7 @@
         "link": "https://techcrunch.com/category/startups/",
         "title": "Startups | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "published": "2026-04-24T20:30:00-07:00",
+        "published": "2026-04-25T08:03:00-07:00",
         "blurb": "Read more about tech startup news that breaks down funding, growth, and long-term trajectory of companies across every stage and industry."
       },
       {
@@ -127,7 +127,7 @@
         "link": "https://techcrunch.com/category/venture/",
         "title": "Venture Capital News | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "published": "2026-04-24T16:32:11-07:00",
+        "published": "2026-04-25T07:57:26-07:00",
         "blurb": "Venture capital news and coverage feature all the VCs, VC-backed startups, and investment trends that founders, investors, and students should be tracking."
       },
       {
@@ -135,7 +135,7 @@
         "link": "https://techcrunch.com/tag/apple/",
         "title": "Apple news and analysis | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2022/09/AppleEvent.SEP07Keynote.Tim_Cook.02.jpg?resize=1200,675",
-        "published": "2026-04-24T10:45:57-07:00",
+        "published": "2026-04-25T08:00:00-07:00",
         "blurb": "Read the latest news and analysis about Apple—including its software, hardware, the Vision Pro, and the anticipated introduction of AI—on TechCrunch."
       }
     ],
@@ -209,7 +209,7 @@
         "link": "https://huggingface.co/blog/community",
         "title": "Hugging Face – Community Blogs",
         "image": "https://huggingface.co/front/thumbnails/v2-2.png",
-        "published": "2026-04-25T14:25:16",
+        "published": "2026-04-25T16:32:39",
         "blurb": "We’re on a journey to advance and democratize artificial intelligence through open source and open science."
       },
       {
@@ -224,35 +224,19 @@
     "finance": [
       {
         "source": "Financial Times Markets",
-        "link": "https://www.ft.com/content/199c4082-9c97-4f59-bdb0-8b1f53abb11a",
-        "title": "US stocks race ahead of Europe as Wall Street shrugs off energy shock",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F03b3f37d-08d6-4e97-bc83-973c5bd5fc59.jpg?source=next-barrier-page",
+        "link": "https://www.ft.com/content/c3be45f6-0e2d-4683-bd10-e0ba726ffade",
+        "title": "Trump cancels trip by US negotiators for Iran peace talks",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd7e14bed-d443-4708-9e23-1a9606a744b7.jpg?source=next-barrier-page",
         "published": "",
-        "blurb": "Intel surges above dotcom-era high in latest milestone for tech-powered rebound"
+        "blurb": "President said he was no longer sending Steve Witkoff and Jared Kushner to Pakistan"
       },
       {
         "source": "Financial Times Markets",
-        "link": "https://www.ft.com/content/366c73dd-4006-4ce6-9816-5004447d30b8",
-        "title": "Google to invest up to $40bn in Anthropic",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F98019d75-fb5f-434b-acf7-37bc24d6e44b.jpg?source=next-barrier-page",
+        "link": "https://www.ft.com/content/8830ec25-483e-44ee-ae3d-141bcb8e1f75",
+        "title": "Where is Marco Rubio? ",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6e776ddb-c46f-44dd-b986-f05583e9593f.jpg?source=next-barrier-page",
         "published": "",
-        "blurb": "Search giant increases its financial support to help the AI lab add computing power to run its models"
-      },
-      {
-        "source": "Financial Times Markets",
-        "link": "https://www.ft.com/content/cd09462a-60b7-4868-af9c-f4554fe7794e",
-        "title": "London’s luxury hoteliers lose sleep over fall in Middle East visitors",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6d922f13-170e-4aa8-b4be-e55165ec7ebe.jpg?source=next-barrier-page",
-        "published": "",
-        "blurb": "Expensive rooms go unsold as Iran conflict disrupts Gulf travel and dents demand from big-spending guests"
-      },
-      {
-        "source": "Financial Times Markets",
-        "link": "https://www.ft.com/content/fff7a84f-83bf-45af-9a3d-78e0cf181539",
-        "title": "No edge, no hedge: why markets are stuck",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0fa75f1f-7d76-4e31-90b6-6746535d3d69.jpg?source=next-barrier-page",
-        "published": "",
-        "blurb": "Neither extreme optimism nor extreme pessimism makes much sense, and neither is easy nor safe to express"
+        "blurb": "Donald Trump’s secretary of state and national security adviser has taken a back seat during the Iran war crisis"
       },
       {
         "source": "Financial Times Markets",
@@ -264,11 +248,27 @@
       },
       {
         "source": "Financial Times Markets",
-        "link": "https://www.ft.com/content/c4669693-0c5b-4733-99f7-173f18cfa843",
-        "title": "The golden age of arbitrage has begun",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F38f1e10a-31ff-4150-9671-a4b7db56eaf0.jpg?source=next-barrier-page",
+        "link": "https://www.ft.com/content/199c4082-9c97-4f59-bdb0-8b1f53abb11a",
+        "title": "US stocks race ahead of Europe as Wall Street shrugs off energy shock",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F03b3f37d-08d6-4e97-bc83-973c5bd5fc59.jpg?source=next-barrier-page",
         "published": "",
-        "blurb": "The law of one price is in retreat — with major consequences for profits, inflation and innovation"
+        "blurb": "Intel surges above dotcom-era high in latest milestone for tech-powered rebound"
+      },
+      {
+        "source": "Financial Times Markets",
+        "link": "https://www.ft.com/content/e96bc361-d222-4190-80fe-e357fa86ef4d",
+        "title": "Companies with Mythos access urge joint defence of infrastructure",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6b657758-5012-4155-99ec-376b961a4649.jpg?source=next-barrier-page",
+        "published": "",
+        "blurb": "Cyber security chiefs warn rollout of new tool will need close co-ordination between governments and businesses"
+      },
+      {
+        "source": "Financial Times Markets",
+        "link": "https://www.ft.com/content/366c73dd-4006-4ce6-9816-5004447d30b8",
+        "title": "Google to invest up to $40bn in Anthropic",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F98019d75-fb5f-434b-acf7-37bc24d6e44b.jpg?source=next-barrier-page",
+        "published": "",
+        "blurb": "Search giant increases its financial support to help the AI lab add computing power to run its models"
       },
       {
         "source": "CoinDesk",
@@ -288,19 +288,19 @@
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/tech/2026/04/25/coinbase-s-jesse-pollak-says-ai-agents-are-the-next-big-wave-for-crypto-payments",
-        "title": "Coinbase’s Jesse Pollak says AI agents are the next big wave for crypto payments ",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/ac85e5d9c09d2d2891e91e4bff21c568b741187b-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/tech/2026/04/25/crypto-is-built-for-ai-agents-not-humans-says-alchemy-s-ceo",
+        "title": "Crypto is built for AI agents, not humans, according to Alchemy's CEO",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/bfea78edd09840fea6d4e50d429e4feaed3126b7-5700x3800.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "Pollak, who will be speaking at Consensus Miami 2026 next month, also sees the open-source protocol x402 as a key part of that wave."
+        "blurb": "Alchemy CEO Nikil Viswanathan argues the global financial system was designed for humans, but the next wave of commerce will be driven by AI agents that operate natively in crypto."
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/tech/2026/04/25/clock-is-ticking-for-bitcoin-to-prevent-quantum-threat-as-it-could-drain-6-9-million-btc-including-satoshi-s",
-        "title": "Bitcoin might be at risk from a new quantum math trick that breaks digital ownership",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/1015dde522ef326b0be42591a52370d74f450a3f-6070x4047.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/policy/2026/04/25/trump-defends-crypto-legislation-at-private-event-featuring-boxer-mike-tyson-tether-ceo",
+        "title": "Trump defends crypto legislation at private event featuring boxer Mike Tyson, Tether CEO",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/84a461bc77fdc8be2e55a8cfa0a0aa196e958396-4928x2772.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "Can a network without formal governance coordinate the biggest cryptographic migration in its history?"
+        "blurb": "President Donald Trump, at a Mar-a-Lago gathering of investors in his self-branded memecoin, said crypto is mainstream and banks should back off the industry's bill."
       }
     ]
   }
