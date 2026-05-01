@@ -49,8 +49,8 @@ const SOURCES = {
     url: 'https://www.coindesk.com/',
   },
   ai1: {
-    name: 'OpenAI Blog',
-    url: 'https://openai.com/blog',
+    name: 'OpenAI News',
+    url: 'https://openai.com/news/',
   },
   ai2: {
     name: 'Anthropic',
@@ -253,7 +253,10 @@ async function main() {
       world: await buildSection('world', ['world']),
       australia: await buildSection('australia', ['au']),
       tech: await buildSection('tech', ['tech', 'tech2']),
+      // "ai" remains as-is for the dashboard section.
       ai: await buildSection('ai', ['ai1', 'ai2', 'ai3', 'ai4']),
+      // "ai_top" is the email-requested Top 5 AI news (OpenAI/Anthropic/DeepMind + major media).
+      ai_top: (await buildSection('ai_top', ['ai1', 'ai2', 'ai3', 'tech', 'tech2'], 5)).slice(0, 5),
       finance: await buildSection('finance', ['finance', 'crypto'], 6),
     },
   };

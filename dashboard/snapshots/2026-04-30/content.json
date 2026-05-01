@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T22:00:18.053Z",
+  "generatedAt": "2026-04-30T22:03:43.134Z",
   "sections": {
     "weather": {
       "city": "Sydney",
@@ -8,19 +8,19 @@
     "world": [
       {
         "source": "BBC World",
-        "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o",
-        "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/26ce/live/cba9b850-4594-11f1-b55d-0f258dce1735.jpg",
-        "published": "2026-05-01T21:05:43.173Z",
-        "blurb": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation."
+        "link": "https://www.bbc.com/news/articles/cz72j8eex4eo",
+        "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2031/live/852957f0-44b3-11f1-ac78-2112837ce2aa.jpg",
+        "published": "2026-04-30T16:38:58.434Z",
+        "blurb": "The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021."
       },
       {
         "source": "BBC World",
-        "link": "https://www.bbc.com/news/articles/cpwp50v4ye7o",
-        "title": "Billions of meals at risk due to Iran war, says fertiliser boss ",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/482b/live/452587b0-4525-11f1-bd52-e755d604ece4.jpg",
-        "published": "2026-05-01T13:12:10.836Z",
-        "blurb": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara."
+        "link": "https://www.bbc.com/news/articles/cx21m88rd14o",
+        "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f095/live/e9ca4ae0-442a-11f1-84a0-55946b952877.jpg",
+        "published": "2026-04-30T18:05:26.463Z",
+        "blurb": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran."
       },
       {
         "source": "BBC World",
@@ -45,7 +45,7 @@
         "link": "https://www.abc.net.au/news/justin",
         "title": "Just In",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-05-01T21:55:05.000Z",
+        "published": "2026-04-30T22:00:00.000Z",
         "blurb": "Live breaking news stories from across Australia & around the world."
       },
       {
@@ -53,7 +53,7 @@
         "link": "https://www.abc.net.au/news/politics",
         "title": "Politics",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-05-01T21:56:03.000Z",
+        "published": "2026-04-30T21:10:04.000Z",
         "blurb": "Australian politics, policy analysis, explainers, election coverage and more"
       },
       {
@@ -61,7 +61,7 @@
         "link": "https://www.abc.net.au/news/world",
         "title": "World News",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-05-01T21:55:05.000Z",
+        "published": "2026-04-30T19:02:36.000Z",
         "blurb": "The latest World News headlines, photos, video and audio content from the ABC's trusted network of overseas-based journalists."
       },
       {
@@ -85,33 +85,41 @@
       {
         "source": "The Verge",
         "link": "https://www.theverge.com/archives/full",
-        "title": "Archive for May 2026 - Page 1 | The Verge",
+        "title": "Archive for April 2026 - Page 1 | The Verge",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2024/10/the_verge_social_share.png",
-        "published": "2026-05-01T11:18:54+00:00",
+        "published": "2026-04-30T21:47:27+00:00",
         "blurb": "The Verge is about technology and how it makes us feel."
       },
       {
         "source": "The Verge",
-        "link": "https://www.theverge.com/tech/921159/smart-glasses-review-wearable-even-realities-g2-meta-ray-ban-rokid-lucyd-oakley-meta-vanguard",
-        "title": "All these smart glasses and nothing to do",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268494_smart_glasses_overview_AKrales_0381.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "published": "2026-04-30T15:00:00+00:00",
-        "blurb": "Smart glasses need a better story for why they belong on your face all day."
+        "link": "https://www.theverge.com/tech/920183/motorola-razr-ultra-2026-wood-finish-alcantara-price",
+        "title": "The new Razr Ultra is still the best-looking phone out there",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/DSC03413_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+        "published": "2026-04-29T16:00:00+00:00",
+        "blurb": "As handsome as ever."
       },
       {
         "source": "The Verge",
-        "link": "https://www.theverge.com/tech/921178/blaze-entertainment-retro-games-commodore-64-zx-spectrum-handhelds",
-        "title": "The Commodore 64 and ZX Spectrum have been turned into retrofuturistic handhelds",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/c64handheld_93a43d.jpg?quality=90&strip=all&crop=0%2C10.743882715538%2C100%2C78.512234568924&w=1200",
-        "published": "2026-04-30T13:45:46+00:00",
-        "blurb": "The Spectrum and The C64 clamshell handhelds each come bundled with 25 unique retro games."
+        "link": "https://www.theverge.com/gadgets/920547/dji-osmo-pocket-4-review",
+        "title": "DJI’s Osmo Pocket 4 is a better camera in every respect",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/dji-osmo-pocket-4-review-1.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+        "published": "2026-04-30T11:00:00+00:00",
+        "blurb": "A lot of small changes add up to a big improvement"
+      },
+      {
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/events/strictlyvc-san-francisco-2026/?utm_source=tc&utm_medium=ad&utm_campaign=svcsf2026&utm_content=ticketsales&promo=topbanner&display=",
+        "title": "StrictlyVC San Francisco 2026 - Overview",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/StrictlyVC-San-Francisco-2026-featured-lockup-whiteback.png?resize=1200,900",
+        "published": "2026-04-30",
+        "blurb": "The first StrictlyVC of 2026 is happening on April 30 in San Francisco for more VC startup talks and quality networking."
       },
       {
         "source": "TechCrunch",
         "link": "https://techcrunch.com/category/startups/",
         "title": "Startups | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "published": "2026-05-01T10:44:29-07:00",
+        "published": "2026-04-30T13:14:47-07:00",
         "blurb": "Read more about tech startup news that breaks down funding, growth, and long-term trajectory of companies across every stage and industry."
       },
       {
@@ -119,7 +127,7 @@
         "link": "https://techcrunch.com/category/venture/",
         "title": "Venture Capital News | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "published": "2026-05-01T11:23:04-07:00",
+        "published": "2026-04-30T08:29:49-07:00",
         "blurb": "Venture capital news and coverage feature all the VCs, VC-backed startups, and investment trends that founders, investors, and students should be tracking."
       },
       {
@@ -127,16 +135,8 @@
         "link": "https://techcrunch.com/tag/apple/",
         "title": "Apple news and analysis | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2022/09/AppleEvent.SEP07Keynote.Tim_Cook.02.jpg?resize=1200,675",
-        "published": "2026-04-30T16:59:15-07:00",
+        "published": "2026-04-29T07:06:58-07:00",
         "blurb": "Read the latest news and analysis about Apple—including its software, hardware, the Vision Pro, and the anticipated introduction of AI—on TechCrunch."
-      },
-      {
-        "source": "TechCrunch",
-        "link": "https://techcrunch.com/category/security/",
-        "title": "Security News | TechCrunch",
-        "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "published": "2026-05-01T08:00:14-07:00",
-        "blurb": "Read the latest news and investigative reporting on security today, including cybersecurity, breaches, hacks and cyberattacks around the globe."
       }
     ],
     "ai": [
@@ -223,94 +223,94 @@
     ],
     "ai_top": [
       {
-        "source": "Anthropic",
-        "link": "https://www.anthropic.com/news/claude-opus-4-7",
-        "title": "Introducing Claude Opus 4.7",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/96ea2509a90e527642c822303e56296a07bcfce4-1920x1080.png",
-        "published": "",
-        "blurb": "Our latest model, Claude Opus 4.7, is now generally available."
+        "source": "OpenAI News",
+        "link": "https://openai.com/research/index/",
+        "title": "OpenAI Research",
+        "image": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+        "published": "2026-04-29T20:00",
+        "blurb": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems."
       },
       {
-        "source": "Anthropic",
-        "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-        "title": "Introducing Claude Design by Anthropic Labs",
-        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&backgroundColor=cactus",
-        "published": "",
-        "blurb": "Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more."
+        "source": "OpenAI News",
+        "link": "https://openai.com/news/company-announcements/",
+        "title": "OpenAI Newsroom | Recent news",
+        "image": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+        "published": "2026-04-23T11:00",
+        "blurb": "Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity."
       },
       {
-        "source": "Anthropic",
-        "link": "https://www.anthropic.com/news/claude-is-a-space-to-think",
-        "title": "Claude is a space to think | Anthropic",
-        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20House&backgroundColor=cactus",
-        "published": "",
-        "blurb": "We’ve made a choice: Claude will remain ad-free."
+        "source": "OpenAI News",
+        "link": "https://openai.com/news/research/",
+        "title": "OpenAI Newsroom | Research",
+        "image": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+        "published": "2026-04-29T20:00",
+        "blurb": "Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity."
       },
       {
-        "source": "Anthropic",
-        "link": "https://www.anthropic.com/news/claude-for-creative-work",
-        "title": "Claude for Creative Work",
-        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeArrow&backgroundColor=cactus",
-        "published": "",
-        "blurb": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+        "source": "OpenAI News",
+        "link": "https://openai.com/news/product-releases/",
+        "title": "OpenAI Newsroom | Product",
+        "image": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+        "published": "2026-04-30T00:00",
+        "blurb": "Switch cards to show MediaSwitch cards to hide MediaIntroducing Advanced Account SecurityProductApr 30, 2026OpenAI models, Codex, and Managed Agents come to AWSProductApr."
       },
       {
-        "source": "Anthropic",
-        "link": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
-        "title": "Anthropic Sydney office ",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-        "published": "",
-        "blurb": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+        "source": "OpenAI News",
+        "link": "https://openai.com/news/safety-alignment/",
+        "title": "OpenAI Newsroom | Safety",
+        "image": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+        "published": "2026-04-28T00:00",
+        "blurb": "Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity."
       }
     ],
     "finance": [
       {
         "source": "Financial Times Markets",
-        "link": "https://www.ft.com/content/105062fa-b38b-455b-babf-0692abf6f062",
-        "title": "Trump adrift: the president’s second term is at risk of foundering",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff82379de-bfc2-4002-b0e5-b44d384d013d.jpg?source=next-barrier-page",
+        "link": "https://www.ft.com/content/ce575380-eccc-447c-a64e-493957d9b037",
+        "title": "Oil falls back after surging to $126 on supply fears",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbc2661fa-c427-4071-ba04-c7f6a202525b.png?source=next-barrier-page",
         "published": "",
-        "blurb": "There are signs that voters are losing faith as problems mount for his administration ahead of midterm elections"
+        "blurb": "Brent crude hit new conflict high as blockade of Strait of Hormuz continues before dropping in wildly volatile trading"
       },
       {
         "source": "Financial Times Markets",
-        "link": "https://www.ft.com/content/26d64f97-8773-42d4-aaa4-35ff67e1e3c5",
-        "title": "Donald Trump says he will raise tariff on EU vehicles to 25% ",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F47676688-e9f5-4b6d-9a53-4a32bcc159b8.jpg?source=next-barrier-page",
+        "link": "https://www.ft.com/content/d4446093-f132-44a6-9b0e-96d6eedc583c",
+        "title": "The problematic inevitability of Andy Burnham",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F797add69-8d5c-43c0-a4ce-40399db6cd53.jpg?source=next-barrier-page",
         "published": "",
-        "blurb": "Levies on cars and trucks exported to US will be imposed ‘next week’ unless companies manufacture at American plants"
+        "blurb": "Labour’s assumptions about its leader-in-waiting are logical but no guarantee of success"
       },
       {
         "source": "Financial Times Markets",
-        "link": "https://www.ft.com/content/6247449b-5a73-47a8-8cd4-c8ef295e6776",
-        "title": "Israel rushed laser system to UAE to fend off Iran’s missiles",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa262a6c9-17dc-4452-8bc3-c63d81af221c.jpg?source=next-barrier-page",
+        "link": "https://www.ft.com/content/9b9e68bb-88bc-4079-ab42-d6f19b3227f9",
+        "title": "How Russia lost its way in the Sahara",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2965ce94-69d1-4bb0-9c9b-873ee202b127.jpg?source=next-barrier-page",
         "published": "",
-        "blurb": "Deployment of equipment is one of the first examples of major defence co-operation between the two states"
+        "blurb": "Losses to Malian militants by Wagner Group’s successor call into question future of Moscow’s military adventurism in Africa"
       },
       {
         "source": "Financial Times Markets",
-        "link": "https://www.ft.com/content/2cacd3c4-b78e-48dd-88ee-ee91bcfcb9df",
-        "title": "My latest portfolio revealed",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdd7c315d-f8a3-43b9-950a-b51842a9bc54.jpg?source=next-barrier-page",
+        "link": "https://www.ft.com/content/3e5c354d-1310-4b9e-916f-0f7d041b4775",
+        "title": "UK’s Wycombe Abbey school forced to close China campus",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa7cbf8a2-e3db-4cdd-bb7a-fcfca84126b5.jpg?source=next-barrier-page",
         "published": "",
-        "blurb": "Now the Bank of England has called the top, I’ve never been so bullish about stocks"
+        "blurb": "Shutdown marks setback for international education groups looking to expand in China"
       },
       {
         "source": "Financial Times Markets",
-        "link": "https://www.ft.com/content/b26ba4ce-4324-4ea9-926d-caf036f20832",
-        "title": "Oil market one month from crunch point as global stockpiles dwindle",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F366fc335-4056-4334-a0b3-5a643348a0b9.jpg?source=next-barrier-page",
+        "link": "https://www.ft.com/content/f2754c96-d837-4113-9cb3-e94e02c318b9",
+        "title": "Lazard to buy private capital advisory group Campbell Lutyens in $575mn deal",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff72577a2-4c34-487d-a474-ee5bd02b7bdd.jpg?source=next-barrier-page",
         "published": "",
-        "blurb": "Traders warn of further jump in prices and ‘huge pain’ as economies cut consumption"
+        "blurb": "Acquisition comes as private capital groups push into increasingly complicated transactions requiring advisory"
       },
       {
         "source": "Financial Times Markets",
-        "link": "https://www.ft.com/content/2a028e5e-1108-42b0-9733-43a8523d3226",
-        "title": "Exxon and Chevron defy Trump pressure to boost oil production",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd4602353-5044-4249-b390-c35f52d1c389.jpg?source=next-barrier-page",
+        "link": "https://www.ft.com/content/e45c2c21-babe-4fd9-85f1-2b2b3aa38872",
+        "title": "How Citi’s $52mn hire was forced out of JPMorgan over his behaviour",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7d0fe56b-5e98-4cfb-b82f-ae0a10abdea5.jpg?source=next-barrier-page",
         "published": "",
-        "blurb": "US supermajors stick to prewar strategies despite White House plea for more drilling to curb soaring petrol prices"
+        "blurb": "After years of complaints, Vis Raghavan had been told he was out of a job."
       },
       {
         "source": "CoinDesk",
@@ -330,19 +330,19 @@
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield",
-        "title": "Clarity Act text lets crypto firms offer stablecoin rewards while shielding bank yield",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/2f93526f6b1d3f1b790b8c45bd17a412b28f6121-7455x4972.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/markets/2026/04/30/from-cathie-wood-to-cantor-fitzgerald-the-big-money-is-betting-that-robinhood-s-crypto-slump-is-just-a-temporary-speed-bump",
+        "title": "From Cathie Wood to Cantor Fitzgerald, the big money is betting that Robinhood’s (HOOD) crypto slump is just a temporary speed bump",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/04dcac29907c5f042fa5216cd5e76b91a57d6d03-1440x810.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "The text released Friday blocks crypto firms from offering stablecoin yield offerings that look like bank deposits, but \"bona fide\" transactions are allowed."
+        "blurb": "Cathie Wood’s Ark Invest snapped up over 500,000 shares of Robinhood on Wednesday, joining a wave of analysts who believe a surge in April trading activity will outweigh a recent earnings disappointment."
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/markets/2026/05/01/bitcoin-miner-riot-s-shares-jump-8-after-expanding-amd-data-center-deal-signaling-ai-pivot",
-        "title": "Riot's stock rises after AMD boosts data center capacity to a potential 150 megawatts power",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/555258f99747bbaa4a55c12b1558ddd510986331-1000x667.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/policy/2026/04/30/senator-warren-questions-commerce-secretary-lutnick-on-tether-loan-to-family",
+        "title": "Senator Warren questions Commerce Secretary Lutnick on Tether loan to family ",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/0d4750d3f8f3c81400ccc4e2d27b12458bbf99db-4928x2772.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "AMD’s expansion and improved financing terms highlight Riot’s shift beyond bitcoin mining and strengthen confidence in its growing data center business."
+        "blurb": "Senators Elizabeth Warren and Ron Wyden sent letters to Howard Lutnick and Tether CEO Paulo Ardoino asking about a loan Tether reportedly made to Lutnick's family."
       }
     ]
   }

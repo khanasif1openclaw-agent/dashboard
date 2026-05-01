@@ -102,6 +102,7 @@ const html = `<!doctype html>
                 ${sectionBlock('World', data.sections.world)}
                 ${sectionBlock('Australia', data.sections.australia)}
                 ${sectionBlock('Technology', data.sections.tech)}
+                ${sectionBlock('Top 5 AI News', data.sections.ai_top, 5)}
                 ${sectionBlock('AI', data.sections.ai)}
                 ${sectionBlock('Markets', data.sections.finance)}
               </td>

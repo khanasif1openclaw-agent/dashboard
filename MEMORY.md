@@ -10,4 +10,5 @@
 - Send a **daily email report at 10:00 AM AEDT (Australia/Sydney)** with:
   - current board status
   - tasks due today (only those with an explicit due date matching today)
+  - **top 5 AI news items** (headline + source link)
 - For all future “send an email” actions: use **gog** to email **khanasif1@gmail.com** by default (unless user overrides).

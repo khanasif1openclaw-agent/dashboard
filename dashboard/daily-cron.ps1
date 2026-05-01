@@ -19,10 +19,15 @@ Copy-Item -Force .\data\content.json (Join-Path $snapDir 'content.json')
 Copy-Item -Force .\index.html (Join-Path $snapDir 'index.html')
 Copy-Item -Force .\data\email.html (Join-Path $snapDir 'email.html')
 
-Write-Host "[dashboard] sending email via SMTP (Gmail app password)..."
+Write-Host "[dashboard] sending email via gog (Gmail API)..."
 powershell -NoProfile -ExecutionPolicy Bypass -File .\send-html-email.ps1
 if ($LASTEXITCODE -ne 0) {
-  throw "Email send failed (exit code $LASTEXITCODE)"
+  Write-Warning "[dashboard] gog send failed (exit code $LASTEXITCODE). Falling back to SMTP..."
+  $subject = "Daily Dashboard - $today"
+  powershell -NoProfile -ExecutionPolicy Bypass -File .\send-email-smtp.ps1 -Subject $subject -HtmlPath .\data\email.html
+  if ($LASTEXITCODE -ne 0) {
+    throw "Email send failed (exit code $LASTEXITCODE)"
+  }
 }
 
 Write-Host "[dashboard] committing + pushing to GitHub..."
