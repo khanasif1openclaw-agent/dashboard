@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T14:55:04.388Z",
+  "generatedAt": "2026-05-05T22:02:23.717Z",
   "sections": {
     "weather": {
       "city": "Sydney",
@@ -9,17 +9,17 @@
       {
         "source": "BBC World",
         "link": "https://www.bbc.com/news/live/c1wz2ld4535t",
-        "title": "Hegseth says the US-Iran ceasefire is 'not over' despite attacks in Strait of Hormuz",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9dd9/live/71303560-487e-11f1-bd52-e755d604ece4.jpg",
-        "published": "2026-05-05T14:48:25.000Z",
-        "blurb": "The US defence secretary says Iran is attempting \"international extortion\" in the strait."
+        "title": "US Secretary of State Marco Rubio says offensive stage of Iran war is 'over'",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9460/live/878cc8a0-48bf-11f1-b55d-0f258dce1735.jpg",
+        "published": "2026-05-05T21:55:30.087Z",
+        "blurb": "The UK maritime authority meanwhile reports a cargo vessel being struck \"by an unknown projectile\" in the Strait of Hormuz."
       },
       {
         "source": "BBC World",
         "link": "https://www.bbc.com/news/articles/cm2p186gyp2o",
         "title": "Hantavirus may have spread between passengers on cruise ship, WHO says",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c781/live/8a6a8310-4891-11f1-9c3f-fddcc2cc89aa.jpg",
-        "published": "2026-05-05T14:13:22.327Z",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6224/live/70793b40-489b-11f1-ac78-2112837ce2aa.jpg",
+        "published": "2026-05-05T16:38:50.495Z",
         "blurb": "Two cases of the virus, which rarely spreads between humans, have been confirmed on the ship, and three people have died."
       },
       {
@@ -45,7 +45,7 @@
         "link": "https://www.abc.net.au/news/justin",
         "title": "Just In",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-05-05T14:21:20.000Z",
+        "published": "2026-05-05T21:51:20.000Z",
         "blurb": "Live breaking news stories from across Australia & around the world."
       },
       {
@@ -53,7 +53,7 @@
         "link": "https://www.abc.net.au/news/politics",
         "title": "Politics",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-05-05T11:59:06.000Z",
+        "published": "2026-05-05T21:53:17.000Z",
         "blurb": "Australian politics, policy analysis, explainers, election coverage and more"
       },
       {
@@ -61,7 +61,7 @@
         "link": "https://www.abc.net.au/news/world",
         "title": "World News",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-05-05T14:21:20.000Z",
+        "published": "2026-05-05T21:51:20.000Z",
         "blurb": "The latest World News headlines, photos, video and audio content from the ABC's trusted network of overseas-based journalists."
       },
       {
@@ -92,19 +92,19 @@
       },
       {
         "source": "The Verge",
-        "link": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
-        "title": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Vrg_illo_squirrel_influencer.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "published": "2026-05-03T13:00:00+00:00",
-        "blurb": "It’s a nutty story."
+        "link": "https://www.theverge.com/news/923884/microsoft-hide-msn-feed-windows-widgets",
+        "title": "Microsoft is finally ditching the junk MSN feed in Windows widgets",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22679283/windows11stock.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "published": "2026-05-05T09:46:52+00:00",
+        "blurb": "It’s part of an effort to fix Windows 11"
       },
       {
         "source": "The Verge",
-        "link": "https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on",
-        "title": "These reusable digital Polaroids are a clever way to cover a fridge in memories",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/eink_snap_magnet1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-        "published": "2026-05-03T13:00:00+00:00",
-        "blurb": "Your phone’s NFC chip wirelessly powers and uploads photos to these E Ink fridge magnets."
+        "link": "https://www.theverge.com/tech/923686/bose-lifestyle-collection-first-listen",
+        "title": "Bose debuts a new home audio collection",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268507_Bose_Lifestyle_Collection_JHiggins_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "published": "2026-05-05T12:00:00+00:00",
+        "blurb": "The small Ultra speaker in particular is impressive."
       },
       {
         "source": "TechCrunch",
@@ -119,7 +119,7 @@
         "link": "https://techcrunch.com/events/techcrunch-disrupt/?utm_source=tc&utm_medium=ad&utm_campaign=disrupt2026&utm_content=bogo&promo=disrupttimer_ebbogo&display=",
         "title": "TechCrunch Disrupt 2026 - Overview",
         "image": "https://techcrunch.com/wp-content/uploads/2025/10/TC26_Disrupt_General_Article_Headers_1920x1080.png?resize=1200,675",
-        "published": "2026-05-04T07:00:00-07:00",
+        "published": "2026-05-05T07:00:00-07:00",
         "blurb": "TechCrunch Disrupt 2026 is the startup epicenter for tech and VC leaders."
       },
       {
@@ -135,7 +135,7 @@
         "link": "https://techcrunch.com/category/venture/",
         "title": "Venture Capital News | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "published": "2026-05-05T07:20:50-07:00",
+        "published": "2026-05-05T14:15:56-07:00",
         "blurb": "Venture capital news and coverage feature all the VCs, VC-backed startups, and investment trends that founders, investors, and students should be tracking."
       }
     ],
@@ -145,7 +145,7 @@
         "link": "https://openai.com/research/index/",
         "title": "OpenAI Research",
         "image": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
-        "published": "2026-04-29T20:00",
+        "published": "2026-05-05T10:00",
         "blurb": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems."
       },
       {
@@ -161,7 +161,7 @@
         "link": "https://openai.com/news/research/",
         "title": "OpenAI Newsroom | Research",
         "image": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
-        "published": "2026-04-29T20:00",
+        "published": "2026-05-05T10:00",
         "blurb": "Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity."
       },
       {
@@ -169,8 +169,8 @@
         "link": "https://openai.com/news/product-releases/",
         "title": "OpenAI Newsroom | Product",
         "image": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
-        "published": "2026-04-30T00:00",
-        "blurb": "Switch cards to show MediaSwitch cards to hide MediaIntroducing Advanced Account SecurityProductApr 30, 2026OpenAI models, Codex, and Managed Agents come to AWSProductApr."
+        "published": "2026-05-05T10:00",
+        "blurb": "Switch cards to show MediaSwitch cards to hide MediaGPT-5.5 Instant: smarter, clearer, and more personalizedProductMay 5, 2026New ways to buy ChatGPT adsProductMay."
       },
       {
         "source": "Anthropic",
@@ -198,11 +198,11 @@
       },
       {
         "source": "Anthropic",
-        "link": "https://www.anthropic.com/news/enterprise-ai-services-company",
-        "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs ",
-        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&backgroundColor=cactus",
+        "link": "https://www.anthropic.com/news/finance-agents",
+        "title": "Agents for financial services and insurance",
+        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node-GraphChart&backgroundColor=clay",
         "published": "",
-        "blurb": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+        "blurb": "We're releasing ten new Cowork and Claude Code plugins, integrations with the Microsoft 365 suite, new connectors, and an MCP app for financial services and insurance organizations."
       },
       {
         "source": "Google DeepMind",
@@ -248,101 +248,69 @@
       },
       {
         "source": "Anthropic",
-        "link": "https://www.anthropic.com/news/enterprise-ai-services-company",
-        "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs ",
-        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&backgroundColor=cactus",
+        "link": "https://www.anthropic.com/news/finance-agents",
+        "title": "Agents for financial services and insurance",
+        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node-GraphChart&backgroundColor=clay",
         "published": "",
-        "blurb": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+        "blurb": "We're releasing ten new Cowork and Claude Code plugins, integrations with the Microsoft 365 suite, new connectors, and an MCP app for financial services and insurance organizations."
       },
       {
         "source": "Anthropic",
-        "link": "https://www.anthropic.com/news/claude-for-creative-work",
-        "title": "Claude for Creative Work",
-        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeArrow&backgroundColor=cactus",
+        "link": "https://www.anthropic.com/news/enterprise-ai-services-company",
+        "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs ",
+        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&backgroundColor=cactus",
         "published": "",
         "blurb": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
       }
     ],
     "finance": [
       {
-        "source": "Financial Times Markets",
-        "link": "https://www.ft.com/content/2dd4b92c-4764-4bc5-a3a6-1418e0ccec58",
-        "title": "How Germany’s Merz torpedoed his plan to contain Trump",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F899b93f0-8ea0-4148-a43e-41fa8739f6ce.jpg?source=next-barrier-page",
+        "source": "CoinDesk",
+        "link": "https://www.coindesk.com/videos/featured-videos",
+        "title": "Featured Videos | Video Playlist | CoinDesk",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/4fc82af41ef1603634aef19e553d6c1d453fca6b-2400x1260.png",
         "published": "",
-        "blurb": "Swipe at US president appears to wipe out year-long effort to establish rapport"
-      },
-      {
-        "source": "Financial Times Markets",
-        "link": "https://www.ft.com/content/85f851c6-3cc2-44ee-b527-5a1136f851e7",
-        "title": "Rachel Reeves clashed with Scott Bessent over Iran war criticism",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F802aa056-2e0d-4bd8-9068-a247be19fc90.jpg?source=next-barrier-page",
-        "published": "",
-        "blurb": "Dispute between UK chancellor and US Treasury secretary underscores allies’ diverging stances on the conflict"
-      },
-      {
-        "source": "Financial Times Markets",
-        "link": "https://www.ft.com/content/5c24fa13-ae43-4d5a-9b68-b6ebae227dce",
-        "title": "OpenAI president defends motives in for-profit restructuring as he reveals $30bn stake",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbc7753f5-b10e-43f7-81dd-ba303614cbca.jpg?source=next-barrier-page",
-        "published": "",
-        "blurb": "Lawsuit brought by Elon Musk accuses start-up’s executives of selling out charitable mission for personal gain"
-      },
-      {
-        "source": "Financial Times Markets",
-        "link": "https://www.ft.com/content/fe70c89e-b5d7-4f89-8eb4-83afbe721d7c",
-        "title": "Vladimir Putin hunkers down for fear of assassination",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F58ea133c-bc78-4580-a9d1-f466a06b03f4.jpg?source=next-barrier-page",
-        "published": "",
-        "blurb": "Security around Russia’s president tightens after audacious drone attacks from Ukraine"
-      },
-      {
-        "source": "Financial Times Markets",
-        "link": "https://www.ft.com/content/755ebf5e-566a-4209-811e-f277a456fa6f",
-        "title": "UK long-term borrowing costs hit highest level since 1998 ",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcd34ec12-3427-407c-8bab-d8386136bd55.jpg?source=next-barrier-page",
-        "published": "",
-        "blurb": "Yields on 30-year gilts hit 28-year high on expectations BoE will raise rates two or three times to counter inflation threat"
-      },
-      {
-        "source": "Financial Times Markets",
-        "link": "https://www.ft.com/content/97739005-6dc5-4002-a82c-9cd91540d9fc",
-        "title": "World Cup fans cry foul over ‘unprecedented’ US transport costs  ",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F29058cb3-4f68-4c9b-b449-c0bfbc9a3cb6.jpg?source=next-barrier-page",
-        "published": "",
-        "blurb": "New Jersey to charge $150 for round trip to MetLife stadium, up from usual fare of $12.90"
+        "blurb": "| Video"
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/business/2026/05/05/coinbase-taps-centrifuge-as-preferred-tokenization-backbone-takes-equity-stake",
-        "title": "Coinbase taps Centrifuge as preferred tokenization backbone, takes equity stake",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/868ae20c7c05b3aab1825f55f45b74a9484fd851-1920x1280.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/videos",
+        "title": "Latest Crypto Video News | CoinDesk",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/a9e571d91c27d283acfdff8aa702c331a4583647-2400x1260.jpg?auto=format",
         "published": "",
-        "blurb": "The partnership includes a strategic investment by Coinbase and is focused on expanding tokenized ETFs, credit, and structured products."
+        "blurb": "Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates."
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/business/2026/05/05/crypto-com-s-high-rolling-head-of-marketing-taps-out-after-almost-six-years",
-        "title": "  Crypto.com’s high-rolling head of marketing to leave after almost six years",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/45a029fb806c92e2b7e72ebe840b8dc1bdb0e161-2000x1334.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/business/2026/05/05/different-voices-in-product-policy-and-hiring-change-crypto-outcomes-panelists-tell-consensus-miami",
+        "title": "Different voices in product, policy and hiring change crypto outcomes, panelists tell Consensus Miami",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/bc7bf54d188347506acb65c090676e9c35a4f221-3024x1964.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "Steven Kalifowitz will be moving on from his role as CMO, effective June 30, and will then continue on as advisor to the CEO."
+        "blurb": "Senior leaders from Mastercard, the Crypto Council for Innovation and Clerisy said the right people in the right rooms can reshape internal decisions, citing examples from stablecoin-linked cards and financial access to staking-policy framing in Washington."
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/business/2026/05/05/consensus-miami-day-1-sights-and-sounds",
-        "title": "Consensus Miami Day 1: Sights and sounds ",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/fab94cb47f1c8e344441aeee6c137667707a42fc-3323x1867.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "published": "2026-05-05T14:39:40.510Z",
-        "blurb": "Consensus Miami 2026 launched on Tuesday."
+        "link": "https://www.coindesk.com/tech/2026/05/05/ai-agents-are-breaking-web-economics-but-cloudflare-says-x402-can-help",
+        "title": "AI agents are breaking web economics, but Cloudflare says x402 can help",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/50dccf242dd353d88baa4f9fbd906c8477ab4aa4-2048x1365.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "published": "",
+        "blurb": "The company’s Chief Strategy Officer said that more than half of internet traffic is now non-human, but that the x402 Foundation is building the rails for a \"golden age of content.\""
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/coindesk-indices/2026/05/05/coindesk-20-performance-update-index-jumps-1-3-as-all-constituents-trade-higher",
-        "title": "CoinDesk 20 performance update: index jumps 1.3% as all constituents trade higher",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/5b2fb686df0116fb8f4bf12bbe150747abaab814-640x480.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/business/2026/05/05/kraken-eyes-ipo-as-it-partners-with-moneygram-to-bridge-crypto-to-cash-gap",
+        "title": "Kraken eyes IPO as it partners with MoneyGram to bridge crypto-to-cash gap",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/c6a8d9e5fa0a7902d01bc64094e514fa9a1ac32b-2048x1152.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "Internet Computer (ICP) rose 5.2% and Chainlink (LINK) gained 4% since Monday."
+        "blurb": "Payward and Kraken co-CEO Arjun Sethi says the exchange is “80% ready” to go public, as a new partnership with MoneyGram aims to expand access to digital assets by solving last-mile cash conversion."
+      },
+      {
+        "source": "CoinDesk",
+        "link": "https://www.coindesk.com/business/2026/05/05/state-street-says-institutions-want-improved-blockchain-security-in-wake-of-recent-defi-attacks",
+        "title": " State Street says institutions want improved blockchain security in wake of recent DeFi attacks",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/f67037cc957fc691fa7520390e1c361bff782113-2048x1152.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "published": "",
+        "blurb": "Angus Fletcher, State Street’s head of digital assets said the young crypto industry needs to find solutions now before trillions in RWAs come on-chain."
       }
     ]
   }
