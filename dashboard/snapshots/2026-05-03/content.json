@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T14:55:04.388Z",
+  "generatedAt": "2026-05-03T22:00:14.313Z",
   "sections": {
     "weather": {
       "city": "Sydney",
@@ -8,19 +8,19 @@
     "world": [
       {
         "source": "BBC World",
-        "link": "https://www.bbc.com/news/live/c1wz2ld4535t",
-        "title": "Hegseth says the US-Iran ceasefire is 'not over' despite attacks in Strait of Hormuz",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9dd9/live/71303560-487e-11f1-bd52-e755d604ece4.jpg",
-        "published": "2026-05-05T14:48:25.000Z",
-        "blurb": "The US defence secretary says Iran is attempting \"international extortion\" in the strait."
+        "link": "https://www.bbc.com/news/articles/cn0px2x53k2o",
+        "title": "Iran says US has responded to its latest peace proposal ",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0168/live/a60aab20-470d-11f1-8bd0-c9ca96b627c7.jpg",
+        "published": "2026-05-03T21:28:09.265Z",
+        "blurb": "The US is yet to formally confirm it has responded."
       },
       {
         "source": "BBC World",
-        "link": "https://www.bbc.com/news/articles/cm2p186gyp2o",
-        "title": "Hantavirus may have spread between passengers on cruise ship, WHO says",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c781/live/8a6a8310-4891-11f1-9c3f-fddcc2cc89aa.jpg",
-        "published": "2026-05-05T14:13:22.327Z",
-        "blurb": "Two cases of the virus, which rarely spreads between humans, have been confirmed on the ship, and three people have died."
+        "link": "https://www.bbc.com/news/articles/cgjp7vpee03o",
+        "title": "The Iran war has strengthened Ukraine. Could a ceasefire with Russia be closer?",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e40e/live/8c9eb970-4626-11f1-ac78-2112837ce2aa.jpg",
+        "published": "2026-05-02T23:19:27.237Z",
+        "blurb": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous."
       },
       {
         "source": "BBC World",
@@ -45,7 +45,7 @@
         "link": "https://www.abc.net.au/news/justin",
         "title": "Just In",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-05-05T14:21:20.000Z",
+        "published": "2026-05-03T21:31:28.000Z",
         "blurb": "Live breaking news stories from across Australia & around the world."
       },
       {
@@ -53,7 +53,7 @@
         "link": "https://www.abc.net.au/news/politics",
         "title": "Politics",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-05-05T11:59:06.000Z",
+        "published": "2026-05-03T21:31:28.000Z",
         "blurb": "Australian politics, policy analysis, explainers, election coverage and more"
       },
       {
@@ -61,7 +61,7 @@
         "link": "https://www.abc.net.au/news/world",
         "title": "World News",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-05-05T14:21:20.000Z",
+        "published": "2026-05-03T21:25:01.000Z",
         "blurb": "The latest World News headlines, photos, video and audio content from the ABC's trusted network of overseas-based journalists."
       },
       {
@@ -87,47 +87,31 @@
         "link": "https://www.theverge.com/archives/full",
         "title": "Archive for May 2026 - Page 1 | The Verge",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2024/10/the_verge_social_share.png",
-        "published": "2026-05-05T14:06:27+00:00",
+        "published": "2026-05-03T19:54:43+00:00",
         "blurb": "The Verge is about technology and how it makes us feel."
       },
       {
         "source": "The Verge",
-        "link": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
-        "title": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Vrg_illo_squirrel_influencer.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "published": "2026-05-03T13:00:00+00:00",
-        "blurb": "It’s a nutty story."
+        "link": "https://www.theverge.com/tech/921159/smart-glasses-review-wearable-even-realities-g2-meta-ray-ban-rokid-lucyd-oakley-meta-vanguard",
+        "title": "All these smart glasses and nothing to do",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268494_smart_glasses_overview_AKrales_0381.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "published": "2026-04-30T15:00:00+00:00",
+        "blurb": "Smart glasses need a better story for why they belong on your face all day."
       },
       {
         "source": "The Verge",
-        "link": "https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on",
-        "title": "These reusable digital Polaroids are a clever way to cover a fridge in memories",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/eink_snap_magnet1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-        "published": "2026-05-03T13:00:00+00:00",
-        "blurb": "Your phone’s NFC chip wirelessly powers and uploads photos to these E Ink fridge magnets."
-      },
-      {
-        "source": "TechCrunch",
-        "link": "https://techcrunch.com/events/strictlyvc-san-francisco-2026/?utm_source=tc&utm_medium=ad&utm_campaign=svcsf2026&utm_content=ticketsales&promo=topbanner&display=",
-        "title": "StrictlyVC San Francisco 2026 - Overview",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/StrictlyVC-San-Francisco-2026-featured-lockup-whiteback.png?resize=1200,900",
-        "published": "2026-04-30",
-        "blurb": "The first StrictlyVC of 2026 is happening on April 30 in San Francisco for more VC startup talks and quality networking."
-      },
-      {
-        "source": "TechCrunch",
-        "link": "https://techcrunch.com/events/techcrunch-disrupt/?utm_source=tc&utm_medium=ad&utm_campaign=disrupt2026&utm_content=bogo&promo=disrupttimer_ebbogo&display=",
-        "title": "TechCrunch Disrupt 2026 - Overview",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/10/TC26_Disrupt_General_Article_Headers_1920x1080.png?resize=1200,675",
-        "published": "2026-05-04T07:00:00-07:00",
-        "blurb": "TechCrunch Disrupt 2026 is the startup epicenter for tech and VC leaders."
+        "link": "https://www.theverge.com/tech/921178/blaze-entertainment-retro-games-commodore-64-zx-spectrum-handhelds",
+        "title": "The Commodore 64 and ZX Spectrum have been turned into retrofuturistic handhelds",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/c64handheld_93a43d.jpg?quality=90&strip=all&crop=0%2C10.743882715538%2C100%2C78.512234568924&w=1200",
+        "published": "2026-04-30T13:45:46+00:00",
+        "blurb": "The Spectrum and The C64 clamshell handhelds each come bundled with 25 unique retro games."
       },
       {
         "source": "TechCrunch",
         "link": "https://techcrunch.com/category/startups/",
         "title": "Startups | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "published": "2026-05-05T07:00:00-07:00",
+        "published": "2026-05-03T13:16:51-07:00",
         "blurb": "Read more about tech startup news that breaks down funding, growth, and long-term trajectory of companies across every stage and industry."
       },
       {
@@ -135,8 +119,24 @@
         "link": "https://techcrunch.com/category/venture/",
         "title": "Venture Capital News | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "published": "2026-05-05T07:20:50-07:00",
+        "published": "2026-05-01T15:39:05-07:00",
         "blurb": "Venture capital news and coverage feature all the VCs, VC-backed startups, and investment trends that founders, investors, and students should be tracking."
+      },
+      {
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/tag/apple/",
+        "title": "Apple news and analysis | TechCrunch",
+        "image": "https://techcrunch.com/wp-content/uploads/2022/09/AppleEvent.SEP07Keynote.Tim_Cook.02.jpg?resize=1200,675",
+        "published": "2026-04-30T16:59:15-07:00",
+        "blurb": "Read the latest news and analysis about Apple—including its software, hardware, the Vision Pro, and the anticipated introduction of AI—on TechCrunch."
+      },
+      {
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/category/security/",
+        "title": "Security News | TechCrunch",
+        "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
+        "published": "2026-05-01T08:00:14-07:00",
+        "blurb": "Read the latest news and investigative reporting on security today, including cybersecurity, breaches, hacks and cyberattacks around the globe."
       }
     ],
     "ai": [
@@ -198,9 +198,9 @@
       },
       {
         "source": "Anthropic",
-        "link": "https://www.anthropic.com/news/enterprise-ai-services-company",
-        "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs ",
-        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&backgroundColor=cactus",
+        "link": "https://www.anthropic.com/news/claude-for-creative-work",
+        "title": "Claude for Creative Work",
+        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeArrow&backgroundColor=cactus",
         "published": "",
         "blurb": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
       },
@@ -248,17 +248,17 @@
       },
       {
         "source": "Anthropic",
-        "link": "https://www.anthropic.com/news/enterprise-ai-services-company",
-        "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs ",
-        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&backgroundColor=cactus",
+        "link": "https://www.anthropic.com/news/claude-for-creative-work",
+        "title": "Claude for Creative Work",
+        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeArrow&backgroundColor=cactus",
         "published": "",
         "blurb": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
       },
       {
         "source": "Anthropic",
-        "link": "https://www.anthropic.com/news/claude-for-creative-work",
-        "title": "Claude for Creative Work",
-        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeArrow&backgroundColor=cactus",
+        "link": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
+        "title": "Anthropic Sydney office ",
+        "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
         "published": "",
         "blurb": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
       }
@@ -266,83 +266,83 @@
     "finance": [
       {
         "source": "Financial Times Markets",
-        "link": "https://www.ft.com/content/2dd4b92c-4764-4bc5-a3a6-1418e0ccec58",
-        "title": "How Germany’s Merz torpedoed his plan to contain Trump",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F899b93f0-8ea0-4148-a43e-41fa8739f6ce.jpg?source=next-barrier-page",
+        "link": "https://www.ft.com/content/b57d34ac-807e-4106-b319-56f91c617a1c",
+        "title": "Iran war accelerates ‘Regrexit’ as wealthy UK expats weigh a return",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feae6fcd7-7e42-4b4a-a1e9-fd41ca88b8d8.jpg?source=next-barrier-page",
         "published": "",
-        "blurb": "Swipe at US president appears to wipe out year-long effort to establish rapport"
+        "blurb": "Non-doms also blame difficulties on adjusting to new lifestyles and marital problems while living in low-tax jurisdictions"
       },
       {
         "source": "Financial Times Markets",
-        "link": "https://www.ft.com/content/85f851c6-3cc2-44ee-b527-5a1136f851e7",
-        "title": "Rachel Reeves clashed with Scott Bessent over Iran war criticism",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F802aa056-2e0d-4bd8-9068-a247be19fc90.jpg?source=next-barrier-page",
+        "link": "https://www.ft.com/content/08aba5e4-5834-4e79-a48d-989a2c5bad0f",
+        "title": "Banks seek to offload risk to avoid ‘choking’ on data centre debt ",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fee5ae7f3-d2c7-4b75-9dd5-6d3b73005b8e.jpg?source=next-barrier-page",
         "published": "",
-        "blurb": "Dispute between UK chancellor and US Treasury secretary underscores allies’ diverging stances on the conflict"
+        "blurb": "Global lenders explore private deals and risk transfers to cut exposure to AI boom"
       },
       {
         "source": "Financial Times Markets",
-        "link": "https://www.ft.com/content/5c24fa13-ae43-4d5a-9b68-b6ebae227dce",
-        "title": "OpenAI president defends motives in for-profit restructuring as he reveals $30bn stake",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbc7753f5-b10e-43f7-81dd-ba303614cbca.jpg?source=next-barrier-page",
+        "link": "https://www.ft.com/content/fb1aae4a-ec0c-48ed-bf0a-6639071499d3",
+        "title": "Trump says he is reviewing Iran peace plan but would consider new strikes",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F85dd6ac9-27a5-42e1-8122-1a9cf383d16b.jpg?source=next-barrier-page",
         "published": "",
-        "blurb": "Lawsuit brought by Elon Musk accuses start-up’s executives of selling out charitable mission for personal gain"
+        "blurb": "The conflict is now in its 10th week with little prospect of a rapid end"
       },
       {
         "source": "Financial Times Markets",
-        "link": "https://www.ft.com/content/fe70c89e-b5d7-4f89-8eb4-83afbe721d7c",
-        "title": "Vladimir Putin hunkers down for fear of assassination",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F58ea133c-bc78-4580-a9d1-f466a06b03f4.jpg?source=next-barrier-page",
+        "link": "https://www.ft.com/content/393851a0-b31b-437b-a621-9a289e5f4f5f",
+        "title": "Greg Abel’s message to Berkshire shareholders, post-Buffett: be patient",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa9ce3433-2d40-4452-b503-a24ce2c85b96.jpg?source=next-barrier-page",
         "published": "",
-        "blurb": "Security around Russia’s president tightens after audacious drone attacks from Ukraine"
+        "blurb": "New CEO ‘not anxious to deploy capital into subpar opportunities’ as he picks up baton from legendary predecessor"
       },
       {
         "source": "Financial Times Markets",
-        "link": "https://www.ft.com/content/755ebf5e-566a-4209-811e-f277a456fa6f",
-        "title": "UK long-term borrowing costs hit highest level since 1998 ",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcd34ec12-3427-407c-8bab-d8386136bd55.jpg?source=next-barrier-page",
+        "link": "https://www.ft.com/content/74d8cf6f-aa17-4a24-a621-e26b1bad2e1e",
+        "title": "Trump administration cites national security to widen clampdown on wind farms",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5d58f175-3395-43a3-96c9-ca4e12533ebd.jpg?source=next-barrier-page",
         "published": "",
-        "blurb": "Yields on 30-year gilts hit 28-year high on expectations BoE will raise rates two or three times to counter inflation threat"
+        "blurb": "Defence department is stalling 165 projects as president steps up efforts to stamp out the industry"
       },
       {
         "source": "Financial Times Markets",
-        "link": "https://www.ft.com/content/97739005-6dc5-4002-a82c-9cd91540d9fc",
-        "title": "World Cup fans cry foul over ‘unprecedented’ US transport costs  ",
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F29058cb3-4f68-4c9b-b449-c0bfbc9a3cb6.jpg?source=next-barrier-page",
+        "link": "https://www.ft.com/content/a24a24f6-064b-4f00-a339-edf597596d5a",
+        "title": "Detroit carmakers warn of $5bn commodities shock due to Iran war",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F552ba087-2e9e-44a3-bce5-3debf7736d50.jpg?source=next-barrier-page",
         "published": "",
-        "blurb": "New Jersey to charge $150 for round trip to MetLife stadium, up from usual fare of $12.90"
+        "blurb": "Sector faces rising prices for supplies from aluminium to plastics and paint"
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/business/2026/05/05/coinbase-taps-centrifuge-as-preferred-tokenization-backbone-takes-equity-stake",
-        "title": "Coinbase taps Centrifuge as preferred tokenization backbone, takes equity stake",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/868ae20c7c05b3aab1825f55f45b74a9484fd851-1920x1280.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/videos/featured-videos",
+        "title": "Featured Videos | Video Playlist | CoinDesk",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/4fc82af41ef1603634aef19e553d6c1d453fca6b-2400x1260.png",
         "published": "",
-        "blurb": "The partnership includes a strategic investment by Coinbase and is focused on expanding tokenized ETFs, credit, and structured products."
+        "blurb": "| Video"
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/business/2026/05/05/crypto-com-s-high-rolling-head-of-marketing-taps-out-after-almost-six-years",
-        "title": "  Crypto.com’s high-rolling head of marketing to leave after almost six years",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/45a029fb806c92e2b7e72ebe840b8dc1bdb0e161-2000x1334.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/videos",
+        "title": "Latest Crypto Video News | CoinDesk",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/a9e571d91c27d283acfdff8aa702c331a4583647-2400x1260.jpg?auto=format",
         "published": "",
-        "blurb": "Steven Kalifowitz will be moving on from his role as CMO, effective June 30, and will then continue on as advisor to the CEO."
+        "blurb": "Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates."
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/business/2026/05/05/consensus-miami-day-1-sights-and-sounds",
-        "title": "Consensus Miami Day 1: Sights and sounds ",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/fab94cb47f1c8e344441aeee6c137667707a42fc-3323x1867.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-        "published": "2026-05-05T14:39:40.510Z",
-        "blurb": "Consensus Miami 2026 launched on Tuesday."
+        "link": "https://www.coindesk.com/policy/2026/05/03/policy-summit-and-other-things-at-consensus-2026-state-of-crypto",
+        "title": "Policy Summit and other things at Consensus 2026: State of Crypto ",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/39aef47b93f60ebf7e668e371d51320693bb79e3-3364x1894.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "published": "",
+        "blurb": "We are kicking off the show in Miami this week."
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/coindesk-indices/2026/05/05/coindesk-20-performance-update-index-jumps-1-3-as-all-constituents-trade-higher",
-        "title": "CoinDesk 20 performance update: index jumps 1.3% as all constituents trade higher",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/5b2fb686df0116fb8f4bf12bbe150747abaab814-640x480.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/policy/2026/05/03/crypto-is-at-the-bottom-of-u-s-voters-priorities-heading-into-the-midterm-coindesk-survey-shows",
+        "title": "Crypto is at the bottom of U.S. voters' priorities heading into the midterm, CoinDesk survey shows",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/606fab5ad2532e74c58b7414e19faa447ad1fe58-6720x4480.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "Internet Computer (ICP) rose 5.2% and Chainlink (LINK) gained 4% since Monday."
+        "blurb": "Americans had a generally unfavorable view of cryptocurrencies, the survey of 1,000 randomly selected registered voters found."
       }
     ]
   }
