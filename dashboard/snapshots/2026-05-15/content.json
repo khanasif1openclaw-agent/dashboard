@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T22:00:18.117Z",
+  "generatedAt": "2026-05-15T22:00:20.673Z",
   "sections": {
     "weather": {
       "city": "Sydney",
@@ -8,19 +8,19 @@
     "world": [
       {
         "source": "BBC World",
-        "link": "https://www.bbc.com/news/articles/c2l2p0wwzzdo",
-        "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/957b/live/de6aaf10-51da-11f1-8b8c-6d33e1d5abb6.jpg",
-        "published": "2026-05-17T21:14:27.988Z",
-        "blurb": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency."
+        "link": "https://www.bbc.com/news/articles/ce8p61v7l68o",
+        "title": "Trump warns Taiwan against declaring independence after China talks",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fc97/live/44d90680-5077-11f1-8b8c-6d33e1d5abb6.jpg",
+        "published": "2026-05-15T21:28:25.715Z",
+        "blurb": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island."
       },
       {
         "source": "BBC World",
-        "link": "https://www.bbc.com/news/articles/c9q311nj5r3o",
-        "title": "How worrying is the Ebola outbreak in DR Congo?",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0fab/live/4cc2b0d0-51ee-11f1-86f6-35d8fdccc492.jpg",
-        "published": "2026-05-17T18:06:31.382Z",
-        "blurb": "An outbreak in DR Congo has been declared a health emergency, with almost 250 suspected cases reported."
+        "link": "https://www.bbc.com/news/articles/clypj01189lo",
+        "title": "Trump-Xi summit: US and China conclude 'very successful' talks but few deals confirmed",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f0ee/live/9a4e0250-5077-11f1-8b8c-6d33e1d5abb6.jpg",
+        "published": "2026-05-15T21:50:14.686Z",
+        "blurb": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit."
       },
       {
         "source": "BBC World",
@@ -45,7 +45,7 @@
         "link": "https://www.abc.net.au/news/justin",
         "title": "Just In",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-05-17T21:52:44.000Z",
+        "published": "2026-05-15T21:43:11.000Z",
         "blurb": "Live breaking news stories from across Australia & around the world."
       },
       {
@@ -53,7 +53,7 @@
         "link": "https://www.abc.net.au/news/politics",
         "title": "Politics",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-05-17T21:10:53.000Z",
+        "published": "2026-05-15T21:10:30.000Z",
         "blurb": "Australian politics, policy analysis, explainers, election coverage and more"
       },
       {
@@ -61,7 +61,7 @@
         "link": "https://www.abc.net.au/news/world",
         "title": "World News",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-05-17T21:52:44.000Z",
+        "published": "2026-05-15T21:32:16.000Z",
         "blurb": "The latest World News headlines, photos, video and audio content from the ABC's trusted network of overseas-based journalists."
       },
       {
@@ -87,7 +87,7 @@
         "link": "https://www.theverge.com/archives/full",
         "title": "Archive for May 2026 - Page 1 | The Verge",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2024/10/the_verge_social_share.png",
-        "published": "2026-05-17T20:37:01+00:00",
+        "published": "2026-05-15T21:14:45+00:00",
         "blurb": "The Verge is about technology and how it makes us feel."
       },
       {
@@ -111,7 +111,7 @@
         "link": "https://techcrunch.com/category/startups/",
         "title": "Startups | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "published": "2026-05-16T13:17:16-07:00",
+        "published": "2026-05-15T12:24:16-07:00",
         "blurb": "Read more about tech startup news that breaks down funding, growth, and long-term trajectory of companies across every stage and industry."
       },
       {
@@ -119,7 +119,7 @@
         "link": "https://techcrunch.com/category/venture/",
         "title": "Venture Capital News | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "published": "2026-05-17T08:00:00-07:00",
+        "published": "2026-05-15T13:25:35-07:00",
         "blurb": "Venture capital news and coverage feature all the VCs, VC-backed startups, and investment trends that founders, investors, and students should be tracking."
       },
       {
@@ -127,7 +127,7 @@
         "link": "https://techcrunch.com/tag/apple/",
         "title": "Apple news and analysis | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2022/09/AppleEvent.SEP07Keynote.Tim_Cook.02.jpg?resize=1200,675",
-        "published": "2026-05-17T13:15:00-07:00",
+        "published": "2026-05-14T08:42:18-07:00",
         "blurb": "Read the latest news and analysis about Apple—including its software, hardware, the Vision Pro, and the anticipated introduction of AI—on TechCrunch."
       },
       {
@@ -140,6 +140,38 @@
       }
     ],
     "ai": [
+      {
+        "source": "OpenAI News",
+        "link": "https://openai.com/research/index/",
+        "title": "OpenAI Research",
+        "image": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+        "published": "2026-05-07T10:00",
+        "blurb": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems."
+      },
+      {
+        "source": "OpenAI News",
+        "link": "https://openai.com/news/company-announcements/",
+        "title": "OpenAI Newsroom | Recent news",
+        "image": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+        "published": "2026-04-23T11:00",
+        "blurb": "Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity."
+      },
+      {
+        "source": "OpenAI News",
+        "link": "https://openai.com/news/research/",
+        "title": "OpenAI Newsroom | Research",
+        "image": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+        "published": "2026-05-07T10:00",
+        "blurb": "Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity."
+      },
+      {
+        "source": "OpenAI News",
+        "link": "https://openai.com/news/product-releases/",
+        "title": "OpenAI Newsroom | Product",
+        "image": "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill",
+        "published": "2026-05-15T00:00",
+        "blurb": "Switch cards to show MediaSwitch cards to hide MediaA new personal finance experience in ChatGPTProductMay 15, 2026Work with Codex from anywhereProductMay 14,."
+      },
       {
         "source": "Anthropic",
         "link": "https://www.anthropic.com/news/claude-opus-4-7",
@@ -187,38 +219,6 @@
         "image": "https://lh3.googleusercontent.com/8-fc-WRTsHJ2HYm-b3KMYbnOyfQQteGHWuInUwJOVqm2cNySVdl4LsMWVN9SPWzBD17Tw3wyXhfTEFwWUaXo0nb5ir1ZiYHqb3wfyUKT5FonzQfm=w1200-h630-n-nu-rw",
         "published": "",
         "blurb": "State-of-the-art image generation and editing models"
-      },
-      {
-        "source": "Google DeepMind",
-        "link": "https://deepmind.google/models/gemini-audio/",
-        "title": "Gemini Audio",
-        "image": "https://lh3.googleusercontent.com/gnq9pyNZvOh5-2RpzxfTjVJGl2WFdxGj4hkw_HVl_IkvEj6K4l-2GxWPfVNUmGV3GjuOQ9D0SLzRNdfOd8tHQJ1Dcz9tYOWp_-I-_J_MdqTOlGVAjQ=w1200-h630-n-nu-rw",
-        "published": "",
-        "blurb": "Advanced real-time audio models, built on Gemini"
-      },
-      {
-        "source": "Google DeepMind",
-        "link": "https://deepmind.google/models/veo/",
-        "title": "Veo",
-        "image": "https://lh3.googleusercontent.com/KjZqcrU67NVMcKTQvMWdvOVVVa6FUIceiCX26ZhSZzEpowbl3hu_-BI91LpSMKrcXdTNG20cnIzW7Q27KGyx-T3Ye2ZsrUDd8fFHDXlns2Gjpky0xzE=w1200-h630-n-nu-rw",
-        "published": "",
-        "blurb": "Introducing our state of the art video generation model Veo 3, and new capabilities for Veo 2."
-      },
-      {
-        "source": "Hugging Face",
-        "link": "https://huggingface.co/join/discord",
-        "title": "Join the Hugging Face Discord Server!",
-        "image": "https://cdn.discordapp.com/splashes/879548962464493619/b94cb38dcf18b7a850bf75ee3be6118c.jpg?size=512",
-        "published": "",
-        "blurb": "We're working to democratize good machine learning 🤗Verify to link your Hub and Discord accounts!"
-      },
-      {
-        "source": "Hugging Face",
-        "link": "https://huggingface.co/inference/models",
-        "title": "Hugging Face Inference Providers · Supported Models",
-        "image": "https://huggingface.co/front/thumbnails/inference/models.png",
-        "published": "",
-        "blurb": "Exhaustive list of models supported by Hugging Face Inference Providers with detailed features and performance metrics."
       }
     ],
     "ai_top": [
@@ -263,6 +263,55 @@
         "blurb": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
       }
     ],
-    "finance": []
+    "finance": [
+      {
+        "source": "Financial Times Markets",
+        "link": "https://www.ft.com/content/f9213bec-28ca-4930-bae8-1379abc851f7",
+        "title": "Trump discloses hundreds of millions of dollars in trades in first quarter",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fed4474c0-822d-4bcd-857e-8a3051012f8b.jpg?source=next-barrier-page",
+        "published": "",
+        "blurb": "Transactions relating to companies including Nvidia, Palantir, Paramount and Boeing listed in disclosures"
+      },
+      {
+        "source": "Financial Times Markets",
+        "link": "https://www.ft.com/content/66933e51-e06d-475c-aed2-f808f9443dea",
+        "title": "Donald Trump undecided on Taiwan arms sale after summit with Xi Jinping",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd3927c5d-5105-4959-8281-95f9acc20468.jpg?source=next-barrier-page",
+        "published": "",
+        "blurb": "US president raises doubts about $14bn weapons package for Taipei after two days of meetings in China"
+      },
+      {
+        "source": "Financial Times Markets",
+        "link": "https://www.ft.com/content/07a10974-bdfd-4f31-9aff-9e284c8f8de8",
+        "title": "McKinsey cuts partner cash share in post-AI pay revamp",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc9bcbf56-1b92-4ae6-92cc-19b9d4c9bc91.jpg?source=next-barrier-page",
+        "published": "",
+        "blurb": "Consultancy tells senior staff their remuneration will comprise a greater proportion of equity"
+      },
+      {
+        "source": "Financial Times Markets",
+        "link": "https://www.ft.com/content/123f2c88-459a-4991-afb6-bbaa0dbe97fd",
+        "title": "Germany’s Friedrich Merz says he would not want his children to move to US",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd4ce9814-397f-4258-bda0-1fe6a37013e2.jpg?source=next-barrier-page",
+        "published": "",
+        "blurb": "Chancellor wary about the ‘social climate developing there’ as relations with Donald Trump hit new low"
+      },
+      {
+        "source": "Financial Times Markets",
+        "link": "https://www.ft.com/content/206e998a-d94d-4e3b-9368-cf5211b394cb",
+        "title": "Is the only way really down for stocks?",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdc3970e4-38f0-4a92-9a07-6ca042bfe2d6.jpg?source=next-barrier-page",
+        "published": "",
+        "blurb": "Market concentration means the majority of equities have room to rise"
+      },
+      {
+        "source": "Financial Times Markets",
+        "link": "https://www.ft.com/content/00382ab9-3dfe-468c-8966-853cd787dd43",
+        "title": "SpaceX IPO set to ensure Elon Musk cannot be fired",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa6d4f2c5-e81e-4a34-88df-4b4dd23b8a21.jpg?source=next-barrier-page",
+        "published": "",
+        "blurb": "Investors expected to accept $1.75tn valuation, weak shareholder rights and billionaire’s sci-fi business vision"
+      }
+    ]
   }
 }

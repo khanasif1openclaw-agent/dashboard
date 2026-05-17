@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T22:00:18.117Z",
+  "generatedAt": "2026-05-16T22:04:28.717Z",
   "sections": {
     "weather": {
       "city": "Sydney",
@@ -8,19 +8,19 @@
     "world": [
       {
         "source": "BBC World",
-        "link": "https://www.bbc.com/news/articles/c2l2p0wwzzdo",
-        "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/957b/live/de6aaf10-51da-11f1-8b8c-6d33e1d5abb6.jpg",
-        "published": "2026-05-17T21:14:27.988Z",
-        "blurb": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency."
+        "link": "https://www.bbc.com/news/articles/cx2132w81jqo",
+        "title": "Taiwan reaffirms independence despite Trump warning",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9b3f/live/fab5e450-513f-11f1-b682-cf91850925ea.jpg",
+        "published": "2026-05-16T17:01:53.541Z",
+        "blurb": "Fresh from his summit in Beijing, the US president warned against a formal declaration of independence by the island."
       },
       {
         "source": "BBC World",
-        "link": "https://www.bbc.com/news/articles/c9q311nj5r3o",
-        "title": "How worrying is the Ebola outbreak in DR Congo?",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0fab/live/4cc2b0d0-51ee-11f1-86f6-35d8fdccc492.jpg",
-        "published": "2026-05-17T18:06:31.382Z",
-        "blurb": "An outbreak in DR Congo has been declared a health emergency, with almost 250 suspected cases reported."
+        "link": "https://www.bbc.com/news/articles/cyv28pd4n22o",
+        "title": "Man ploughs car into crowd in Italy before trying to stab them",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/be55/live/7d9e5030-5165-11f1-b682-cf91850925ea.jpg",
+        "published": "2026-05-16T20:36:17.610Z",
+        "blurb": "Eight people were injured, four seriously, before passers-by gave chase and stopped the man."
       },
       {
         "source": "BBC World",
@@ -45,7 +45,7 @@
         "link": "https://www.abc.net.au/news/justin",
         "title": "Just In",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-05-17T21:52:44.000Z",
+        "published": "2026-05-16T21:58:35.000Z",
         "blurb": "Live breaking news stories from across Australia & around the world."
       },
       {
@@ -53,7 +53,7 @@
         "link": "https://www.abc.net.au/news/politics",
         "title": "Politics",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-05-17T21:10:53.000Z",
+        "published": "2026-05-16T21:11:01.000Z",
         "blurb": "Australian politics, policy analysis, explainers, election coverage and more"
       },
       {
@@ -61,7 +61,7 @@
         "link": "https://www.abc.net.au/news/world",
         "title": "World News",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-05-17T21:52:44.000Z",
+        "published": "2026-05-16T07:28:50.000Z",
         "blurb": "The latest World News headlines, photos, video and audio content from the ABC's trusted network of overseas-based journalists."
       },
       {
@@ -87,7 +87,7 @@
         "link": "https://www.theverge.com/archives/full",
         "title": "Archive for May 2026 - Page 1 | The Verge",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2024/10/the_verge_social_share.png",
-        "published": "2026-05-17T20:37:01+00:00",
+        "published": "2026-05-16T21:09:01+00:00",
         "blurb": "The Verge is about technology and how it makes us feel."
       },
       {
@@ -119,7 +119,7 @@
         "link": "https://techcrunch.com/category/venture/",
         "title": "Venture Capital News | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "published": "2026-05-17T08:00:00-07:00",
+        "published": "2026-05-16T12:26:14-07:00",
         "blurb": "Venture capital news and coverage feature all the VCs, VC-backed startups, and investment trends that founders, investors, and students should be tracking."
       },
       {
@@ -127,7 +127,7 @@
         "link": "https://techcrunch.com/tag/apple/",
         "title": "Apple news and analysis | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2022/09/AppleEvent.SEP07Keynote.Tim_Cook.02.jpg?resize=1200,675",
-        "published": "2026-05-17T13:15:00-07:00",
+        "published": "2026-05-14T08:42:18-07:00",
         "blurb": "Read the latest news and analysis about Apple—including its software, hardware, the Vision Pro, and the anticipated introduction of AI—on TechCrunch."
       },
       {
