@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T22:04:37.842Z",
+  "generatedAt": "2026-05-18T22:00:16.570Z",
   "sections": {
     "weather": {
       "city": "Sydney",
@@ -8,19 +8,19 @@
     "world": [
       {
         "source": "BBC World",
-        "link": "https://www.bbc.com/news/articles/c2l2p0wwzzdo",
-        "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/957b/live/de6aaf10-51da-11f1-8b8c-6d33e1d5abb6.jpg",
-        "published": "2026-05-17T21:14:27.988Z",
-        "blurb": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency."
+        "link": "https://www.bbc.com/news/articles/c7079e55zjro",
+        "title": "Trump says he called off new Iran attack at request of Gulf states",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e7f0/live/35981a80-52f2-11f1-93ce-6b7334a653b8.jpg",
+        "published": "2026-05-18T21:53:50.973Z",
+        "blurb": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\"."
       },
       {
         "source": "BBC World",
-        "link": "https://www.bbc.com/news/articles/c9q311nj5r3o",
-        "title": "How worrying is the Ebola outbreak in DR Congo?",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0fab/live/4cc2b0d0-51ee-11f1-86f6-35d8fdccc492.jpg",
-        "published": "2026-05-17T18:06:31.382Z",
-        "blurb": "An outbreak in DR Congo has been declared a health emergency, with almost 250 suspected cases reported."
+        "link": "https://www.bbc.com/news/articles/cq6pz60p996o",
+        "title": "At least 100 dead in Ebola outbreak in DR Congo, official says",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4eaa/live/fff74570-52cb-11f1-b4b8-8bc40cabb834.jpg",
+        "published": "2026-05-18T19:31:18.935Z",
+        "blurb": "The World Health Organization (WHO) has declared the outbreak an international emergency."
       },
       {
         "source": "BBC World",
@@ -45,7 +45,7 @@
         "link": "https://www.abc.net.au/news/justin",
         "title": "Just In",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-05-17T22:00:02.000Z",
+        "published": "2026-05-18T21:50:25.000Z",
         "blurb": "Live breaking news stories from across Australia & around the world."
       },
       {
@@ -53,7 +53,7 @@
         "link": "https://www.abc.net.au/news/politics",
         "title": "Politics",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-05-17T21:10:53.000Z",
+        "published": "2026-05-18T21:11:22.000Z",
         "blurb": "Australian politics, policy analysis, explainers, election coverage and more"
       },
       {
@@ -61,7 +61,7 @@
         "link": "https://www.abc.net.au/news/world",
         "title": "World News",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-05-17T21:52:44.000Z",
+        "published": "2026-05-18T21:50:25.000Z",
         "blurb": "The latest World News headlines, photos, video and audio content from the ABC's trusted network of overseas-based journalists."
       },
       {
@@ -87,31 +87,31 @@
         "link": "https://www.theverge.com/archives/full",
         "title": "Archive for May 2026 - Page 1 | The Verge",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2024/10/the_verge_social_share.png",
-        "published": "2026-05-17T20:37:01+00:00",
+        "published": "2026-05-18T17:56:00+00:00",
         "blurb": "The Verge is about technology and how it makes us feel."
       },
       {
         "source": "The Verge",
-        "link": "https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer",
-        "title": "Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0139.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "published": "2026-05-14T21:08:46+00:00",
-        "blurb": "After launching in early access, the feature is rolling out widely."
+        "link": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
+        "title": "Musk v. Altman proved that AI is led by the wrong people",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25739950/247386_Elon_Musk_Open_AI_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "published": "2026-05-18T19:00:00+00:00",
+        "blurb": "The OpenAI trial exposed a lot of lies and a yearslong fight for control."
       },
       {
         "source": "The Verge",
-        "link": "https://www.theverge.com/tech/930348/dyson-find-follow-air-purifier-cool-ai-tracking-camera-privacy",
-        "title": "Dyson put a camera on its purifier so fresh air can follow you around the room",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/dysonfan1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "published": "2026-05-14T13:35:41+00:00",
-        "blurb": "Dyson’s new air purifier knows where you are."
+        "link": "https://www.theverge.com/tech/932642/walmart-onn-new-core-pro-kids-tablets",
+        "title": "Walmart launches new budget-friendly Android tablets starting at $97",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/walmart-onn-7-tablet.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "published": "2026-05-18T18:44:07+00:00",
+        "blurb": "That’s a 7-inch Android tablet for $97."
       },
       {
         "source": "TechCrunch",
         "link": "https://techcrunch.com/category/startups/",
         "title": "Startups | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "published": "2026-05-16T13:17:16-07:00",
+        "published": "2026-05-18T04:00:00-07:00",
         "blurb": "Read more about tech startup news that breaks down funding, growth, and long-term trajectory of companies across every stage and industry."
       },
       {
@@ -135,7 +135,7 @@
         "link": "https://techcrunch.com/category/security/",
         "title": "Security News | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "published": "2026-05-15T11:51:33-07:00",
+        "published": "2026-05-18T09:32:33-07:00",
         "blurb": "Read the latest news and investigative reporting on security today, including cybersecurity, breaches, hacks and cyberattacks around the globe."
       }
     ],
@@ -166,9 +166,9 @@
       },
       {
         "source": "Anthropic",
-        "link": "https://www.anthropic.com/news/pwc-expanded-partnership",
-        "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
-        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20CodeGlobe&backgroundColor=sky",
+        "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+        "title": "Anthropic acquires Stainless",
+        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Shapes&backgroundColor=coral",
         "published": "",
         "blurb": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
       },
@@ -248,17 +248,17 @@
       },
       {
         "source": "Anthropic",
-        "link": "https://www.anthropic.com/news/pwc-expanded-partnership",
-        "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
-        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20CodeGlobe&backgroundColor=sky",
+        "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+        "title": "Anthropic acquires Stainless",
+        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Shapes&backgroundColor=coral",
         "published": "",
         "blurb": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
       },
       {
         "source": "Anthropic",
-        "link": "https://www.anthropic.com/news/gates-foundation-partnership",
-        "title": "Anthropic forms $200 million partnership with the Gates Foundation",
-        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20ShapeBuild&backgroundColor=coral",
+        "link": "https://www.anthropic.com/news/pwc-expanded-partnership",
+        "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20CodeGlobe&backgroundColor=sky",
         "published": "",
         "blurb": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
       }
