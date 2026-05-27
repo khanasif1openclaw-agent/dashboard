@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T22:00:18.018Z",
+  "generatedAt": "2026-05-26T22:00:19.490Z",
   "sections": {
     "weather": {
       "city": "Sydney",
@@ -8,19 +8,19 @@
     "world": [
       {
         "source": "BBC World",
-        "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo",
-        "title": "Israel issues evacuation order for swathes of southern Lebanon",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5ca5/live/c0cb97e0-59ef-11f1-8b8c-6d33e1d5abb6.jpg",
-        "published": "2026-05-27T20:26:03.115Z",
-        "blurb": "The military says areas south of the Zahrani River are now \"combat zones\" as it threatens Hezbollah with fresh strikes."
+        "link": "https://www.bbc.com/news/articles/c4g44yl7q70o",
+        "title": "US strikes were 'gross violation' of ceasefire, Iran says",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/60fa/live/b45e44b0-593d-11f1-8f5a-71117a5267dc.jpg",
+        "published": "2026-05-26T15:15:29.425Z",
+        "blurb": "The attacks took place while Iranian and Qatari negotiators were in Doha for peace talks."
       },
       {
         "source": "BBC World",
-        "link": "https://www.bbc.com/news/articles/cdxpdex062yo",
-        "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6c52/live/87bd2cd0-59e9-11f1-b682-cf91850925ea.jpg",
-        "published": "2026-05-27T18:50:50.131Z",
-        "blurb": "Tedros Adhanom Ghebreyesus said fighting in DR Congo was hampering efforts to stop spread"
+        "link": "https://www.bbc.com/news/articles/c1e22n55zn4o",
+        "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e77a/live/157edd60-585b-11f1-9a33-c313bd26e03f.jpg",
+        "published": "2026-05-26T03:06:06.751Z",
+        "blurb": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday."
       },
       {
         "source": "BBC World",
@@ -45,7 +45,7 @@
         "link": "https://www.abc.net.au/news/justin",
         "title": "Just In",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-05-27T21:55:31.000Z",
+        "published": "2026-05-26T21:50:26.000Z",
         "blurb": "Live breaking news stories from across Australia & around the world."
       },
       {
@@ -53,7 +53,7 @@
         "link": "https://www.abc.net.au/news/politics",
         "title": "Politics",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-05-27T21:13:55.000Z",
+        "published": "2026-05-26T21:04:32.000Z",
         "blurb": "Australian politics, policy analysis, explainers, election coverage and more"
       },
       {
@@ -61,7 +61,7 @@
         "link": "https://www.abc.net.au/news/world",
         "title": "World News",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-05-27T20:31:20.000Z",
+        "published": "2026-05-26T20:54:41.000Z",
         "blurb": "The latest World News headlines, photos, video and audio content from the ABC's trusted network of overseas-based journalists."
       },
       {
@@ -87,24 +87,24 @@
         "link": "https://www.theverge.com/archives/full",
         "title": "Archive for May 2026 - Page 1 | The Verge",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2024/10/the_verge_social_share.png",
-        "published": "2026-05-27T21:32:15+00:00",
+        "published": "2026-05-26T19:40:44+00:00",
         "blurb": "The Verge is about technology and how it makes us feel."
       },
       {
         "source": "The Verge",
-        "link": "https://www.theverge.com/gadgets/927121/best-college-graduation-gift-ideas",
-        "title": "The Verge’s 2026 college graduation gift guide",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268496_2026_Graduation_Gift_Guides_CVirginia_COLLEGE_3b1d2c.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "published": "2026-05-18T15:00:00+00:00",
-        "blurb": "Gifts to help grads succeed long after college."
+        "link": "https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai",
+        "title": "Google Health is here, but a lot of people want their Fitbit app back instead",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/HealthApp_hero.width-1600.jpg?quality=90&strip=all&crop=0%2C3.5645047073983%2C100%2C92.870990585203&w=1200",
+        "published": "2026-05-26T19:00:15+00:00",
+        "blurb": "How do you like your new AI health coach?"
       },
       {
         "source": "The Verge",
-        "link": "https://www.theverge.com/tech/938031/xtool-m2-craft-machine-cmyk-inkjet-printing-laser-diode-cutter",
-        "title": "You can print, slice, and engrave using this desktop crafting machine",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/xtool_m2_1.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-        "published": "2026-05-27T16:56:02+00:00",
-        "blurb": "Get your Etsy sticker shop off the ground with this single machine."
+        "link": "https://www.theverge.com/gadgets/937560/ge-profile-opal-ultra-nugget-ice-maker-deal-sale",
+        "title": "GE’s nugget ice maker is nearly half off if you buy it refurbished",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25518688/8A0A1493.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "published": "2026-05-26T18:50:35+00:00",
+        "blurb": "Easy way to keep cool and hydrated."
       },
       {
         "source": "TechCrunch",
@@ -119,7 +119,7 @@
         "link": "https://techcrunch.com/events/techcrunch-disrupt/?utm_source=tc&utm_medium=ad&utm_campaign=disrupt2026&utm_content=eb&promo=topbanner_eb&display=",
         "title": "TechCrunch Disrupt 2026 - Overview",
         "image": "https://techcrunch.com/wp-content/uploads/2025/10/TC26_Disrupt_General_Article_Headers_1920x1080.png?resize=1200,675",
-        "published": "2026-05-27T07:15:00-07:00",
+        "published": "2026-05-26T07:00:00-07:00",
         "blurb": "TechCrunch Disrupt 2026 is the startup epicenter for tech and VC leaders."
       },
       {
@@ -127,7 +127,7 @@
         "link": "https://techcrunch.com/category/startups/",
         "title": "Startups | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "published": "2026-05-27T14:11:15-07:00",
+        "published": "2026-05-26T11:33:01-07:00",
         "blurb": "Read more about tech startup news that breaks down funding, growth, and long-term trajectory of companies across every stage and industry."
       },
       {
@@ -135,7 +135,7 @@
         "link": "https://techcrunch.com/category/venture/",
         "title": "Venture Capital News | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "published": "2026-05-27T14:11:15-07:00",
+        "published": "2026-05-26T07:00:00-07:00",
         "blurb": "Venture capital news and coverage feature all the VCs, VC-backed startups, and investment trends that founders, investors, and students should be tracking."
       }
     ],
@@ -166,11 +166,11 @@
       },
       {
         "source": "Anthropic",
-        "link": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
-        "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea",
-        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Globe&backgroundColor=sky",
+        "link": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+        "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&backgroundColor=heather",
         "published": "",
-        "blurb": "KiYoung Choi is joining Anthropic as Representative Director of Korea, ahead of the opening of our Seoul office."
+        "blurb": "The full text of Chris Olah's remarks on the Pope's encyclical on AI"
       },
       {
         "source": "Google DeepMind",
@@ -248,19 +248,19 @@
       },
       {
         "source": "Anthropic",
-        "link": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
-        "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea",
-        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Globe&backgroundColor=sky",
-        "published": "",
-        "blurb": "KiYoung Choi is joining Anthropic as Representative Director of Korea, ahead of the opening of our Seoul office."
-      },
-      {
-        "source": "Anthropic",
         "link": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
         "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
         "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&backgroundColor=heather",
         "published": "",
         "blurb": "The full text of Chris Olah's remarks on the Pope's encyclical on AI"
+      },
+      {
+        "source": "Anthropic",
+        "link": "https://www.anthropic.com/research/glasswing-initial-update",
+        "title": "Project Glasswing: An initial update",
+        "image": "https://cdn.sanity.io/images/4zrzovbb/website/8831fc381f1087ce855b4fbb4f080b2685ea38ec-1200x630.jpg",
+        "published": "",
+        "blurb": "An early update on what we've learned from Project Glasswing."
       }
     ],
     "finance": [
@@ -282,35 +282,35 @@
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/policy/2026/05/27/google-engineer-insider-traded-search-results-on-polymarket-feds-allege",
-        "title": "Google engineer insider-traded search results on Polymarket, Feds allege",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/60e23b9775d98fda043bb9a1ac3e1ac5bc22ccb5-4000x1868.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/policy/2026/05/26/trump-praises-prediction-markets-defends-cftc-as-court-cases-compound",
+        "title": "Trump praises prediction markets, defends CFTC as court cases compound",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/077bb39e86c843e2184511338b653c3816f291a0-2015x1134.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "The charges mark the second major arrest over insider trading on a prediction market."
+        "blurb": "U.S."
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/news-analysis/2026/05/27/crypto-cash-backs-potential-new-allies-in-congress-as-industry-pac-presence-widens",
-        "title": "Crypto cash backs potential new allies in Congress as industry's PAC presence widens",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/f0dac845c5e796b27fd0686e0f81da493b29d691-3953x2224.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/business/2026/05/26/joe-lubin-backed-ethereum-treasury-firm-sharplink-to-join-the-russel-indexes",
+        "title": "Ethereum news: Joe Lubin's SharpLink (SBET) to join the Russel 2000, 3000 indexes",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/a7f6e584b6a4e8cc825bca016eddec6558ca3e64-7962x4479.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "As crypto world notches political wins in Texas and beyond, some of its emerging political action committees ditch bipartisan approach for a Republican focus."
+        "blurb": "The inclusion could attract fresh passive inflows from index-tracking funds, while the firm's stock tanked 95% from its peak over the past year."
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/policy/2026/05/27/wall-street-gets-new-crypto-rival-after-texas-bank-completes-regulatory-pivot",
-        "title": "Wall Street gets new crypto rival after Texas bank completes regulatory pivot",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/9155402d2f257d9dc12ed22bfcb199fedab6cf64-2752x1536.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/business/2026/05/26/uk-sanctions-huobi-and-ruble-stablecoin-issuer-in-crackdown-on-russia-crypto-networks",
+        "title": "UK sanctions Huobi and ruble stablecoin issuer in crackdown on Russia crypto networks",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/3ed99ad8e1d2af4b11b0bb301a546dddccbf65e4-6000x4000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "By establishing a national charter under the executive branch, United Texas Bank said it intends to enable AI-driven payment rails to intercept global digital dollar volumes."
+        "blurb": "Britain applied banking-style sanctions to crypto exchanges for the first time, requiring U.K."
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/markets/2026/05/27/elon-musk-could-become-a-top-5-corporate-bitcoin-holder-if-tesla-and-spacex-merge",
-        "title": "Elon Musk could become a top 5 corporate bitcoin (BTC) holder if Tesla and SpaceX merge",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/225f69981f3516c9cf805a6f9e08a516678accfd-5527x3684.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/business/2026/05/26/bermuda-the-small-island-nation-with-huge-crypto-ambitions",
+        "title": "Bermuda, the tiny island nation with huge crypto ambitions",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/8419d82bd3c046e7e85423f419d7c21a7f7869d2-5472x3648.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "CNBC reported Tuesday that Musk is discussing a merger between Tesla and SpaceX that would tie his tech empire closer together and instantly create the world’s fifth-largest corporate bitcoin treasury, worth $3.3 billion."
+        "blurb": "The government recently announced it would become the world’s first economy to go fully onchain, a move officials believe will bring its people new opportunities."
       }
     ]
   }
