@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T22:00:19.199Z",
+  "generatedAt": "2026-06-01T22:00:18.231Z",
   "sections": {
     "weather": {
       "city": "Sydney",
@@ -8,11 +8,11 @@
     "world": [
       {
         "source": "BBC World",
-        "link": "https://www.bbc.com/news/articles/c936zvne0l6o",
-        "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e350/live/d8c88660-5e9e-11f1-9c69-5be5e9be5821.jpg",
-        "published": "2026-06-02T21:51:20.603Z",
-        "blurb": "Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US."
+        "link": "https://www.bbc.com/news/articles/c202rxp1z15o",
+        "title": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/553d/live/6bda21a0-5dd9-11f1-a574-05510226f57f.jpg",
+        "published": "2026-06-01T21:27:01.019Z",
+        "blurb": "Israel's PM Netanyahu warns that strikes on Beirut will go ahead if Hezbollah does not abide by the US proposal."
       },
       {
         "source": "BBC World",
@@ -45,7 +45,7 @@
         "link": "https://www.abc.net.au/news/justin",
         "title": "Just In",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-06-02T21:45:38.000Z",
+        "published": "2026-06-01T21:47:00.000Z",
         "blurb": "Live breaking news stories from across Australia & around the world."
       },
       {
@@ -53,7 +53,7 @@
         "link": "https://www.abc.net.au/news/politics",
         "title": "Politics",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-06-02T21:02:12.000Z",
+        "published": "2026-06-01T21:23:12.000Z",
         "blurb": "Australian politics, policy analysis, explainers, election coverage and more"
       },
       {
@@ -61,7 +61,7 @@
         "link": "https://www.abc.net.au/news/world",
         "title": "World News",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-06-02T21:45:38.000Z",
+        "published": "2026-06-01T21:58:06.000Z",
         "blurb": "The latest World News headlines, photos, video and audio content from the ABC's trusted network of overseas-based journalists."
       },
       {
@@ -87,31 +87,47 @@
         "link": "https://www.theverge.com/archives/full",
         "title": "Archive for June 2026 - Page 1 | The Verge",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2024/10/the_verge_social_share.png",
-        "published": "2026-06-02T21:05:46+00:00",
+        "published": "2026-06-01T21:29:09+00:00",
         "blurb": "The Verge is about technology and how it makes us feel."
       },
       {
         "source": "The Verge",
-        "link": "https://www.theverge.com/games/941360/intel-arc-g3-extreme-msi-claw-next-gen-handheld-preview",
-        "title": "I held the next-gen handheld",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/msi-claw-g3-extreme-1.jpg?quality=90&strip=all&crop=0%2C10.740652134574%2C100%2C78.518695730853&w=1200",
-        "published": "2026-06-02T19:56:02+00:00",
-        "blurb": "We try the new MSI Claw with Intel’s dedicated handheld silicon."
+        "link": "https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands",
+        "title": "The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/randy-pitchford-google-watch.jpg?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
+        "published": "2026-06-01T20:59:14+00:00",
+        "blurb": "Anyone lose a Pixel Watch 5?"
       },
       {
         "source": "The Verge",
-        "link": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
-        "title": "Microsoft Build 2026: The 7 biggest announcements",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/nadella-build-2026.png?quality=90&strip=all&crop=0%2C2.9395307941329%2C100%2C94.120938411734&w=1200",
-        "published": "2026-06-02T19:23:52+00:00",
-        "blurb": "A Surface dev kit, an OS for AI agents, and more."
+        "link": "https://www.theverge.com/gadgets/941273/pebblebee-halo-bluetooth-tracker-personal-safety-deal-sale",
+        "title": "Pebblebee’s Halo can help track lost items and keep you safe, and it’s on sale for $50",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/pebblebee_halo2.jpg?quality=90&strip=all&crop=0%2C10.747740781622%2C100%2C78.504518436757&w=1200",
+        "published": "2026-06-01T20:30:06+00:00",
+        "blurb": "You can also buy three and get one free."
+      },
+      {
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/events/strictlyvc-san-francisco-2026/?utm_source=tc&utm_medium=ad&utm_campaign=svcsf2026&utm_content=ticketsales&promo=topbanner&display=",
+        "title": "StrictlyVC San Francisco 2026 - Overview",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/StrictlyVC-San-Francisco-2026-featured-lockup-whiteback.png?resize=1200,900",
+        "published": "2026-04-30",
+        "blurb": "The first StrictlyVC of 2026 is happening on April 30 in San Francisco for more VC startup talks and quality networking."
+      },
+      {
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/events/techcrunch-disrupt/?utm_source=tc&utm_medium=ad&utm_campaign=disrupt2026&utm_content=eb&promo=topbanner_eb&display=",
+        "title": "TechCrunch Disrupt 2026 - Overview",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/10/TC26_Disrupt_General_Article_Headers_1920x1080.png?resize=1200,675",
+        "published": "2026-05-29T07:15:00-07:00",
+        "blurb": "TechCrunch Disrupt 2026 is the startup epicenter for tech and VC leaders."
       },
       {
         "source": "TechCrunch",
         "link": "https://techcrunch.com/category/startups/",
         "title": "Startups | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "published": "2026-06-02T11:31:22-07:00",
+        "published": "2026-06-01T14:40:35-07:00",
         "blurb": "Read more about tech startup news that breaks down funding, growth, and long-term trajectory of companies across every stage and industry."
       },
       {
@@ -119,24 +135,8 @@
         "link": "https://techcrunch.com/category/venture/",
         "title": "Venture Capital News | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "published": "2026-06-02T14:38:26-07:00",
+        "published": "2026-06-01T09:42:22-07:00",
         "blurb": "Venture capital news and coverage feature all the VCs, VC-backed startups, and investment trends that founders, investors, and students should be tracking."
-      },
-      {
-        "source": "TechCrunch",
-        "link": "https://techcrunch.com/tag/apple/",
-        "title": "Apple news and analysis | TechCrunch",
-        "image": "https://techcrunch.com/wp-content/uploads/2022/09/AppleEvent.SEP07Keynote.Tim_Cook.02.jpg?resize=1200,675",
-        "published": "2026-06-02T07:39:29-07:00",
-        "blurb": "Read the latest news and analysis about Apple—including its software, hardware, the Vision Pro, and the anticipated introduction of AI—on TechCrunch."
-      },
-      {
-        "source": "TechCrunch",
-        "link": "https://techcrunch.com/category/security/",
-        "title": "Security News | TechCrunch",
-        "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "published": "2026-06-02T08:40:11-07:00",
-        "blurb": "Read the latest news and investigative reporting on security today, including cybersecurity, breaches, hacks and cyberattacks around the globe."
       }
     ],
     "ai": [
@@ -166,11 +166,11 @@
       },
       {
         "source": "Anthropic",
-        "link": "https://www.anthropic.com/news/expanding-project-glasswing",
-        "title": "Expanding Project Glasswing",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/19e93d85e033d3f992b78cbce2c5a3f60709bd3b-3840x2160.jpg",
+        "link": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+        "title": "Anthropic confidentially submits draft S-1 to the SEC",
+        "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
         "published": "",
-        "blurb": "We’re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries"
+        "blurb": "Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission"
       },
       {
         "source": "Google DeepMind",
@@ -248,19 +248,19 @@
       },
       {
         "source": "Anthropic",
-        "link": "https://www.anthropic.com/news/expanding-project-glasswing",
-        "title": "Expanding Project Glasswing",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/19e93d85e033d3f992b78cbce2c5a3f60709bd3b-3840x2160.jpg",
-        "published": "",
-        "blurb": "We’re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries"
-      },
-      {
-        "source": "Anthropic",
         "link": "https://www.anthropic.com/news/confidential-draft-s1-sec",
         "title": "Anthropic confidentially submits draft S-1 to the SEC",
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
         "published": "",
         "blurb": "Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission"
+      },
+      {
+        "source": "Anthropic",
+        "link": "https://www.anthropic.com/news/series-h",
+        "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&backgroundColor=coral",
+        "published": "",
+        "blurb": "Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital."
       }
     ],
     "finance": [
@@ -282,35 +282,35 @@
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/policy/2026/06/02/u-s-sanctions-iranian-crypto-exchanges-in-ongoing-war-against-country",
-        "title": "U.S. sanctions Nobitex, other Iranian crypto exchanges amid ongoing war",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/310bdf8529bb53107853c4e61afd0c549ae10e17-4348x2737.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/business/2026/06/01/crypto-investment-firm-keyrock-is-acquiring-bankrupt-lender-blockfills",
+        "title": "Digital asset firm Keyrock plans to acquire BlockFills out of bankruptcy",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/36131f663bac2a575475bac36ff388961161adc2-3000x1688.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "OFAC said it was blacklisting Nobitex and three other Iranian exchanges, as well as a few executives, citing links to terror and other crimes."
+        "blurb": "The Brussels-based digital asset services firm plans to purchase BlockFills months after the Chicago-based company filed for Chapter 11 bankruptcy, if a court approves."
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/business/2026/06/02/coinbase-backs-ethena-ahead-of-savings-product-launch-for-exchange-s-100-million-users",
-        "title": "Coinbase (COIN) backs Ethena (ENA) ahead of savings product launch for 100 million users",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/868ae20c7c05b3aab1825f55f45b74a9484fd851-1920x1280.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/markets/2026/06/01/crypto-funds-suffer-second-largest-outflows-of-2026-while-xrp-and-hype-attract-inflows",
+        "title": "Crypto funds suffer second-largest outflows of 2026 while XRP and HYPE attract inflows",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/f84a9af95d2e707c92c9152b260c498874be2af9-8660x5773.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "Coinbase Ventures, the exchange's venture arm, bought Ethena tokens as the protocol is set to roll out a Coinbase integration next week."
+        "blurb": "Investors pulled $1.67 billion from digital asset investment products last week, with bitcoin funds posting their largest weekly outflow of the year, according to a recent report from CoinShares."
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/markets/2026/06/02/galaxy-enters-institutional-prediction-markets-with-usd10-million-arca-trade",
-        "title": "Galaxy enters institutional prediction markets with $10 million Arca trade",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/d50abceb318473af68d572585009ca3553bb256e-5308x3539.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/business/2026/06/01/saylor-s-strategy-sold-bitcoin-for-the-first-time-since-2022-these-firms-are-still-buying",
+        "title": "Saylor's Strategy (MSTR) sold bitcoin (BTC). These crypto treasuries are still buying",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/b3b057353f88fd23a1a45602b8b3dd5ae6611cb3-1774x887.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "The digital asset firm launched OTC prediction markets trading for institutions and completed a $10 million trade tied to U.S."
+        "blurb": "With Strategy breaking its accumulation streak and many peers stepping aside, the list of active digital asset treasuries has narrowed considerably."
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/markets/2026/06/02/tom-lee-predicts-eth-will-hit-usd250-000-as-corporate-validators-take-over-network-control",
-        "title": "Tom Lee predicts ETH will hit $250,000 as corporate validators take over network control",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/bafb99c8f61830de7b03162ff11769973ea3ef0d-758x528.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/markets/2026/06/01/strategy-s-second-bitcoin-sale-revives-memories-of-2022",
+        "title": "Strategy's $2.5 million BTC sale and lessons from the first time MSTR sold in December 2022",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/e0cc005c0f5876f5701ad9ba567437070ea3d389-3840x2160.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "The Bitmine chairman said DeFi and AI could push the Ethereum network's value into the multi-trillion range, making current prices “future optionality at a discount”."
+        "blurb": "Strategy's last sale preceded a massive buying spree, but the company and the market look very different today."
       }
     ]
   }

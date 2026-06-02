@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T22:00:19.199Z",
+  "generatedAt": "2026-05-30T22:00:17.837Z",
   "sections": {
     "weather": {
       "city": "Sydney",
@@ -8,19 +8,19 @@
     "world": [
       {
         "source": "BBC World",
-        "link": "https://www.bbc.com/news/articles/c936zvne0l6o",
-        "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e350/live/d8c88660-5e9e-11f1-9c69-5be5e9be5821.jpg",
-        "published": "2026-06-02T21:51:20.603Z",
-        "blurb": "Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US."
+        "link": "https://www.bbc.com/news/articles/c5y8wjvd1ypo",
+        "title": "Aukus: US, UK and Australia to develop underwater drone technology",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0891/live/b13d4110-5c1b-11f1-92d1-ab2daf594570.jpg",
+        "published": "2026-05-30T12:16:26.808Z",
+        "blurb": "The technology, developed under the Aukus military pact, is aimed at protecting undersea cables and boosting naval defence."
       },
       {
         "source": "BBC World",
-        "link": "https://www.bbc.com/sport/football/world-cup",
-        "title": "World Cup 2026: Latest News, Scores, Analysis | BBC",
-        "image": "",
-        "published": "",
-        "blurb": "See BBC’s coverage of the 2026 World Cup in North America."
+        "link": "https://www.bbc.com/news/articles/c0r2d40r91qo",
+        "title": "Trump holds meeting to make 'final determination' on Iran deal",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f155/live/9136a770-5b77-11f1-b93a-99fdf449fe40.jpg",
+        "published": "2026-05-30T11:39:32.786Z",
+        "blurb": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal."
       },
       {
         "source": "BBC World",
@@ -45,7 +45,7 @@
         "link": "https://www.abc.net.au/news/justin",
         "title": "Just In",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-06-02T21:45:38.000Z",
+        "published": "2026-05-30T21:36:14.000Z",
         "blurb": "Live breaking news stories from across Australia & around the world."
       },
       {
@@ -53,7 +53,7 @@
         "link": "https://www.abc.net.au/news/politics",
         "title": "Politics",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-06-02T21:02:12.000Z",
+        "published": "2026-05-30T20:06:27.000Z",
         "blurb": "Australian politics, policy analysis, explainers, election coverage and more"
       },
       {
@@ -61,7 +61,7 @@
         "link": "https://www.abc.net.au/news/world",
         "title": "World News",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-06-02T21:45:38.000Z",
+        "published": "2026-05-30T20:54:14.000Z",
         "blurb": "The latest World News headlines, photos, video and audio content from the ABC's trusted network of overseas-based journalists."
       },
       {
@@ -85,33 +85,49 @@
       {
         "source": "The Verge",
         "link": "https://www.theverge.com/archives/full",
-        "title": "Archive for June 2026 - Page 1 | The Verge",
+        "title": "Archive for May 2026 - Page 1 | The Verge",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2024/10/the_verge_social_share.png",
-        "published": "2026-06-02T21:05:46+00:00",
+        "published": "2026-05-30T14:02:51+00:00",
         "blurb": "The Verge is about technology and how it makes us feel."
       },
       {
         "source": "The Verge",
-        "link": "https://www.theverge.com/games/941360/intel-arc-g3-extreme-msi-claw-next-gen-handheld-preview",
-        "title": "I held the next-gen handheld",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/msi-claw-g3-extreme-1.jpg?quality=90&strip=all&crop=0%2C10.740652134574%2C100%2C78.518695730853&w=1200",
-        "published": "2026-06-02T19:56:02+00:00",
-        "blurb": "We try the new MSI Claw with Intel’s dedicated handheld silicon."
+        "link": "https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability",
+        "title": "Microsoft is threatening legal action for disclosing exploits",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK095_Microsoft_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "published": "2026-05-30T15:19:50+00:00",
+        "blurb": "What qualifies as “responsible disclosure” though?"
       },
       {
         "source": "The Verge",
-        "link": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
-        "title": "Microsoft Build 2026: The 7 biggest announcements",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/nadella-build-2026.png?quality=90&strip=all&crop=0%2C2.9395307941329%2C100%2C94.120938411734&w=1200",
-        "published": "2026-06-02T19:23:52+00:00",
-        "blurb": "A Surface dev kit, an OS for AI agents, and more."
+        "link": "https://www.theverge.com/gadgets/940211/samsung-frame-hisense-canvastv-art-tv-sale-deal",
+        "title": "Two of our favorite art TVs are more than 40 percent off this weekend",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/samsungtheframetv75inch.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "published": "2026-05-30T15:00:00+00:00",
+        "blurb": "You can get a big-screen set for under $1,000."
+      },
+      {
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/events/strictlyvc-san-francisco-2026/?utm_source=tc&utm_medium=ad&utm_campaign=svcsf2026&utm_content=ticketsales&promo=topbanner&display=",
+        "title": "StrictlyVC San Francisco 2026 - Overview",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/StrictlyVC-San-Francisco-2026-featured-lockup-whiteback.png?resize=1200,900",
+        "published": "2026-04-30",
+        "blurb": "The first StrictlyVC of 2026 is happening on April 30 in San Francisco for more VC startup talks and quality networking."
+      },
+      {
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/events/techcrunch-disrupt/?utm_source=tc&utm_medium=ad&utm_campaign=disrupt2026&utm_content=eb&promo=topbanner_eb&display=",
+        "title": "TechCrunch Disrupt 2026 - Overview",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/10/TC26_Disrupt_General_Article_Headers_1920x1080.png?resize=1200,675",
+        "published": "2026-05-29T07:15:00-07:00",
+        "blurb": "TechCrunch Disrupt 2026 is the startup epicenter for tech and VC leaders."
       },
       {
         "source": "TechCrunch",
         "link": "https://techcrunch.com/category/startups/",
         "title": "Startups | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "published": "2026-06-02T11:31:22-07:00",
+        "published": "2026-05-30T10:00:00-07:00",
         "blurb": "Read more about tech startup news that breaks down funding, growth, and long-term trajectory of companies across every stage and industry."
       },
       {
@@ -119,24 +135,8 @@
         "link": "https://techcrunch.com/category/venture/",
         "title": "Venture Capital News | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "published": "2026-06-02T14:38:26-07:00",
+        "published": "2026-05-30T14:45:00-07:00",
         "blurb": "Venture capital news and coverage feature all the VCs, VC-backed startups, and investment trends that founders, investors, and students should be tracking."
-      },
-      {
-        "source": "TechCrunch",
-        "link": "https://techcrunch.com/tag/apple/",
-        "title": "Apple news and analysis | TechCrunch",
-        "image": "https://techcrunch.com/wp-content/uploads/2022/09/AppleEvent.SEP07Keynote.Tim_Cook.02.jpg?resize=1200,675",
-        "published": "2026-06-02T07:39:29-07:00",
-        "blurb": "Read the latest news and analysis about Apple—including its software, hardware, the Vision Pro, and the anticipated introduction of AI—on TechCrunch."
-      },
-      {
-        "source": "TechCrunch",
-        "link": "https://techcrunch.com/category/security/",
-        "title": "Security News | TechCrunch",
-        "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "published": "2026-06-02T08:40:11-07:00",
-        "blurb": "Read the latest news and investigative reporting on security today, including cybersecurity, breaches, hacks and cyberattacks around the globe."
       }
     ],
     "ai": [
@@ -166,11 +166,11 @@
       },
       {
         "source": "Anthropic",
-        "link": "https://www.anthropic.com/news/expanding-project-glasswing",
-        "title": "Expanding Project Glasswing",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/19e93d85e033d3f992b78cbce2c5a3f60709bd3b-3840x2160.jpg",
+        "link": "https://www.anthropic.com/news/series-h",
+        "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&backgroundColor=coral",
         "published": "",
-        "blurb": "We’re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries"
+        "blurb": "Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital."
       },
       {
         "source": "Google DeepMind",
@@ -248,29 +248,29 @@
       },
       {
         "source": "Anthropic",
-        "link": "https://www.anthropic.com/news/expanding-project-glasswing",
-        "title": "Expanding Project Glasswing",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/19e93d85e033d3f992b78cbce2c5a3f60709bd3b-3840x2160.jpg",
+        "link": "https://www.anthropic.com/news/series-h",
+        "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&backgroundColor=coral",
         "published": "",
-        "blurb": "We’re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries"
+        "blurb": "Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital."
       },
       {
         "source": "Anthropic",
-        "link": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-        "title": "Anthropic confidentially submits draft S-1 to the SEC",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+        "link": "https://www.anthropic.com/news/milan-office-opening",
+        "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
+        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20City&backgroundColor=fig",
         "published": "",
-        "blurb": "Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission"
+        "blurb": "We're opening a new office in Milan, our sixth in Europe."
       }
     ],
     "finance": [
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/videos/editors-picks",
-        "title": "Editor's Picks | Video Playlist | CoinDesk",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/6c96b8d0bd4aeb6c788cc3e8622f8cd07d3f7833-4780x2520.png?auto=format",
+        "link": "https://www.coindesk.com/videos/featured-videos",
+        "title": "Featured Videos | Video Playlist | CoinDesk",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/4fc82af41ef1603634aef19e553d6c1d453fca6b-2400x1260.png",
         "published": "",
-        "blurb": "Our most compelling interviews in one playlist, from the newsmakers moving markets to the people building crypto's next chapter."
+        "blurb": "| Video"
       },
       {
         "source": "CoinDesk",
@@ -282,35 +282,35 @@
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/policy/2026/06/02/u-s-sanctions-iranian-crypto-exchanges-in-ongoing-war-against-country",
-        "title": "U.S. sanctions Nobitex, other Iranian crypto exchanges amid ongoing war",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/310bdf8529bb53107853c4e61afd0c549ae10e17-4348x2737.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/business/2026/05/30/sec-sues-texas-man-over-usd12-3-million-alleged-crypto-scheme-built-on-fake-ai-trading-bots",
+        "title": "SEC sues Texas man over $12.3 million alleged crypto scheme built on fake AI trading bots",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/ac4dbd7392625e4b7d80a9d014d051d307a4d10c-3681x2071.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "OFAC said it was blacklisting Nobitex and three other Iranian exchanges, as well as a few executives, citing links to terror and other crimes."
+        "blurb": "Fuller allegedly diverted $6.2 million for personal use and $5.5M for Ponzi-like payments; only 3% of funds went to crypto trading."
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/business/2026/06/02/coinbase-backs-ethena-ahead-of-savings-product-launch-for-exchange-s-100-million-users",
-        "title": "Coinbase (COIN) backs Ethena (ENA) ahead of savings product launch for 100 million users",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/868ae20c7c05b3aab1825f55f45b74a9484fd851-1920x1280.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/business/2026/05/30/u-s-says-it-seized-about-usd1-billion-in-iranian-crypto-as-pressure-campaign-expands",
+        "title": "U.S. says it seized about $1 billion in Iranian crypto as pressure campaign expands",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/65bd684b67415bb4f57438bede69bae09f26621d-5031x3354.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "Coinbase Ventures, the exchange's venture arm, bought Ethena tokens as the protocol is set to roll out a Coinbase integration next week."
+        "blurb": "The seizure, falling under \"Operation Economic Fury,\" aims to restrict Iran's access to overseas revenue, banking networks, and crypto infrastructure."
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/markets/2026/06/02/galaxy-enters-institutional-prediction-markets-with-usd10-million-arca-trade",
-        "title": "Galaxy enters institutional prediction markets with $10 million Arca trade",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/d50abceb318473af68d572585009ca3553bb256e-5308x3539.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/business/2026/05/28/defi-vulnerabilities-are-tradfi-biggest-blocker-as-protocols-hit-by-near-daily-exploits-certik",
+        "title": "Wall Street’s trillion-dollar dilemma: Why AI-powered hackers are keeping big banks off the blockchain",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/128d9f398bbe864f843d89bdca5e598792f16885-1280x960.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "The digital asset firm launched OTC prediction markets trading for institutions and completed a $10 million trade tied to U.S."
+        "blurb": "CertiK CEO and co-founder Ronghui Gu says April was the worst month for DeFi in four years with exploits on 27 out of 30 day"
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/markets/2026/06/02/tom-lee-predicts-eth-will-hit-usd250-000-as-corporate-validators-take-over-network-control",
-        "title": "Tom Lee predicts ETH will hit $250,000 as corporate validators take over network control",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/bafb99c8f61830de7b03162ff11769973ea3ef0d-758x528.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/business/2026/05/26/when-the-market-is-bad-we-build-inside-binance-s-bold-2030-master-plan",
+        "title": "Binance aims for 3 billion users by 2030 amid a market it says is going through hard times",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/035764bcc2d39ba3ef197f0f607304beed427692-1280x853.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "The Bitmine chairman said DeFi and AI could push the Ethereum network's value into the multi-trillion range, making current prices “future optionality at a discount”."
+        "blurb": "Established crypto firms will merge with traditional finance, but neither Wall Street bankers nor corporate giants will take over the crypto industry, said Binance’s Head of VIP and Institutional, Catherine Chen."
       }
     ]
   }
