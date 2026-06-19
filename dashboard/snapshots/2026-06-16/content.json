@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T22:00:17.388Z",
+  "generatedAt": "2026-06-16T22:00:18.258Z",
   "sections": {
     "weather": {
       "city": "Sydney",
@@ -8,11 +8,11 @@
     "world": [
       {
         "source": "BBC World",
-        "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o",
-        "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1d8c/live/3048d450-6c0d-11f1-866d-31e44f099e94.jpg",
-        "published": "2026-06-19T19:27:12.019Z",
-        "blurb": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran."
+        "link": "https://www.bbc.com/news/articles/cn4rwzxvl8ko",
+        "title": "How Iran is trying to sell a deal with the US as victory",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bd69/live/fa1ab490-698f-11f1-bf78-b9ee73ed2967.jpg",
+        "published": "2026-06-16T15:31:24.945Z",
+        "blurb": "For many Iranians, the question is not whether the deal means victory, but whether it lowers prices and reduces fear of another war."
       },
       {
         "source": "BBC World",
@@ -45,7 +45,7 @@
         "link": "https://www.abc.net.au/news/justin",
         "title": "Just In",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-06-19T21:53:46.000Z",
+        "published": "2026-06-16T21:57:31.000Z",
         "blurb": "Live breaking news stories from across Australia & around the world."
       },
       {
@@ -53,7 +53,7 @@
         "link": "https://www.abc.net.au/news/politics",
         "title": "Politics",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-06-19T21:00:00.000Z",
+        "published": "2026-06-16T21:31:33.000Z",
         "blurb": "Australian politics, policy analysis, explainers, election coverage and more"
       },
       {
@@ -61,7 +61,7 @@
         "link": "https://www.abc.net.au/news/world",
         "title": "World News",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-06-19T21:53:46.000Z",
+        "published": "2026-06-16T20:10:49.000Z",
         "blurb": "The latest World News headlines, photos, video and audio content from the ABC's trusted network of overseas-based journalists."
       },
       {
@@ -87,31 +87,31 @@
         "link": "https://www.theverge.com/archives/full",
         "title": "Archive for June 2026 - Page 1 | The Verge",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2024/10/the_verge_social_share.png",
-        "published": "2026-06-19T21:28:39+00:00",
+        "published": "2026-06-16T21:22:07+00:00",
         "blurb": "The Verge is about technology and how it makes us feel."
       },
       {
         "source": "The Verge",
-        "link": "https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb",
-        "title": "Hue’s wired wall modules bring non-smart lights into its ecosystem",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/philips-hue-wandschalter-modul.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "published": "2026-06-19T17:24:45+00:00",
-        "blurb": "But just in Europe."
+        "link": "https://www.theverge.com/tech/950936/google-android-17-wear-os-android-xr",
+        "title": "All the latest news on Android 17, Wear OS 7, and Android XR",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007892/acastro_STK112_android_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "published": "2026-06-16T18:30:00+00:00",
+        "blurb": "Bubbles on Android 17, Live Updates on Wear OS 7."
       },
       {
         "source": "The Verge",
-        "link": "https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming",
-        "title": "The NTS Radio Player brings the best of internet radio to your hi-fi",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Atonemo_NTS_radioplayer_Product-41.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "published": "2026-06-19T14:53:53+00:00",
-        "blurb": "To hell with algorithms, let a human DJ take the wheel."
+        "link": "https://www.theverge.com/gadgets/950671/wear-os-7-pixel-watches-launch",
+        "title": "Google launches Wear OS 7 with Live Updates and a battery life boost",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/google-wearos-7-launch-live-updates.png?quality=90&strip=all&crop=0%2C3.5645047073983%2C100%2C92.870990585203&w=1200",
+        "published": "2026-06-16T18:00:00+00:00",
+        "blurb": "Track your meal delivery from your Pixel watch."
       },
       {
         "source": "TechCrunch",
         "link": "https://techcrunch.com/category/startups/",
         "title": "Startups | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "published": "2026-06-19T09:50:58-07:00",
+        "published": "2026-06-16T08:35:39-07:00",
         "blurb": "Read more about tech startup news that breaks down funding, growth, and long-term trajectory of companies across every stage and industry."
       },
       {
@@ -119,7 +119,7 @@
         "link": "https://techcrunch.com/category/venture/",
         "title": "Venture Capital News | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "published": "2026-06-18T12:52:19-07:00",
+        "published": "2026-06-16T09:51:17-07:00",
         "blurb": "Venture capital news and coverage feature all the VCs, VC-backed startups, and investment trends that founders, investors, and students should be tracking."
       },
       {
@@ -127,7 +127,7 @@
         "link": "https://techcrunch.com/tag/apple/",
         "title": "Apple news and analysis | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2022/09/AppleEvent.SEP07Keynote.Tim_Cook.02.jpg?resize=1200,675",
-        "published": "2026-06-18T08:48:08-07:00",
+        "published": "2026-06-14T09:05:00-07:00",
         "blurb": "Read the latest news and analysis about Apple—including its software, hardware, the Vision Pro, and the anticipated introduction of AI—on TechCrunch."
       },
       {
@@ -135,7 +135,7 @@
         "link": "https://techcrunch.com/category/security/",
         "title": "Security News | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "published": "2026-06-18T10:12:53-07:00",
+        "published": "2026-06-16T11:13:49-07:00",
         "blurb": "Read the latest news and investigative reporting on security today, including cybersecurity, breaches, hacks and cyberattacks around the globe."
       }
     ],
@@ -282,35 +282,35 @@
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/markets/2026/06/19/schwab-to-join-prediction-markets-race-with-s-and-p-500-event-based-options-wsj",
-        "title": "Schwab to join prediction markets race with S&P 500 event-based options: WSJ",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/cc2e121d53068f5ee4a64351fa479ce13fd75769-6000x3978.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/markets/2026/06/16/here-is-why-strategy-s-dividend-paying-crypto-stock-is-crashing-to-near-historic-lows",
+        "title": "Strategy's investors are may be rotating out of its preferred stock for another crypto rival",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/0339788ec6da49e65916e89c4bf0f137635275cd-720x406.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "The planned offering would let customers bet on index moves as Coinbase and Robinhood expand in the sector."
+        "blurb": "Strategy's bitcoin-backed preferred stock remains well below par value as concerns over dividend coverage and stronger competition from Strive's SATA."
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/business/2026/06/19/gomining-challenges-jack-dorsey-s-square-with-payments-system-designed-around-bitcoin",
-        "title": "GoMining challenges Jack Dorsey's Square with a pure BTC payment rail",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/cab7c2189991e6ba68bc9c8c8ed71e58bf53bc8c-1280x800.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/markets/2026/06/16/bitcoin-miners-ai-pivot-faces-usd50-billion-reality-check-says-vaneck",
+        "title": "Bitcoin miners' AI pivot faces $50 billion reality check, says VanEck",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/85d39d433608ce52b036a80ff71f3844b50eebde-8192x5456.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "GoMining unveiled a SDK and API for its BTC payment protocol GoBTC Pay, allowing merchants to accept bitcoin for everyday purchases."
+        "blurb": "VanEck says investors are shifting focus from contract announcements to execution risk as miners chase AI revenue."
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/daybook-us/2026/06/19/franklin-templeton-proposes-new-funds-that-turn-corporate-dividends-into-bitcoin",
-        "title": "Franklin Templeton proposes new funds that turn dividends into BTC: Crypto Daily",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e449fbe8cd234bda47b7df1be0cb3240b2dccaf-4898x2755.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/policy/2026/06/16/u-s-senators-urge-treasury-not-to-leave-states-out-of-genius-act-stablecoin-process",
+        "title": "U.S. senators urge Treasury not to leave states out of GENIUS Act stablecoin process",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/fdf7f5a1bfc3ea1d7708ef0c24ddb8c1297cbb2f-3480x1958.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "Your day-ahead look for June 19, 2026"
+        "blurb": "Senators led by Republican Cynthia Lummis are insisting the Treasury Department ensure states get a process to prove their ability to supervise stablecoins."
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/markets/2026/06/19/smart-contract-and-defi-coins-lead-losses-as-bitcoin-wilts-for-4th-straight-day",
-        "title": "Smart-contract and DeFi coins lead losses as BTC price wilts for 4th straight day",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/9ec4de39272adf8841b32cdceccdf8abe655e2fd-8256x5504.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/markets/2026/06/16/hyperliquid-uniswap-and-worldcoin-buck-crypto-slump-as-traders-chase-ai-defi-trends",
+        "title": "HYPE, UNI and WLD outperform on Tuesday",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/28dc05f5863ceef5783ff2f863e7d7f5661ce676-1200x675.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "Concerns about STRC, the dividend-paying preferred stock from Strategy continue to dominate market sentiment."
+        "blurb": "A handful of tokens continued their run while bitcoin and the rest of the crypto market stalled after the early week bounce."
       }
     ]
   }
