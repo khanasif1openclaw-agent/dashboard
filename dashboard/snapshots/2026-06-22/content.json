@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T22:00:16.950Z",
+  "generatedAt": "2026-06-22T22:00:20.109Z",
   "sections": {
     "weather": {
       "city": "Sydney",
@@ -8,11 +8,11 @@
     "world": [
       {
         "source": "BBC World",
-        "link": "https://www.bbc.com/news/articles/c79yvw3j114o",
-        "title": "Europe heatwave: Drowning deaths soar in France as Europe buckles in record June heat",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2593/live/ebcebc30-6f05-11f1-8546-8f19e4fe30f4.jpg",
-        "published": "2026-06-23T16:27:17.151Z",
-        "blurb": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says."
+        "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo",
+        "title": "Vance says Iran will allow nuclear inspectors back into the country",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/15e7/live/28fdf500-6e5a-11f1-8e1d-bbbb1017d210.jpg",
+        "published": "2026-06-22T14:18:19.339Z",
+        "blurb": "The US vice-president says a great deal of progress has been made after the first round of talks between the US and Iran."
       },
       {
         "source": "BBC World",
@@ -45,7 +45,7 @@
         "link": "https://www.abc.net.au/news/justin",
         "title": "Just In",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-06-23T21:54:21.000Z",
+        "published": "2026-06-22T21:41:48.000Z",
         "blurb": "Live breaking news stories from across Australia & around the world."
       },
       {
@@ -53,7 +53,7 @@
         "link": "https://www.abc.net.au/news/politics",
         "title": "Politics",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-06-23T21:29:13.000Z",
+        "published": "2026-06-22T21:34:53.000Z",
         "blurb": "Australian politics, policy analysis, explainers, election coverage and more"
       },
       {
@@ -61,7 +61,7 @@
         "link": "https://www.abc.net.au/news/world",
         "title": "World News",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-06-23T21:41:39.000Z",
+        "published": "2026-06-22T21:14:43.000Z",
         "blurb": "The latest World News headlines, photos, video and audio content from the ABC's trusted network of overseas-based journalists."
       },
       {
@@ -87,47 +87,31 @@
         "link": "https://www.theverge.com/archives/full",
         "title": "Archive for June 2026 - Page 1 | The Verge",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2024/10/the_verge_social_share.png",
-        "published": "2026-06-23T21:00:00+00:00",
+        "published": "2026-06-22T21:07:14+00:00",
         "blurb": "The Verge is about technology and how it makes us feel."
       },
       {
         "source": "The Verge",
-        "link": "https://www.theverge.com/gadgets/954049/meta-quest-3s-vr-headset-prime-day-deal-sale",
-        "title": "The Meta Quest 3S is on sale for $297 — which is basically its old price",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25826092/257467_Meta_Quest_3S_AKrales_0140.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "published": "2026-06-23T21:00:00+00:00",
-        "blurb": "Better than nothing, that’s for sure."
+        "link": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+        "title": "AI is cursing renters with the promise of impossible homes",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268589_Vitual_staging_AParkin.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "published": "2026-06-22T20:00:00+00:00",
+        "blurb": "You can’t spell ‘apartment listing’ without AI."
       },
       {
         "source": "The Verge",
-        "link": "https://www.theverge.com/gadgets/953936/roborock-saros-20-amazon-deal-sale",
-        "title": "Prime Day takes $240 off Roborock’s Saros 20, one of our favorite robovacs",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/roborock-saros-20-climbing.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "published": "2026-06-23T21:00:00+00:00",
-        "blurb": "It makes cleaning nearly hands-free."
-      },
-      {
-        "source": "TechCrunch",
-        "link": "https://techcrunch.com/events/strictlyvc-san-francisco-2026/?utm_source=tc&utm_medium=ad&utm_campaign=svcsf2026&utm_content=ticketsales&promo=topbanner&display=",
-        "title": "StrictlyVC San Francisco 2026 - Overview",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/StrictlyVC-San-Francisco-2026-featured-lockup-whiteback.png?resize=1200,900",
-        "published": "2026-04-30",
-        "blurb": "The first StrictlyVC of 2026 is happening on April 30 in San Francisco for more VC startup talks and quality networking."
-      },
-      {
-        "source": "TechCrunch",
-        "link": "https://techcrunch.com/events/techcrunch-founder-summit-2026/?utm_source=tc&utm_medium=ad&utm_campaign=tcfoundersummit2026&utm_content=eb&promo=tc_eventtimer&display=",
-        "title": "TechCrunch Founder Summit 2026 - Overview",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/12/16x9_GeneralArticleImageHeader_FS26_V1.png?resize=1200,675",
-        "published": "2026-06-23T07:00:00-07:00",
-        "blurb": "TechCrunch Founder Summit heads to Boston on November 4, 2026 to bring 1,000+ founders and VCs a full day of how-to, must-have scaling knowledge."
+        "link": "https://www.theverge.com/gadgets/953458/apple-watch-se-3-prime-day-deal-sale",
+        "title": "The Apple Watch SE 3 is just $199 for Prime Day",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257944_Applewatch_SE_AKrales_0104.jpg?quality=90&strip=all&crop=0%2C32.547993019197%2C100%2C34.904013961606&w=1200",
+        "published": "2026-06-22T18:00:00+00:00",
+        "blurb": "The SE 3 was a massive upgrade, and now, it’s at an all-time low price."
       },
       {
         "source": "TechCrunch",
         "link": "https://techcrunch.com/category/startups/",
         "title": "Startups | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "published": "2026-06-23T14:48:23-07:00",
+        "published": "2026-06-22T13:13:58-07:00",
         "blurb": "Read more about tech startup news that breaks down funding, growth, and long-term trajectory of companies across every stage and industry."
       },
       {
@@ -135,8 +119,24 @@
         "link": "https://techcrunch.com/category/venture/",
         "title": "Venture Capital News | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "published": "2026-06-23T12:49:55-07:00",
+        "published": "2026-06-22T07:00:00-07:00",
         "blurb": "Venture capital news and coverage feature all the VCs, VC-backed startups, and investment trends that founders, investors, and students should be tracking."
+      },
+      {
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/tag/apple/",
+        "title": "Apple news and analysis | TechCrunch",
+        "image": "https://techcrunch.com/wp-content/uploads/2022/09/AppleEvent.SEP07Keynote.Tim_Cook.02.jpg?resize=1200,675",
+        "published": "2026-06-22T12:25:00-07:00",
+        "blurb": "Read the latest news and analysis about Apple—including its software, hardware, the Vision Pro, and the anticipated introduction of AI—on TechCrunch."
+      },
+      {
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/category/security/",
+        "title": "Security News | TechCrunch",
+        "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
+        "published": "2026-06-22T12:25:00-07:00",
+        "blurb": "Read the latest news and investigative reporting on security today, including cybersecurity, breaches, hacks and cyberattacks around the globe."
       }
     ],
     "ai": [
@@ -147,14 +147,6 @@
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/50159fff55088f12070cc8a56eb51ff61006b631-2400x1260.png",
         "published": "",
         "blurb": "The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States."
-      },
-      {
-        "source": "Anthropic",
-        "link": "https://www.anthropic.com/news/introducing-claude-tag",
-        "title": "Introducing Claude Tag",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/b9ba85fd4d8beaf4efe04a4cf6cec14761e52c78-2400x1260.jpg",
-        "published": "",
-        "blurb": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
       },
       {
         "source": "Anthropic",
@@ -171,6 +163,14 @@
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/19e93d85e033d3f992b78cbce2c5a3f60709bd3b-3840x2160.jpg",
         "published": "",
         "blurb": "We’re extending Project Glasswing to approximately 150 new organizations in more than fifteen countries"
+      },
+      {
+        "source": "Anthropic",
+        "link": "https://www.anthropic.com/news/claude-opus-4-8",
+        "title": "Introducing Claude Opus 4.8",
+        "image": "https://cdn.sanity.io/images/4zrzovbb/website/0eaa0ed2dce9810169112e1c77de2585fcf1f5c2-2880x1620.jpg",
+        "published": "",
+        "blurb": "Our latest model, Claude Opus 4.8, is an upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work."
       },
       {
         "source": "Google DeepMind",
@@ -232,14 +232,6 @@
       },
       {
         "source": "Anthropic",
-        "link": "https://www.anthropic.com/news/introducing-claude-tag",
-        "title": "Introducing Claude Tag",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/b9ba85fd4d8beaf4efe04a4cf6cec14761e52c78-2400x1260.jpg",
-        "published": "",
-        "blurb": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-      },
-      {
-        "source": "Anthropic",
         "link": "https://www.anthropic.com/news/claude-corps",
         "title": "Introducing Claude Corps",
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/eb5d94573805e24cb381cd0676527cfada75c177-3840x2160.jpg",
@@ -261,6 +253,14 @@
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/0eaa0ed2dce9810169112e1c77de2585fcf1f5c2-2880x1620.jpg",
         "published": "",
         "blurb": "Our latest model, Claude Opus 4.8, is an upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work."
+      },
+      {
+        "source": "Anthropic",
+        "link": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+        "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+        "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Quill&backgroundColor=heather",
+        "published": "",
+        "blurb": "The full text of Chris Olah's remarks on the Pope's encyclical on AI."
       }
     ],
     "finance": [
@@ -282,35 +282,35 @@
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/business/2026/06/23/crypto-critic-roubini-joins-tokenization-boom-with-onchain-technodollar",
-        "title": "Crypto critic Nouriel Roubini embraces tokenization with ETF-backed 'Technodollar'",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/dba9c2120b76eaf10ebb379dfa89e920d0563514-5472x3648.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/business/2026/06/22/securitize-and-tzero-clash-over-patents-as-race-to-bring-wall-street-onchain-heats-up",
+        "title": "Tokenization pioneers Securitize and tZERO clash over patents as Wall Street moves onchain",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/5327659df02632f543fcef456e95431561ddbbd4-4032x2268.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "The economist known as \"Dr."
+        "blurb": "tZERO and Securitize are squaring off over tokenization patents as the market attracts more of Wall Street's attention."
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/markets/2026/06/23/meta-is-developing-a-prediction-market-app-called-arena-as-sector-booms-nyt",
-        "title": "Meta is developing a prediction market app called ‘Arena’ as sector booms: NYT",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e5cf463b2f68dffa6a7b6afec450568a6f19f28-2122x1415.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/markets/2026/06/22/ric-edelman-says-crypto-s-biggest-growth-story-is-happening-off-the-price-chart",
+        "title": "Ric Edelman says crypto’s biggest growth story is happening off the price chart",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/f274f885be1887c80b11620396844dda487c325f-1558x964.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "The app would let users forecast future events using a points-based system rather than cash wagers, the report said, citing people familiar with the matter."
+        "blurb": "Crypto prices remain under pressure, but Ric Edelman says institutional adoption and tokenization are accelerating behind the scenes."
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/markets/2026/06/23/bny-sees-fomo-driving-asset-managers-into-tokenized-funds",
-        "title": "BNY sees 'FOMO' driving asset managers into tokenized funds",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/1df79087776a232721826d2559a0e7004de05895-2724x1532.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/markets/2026/06/22/21shares-co-founder-warns-tokenization-hype-is-outrunning-wall-street-reality",
+        "title": "21Shares co-founder warns tokenization hype is outrunning Wall Street reality",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/467fc911956c4cc20edaca50a2382d699f6cd2c4-2602x1462.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "Fund issuers are exploring blockchain-based ETFs amid fears of missing an early foothold in tokenized finance."
+        "blurb": "Tokenization can improve settlement and asset movement, but key pieces of financial infrastructure remain unprepared for institutional-scale adoption."
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/markets/2026/06/23/chainlink-teams-up-with-47-south-korean-european-banks-to-speed-up-international-money-transfers",
-        "title": "Chainlink teams up with 47 South Korean, European banks to speed up international money transfers",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/16c937cdc094ae8338e44428e5e7d22a904337c7-1536x1024.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/markets/2026/06/22/strive-says-digital-credit-selloff-was-a-liquidation-event-not-a-credit-crisis",
+        "title": "Strive says digital credit selloff was a liquidation event, not a credit crisis",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/dbde724952736381445b0e81782d0ff1e8497447-2036x980.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "The alliance, called Project Pangea, plans to use stablecoins to settle multimillion-dollar currency trades between Europe and South Korea in near real time."
+        "blurb": "A sharp selloff in digital credit products exposed growing pains in a young market, a Strive executive argues the underlying credit fundamentals remain intact."
       }
     ]
   }
