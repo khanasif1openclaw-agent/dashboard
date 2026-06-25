@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T22:00:18.519Z",
+  "generatedAt": "2026-06-24T22:00:19.334Z",
   "sections": {
     "weather": {
       "city": "Sydney",
@@ -8,11 +8,11 @@
     "world": [
       {
         "source": "BBC World",
-        "link": "https://www.bbc.com/news/live/c621z18wznet",
-        "title": "Venezuela earthquakes death toll rises to 188 as rescuers search rubble for survivors  - follow live",
-        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/79bb/live/57e513f0-70dd-11f1-8e1d-bbbb1017d210.jpg",
-        "published": "2026-06-25T21:48:35.000Z",
-        "blurb": "More than 1,500 people have been injured, and about 3,000 families have lost their home, according to the president of the national assembly."
+        "link": "https://www.bbc.com/news/articles/c78y4102n1zo",
+        "title": "Europe heatwave: France, UK and Spain see record temperatures as heatwave grips western Europe",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1e66/live/9b1b95b0-6feb-11f1-a9c4-37da5d161ee0.jpg",
+        "published": "2026-06-24T21:39:18.914Z",
+        "blurb": "Tens of millions of people are grappling with punishing temperatures, which have led to red heat alerts across the continent."
       },
       {
         "source": "BBC World",
@@ -45,7 +45,7 @@
         "link": "https://www.abc.net.au/news/justin",
         "title": "Just In",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-06-25T21:53:48.000Z",
+        "published": "2026-06-24T21:46:46.000Z",
         "blurb": "Live breaking news stories from across Australia & around the world."
       },
       {
@@ -53,7 +53,7 @@
         "link": "https://www.abc.net.au/news/politics",
         "title": "Politics",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-06-25T21:08:31.000Z",
+        "published": "2026-06-24T21:46:46.000Z",
         "blurb": "Australian politics, policy analysis, explainers, election coverage and more"
       },
       {
@@ -61,7 +61,7 @@
         "link": "https://www.abc.net.au/news/world",
         "title": "World News",
         "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec?impolicy=wcms_crop_resize&cropH=700&cropW=700&xPos=0&yPos=0&width=862&height=862&imformat=generic",
-        "published": "2026-06-25T21:40:47.000Z",
+        "published": "2026-06-24T21:49:43.000Z",
         "blurb": "The latest World News headlines, photos, video and audio content from the ABC's trusted network of overseas-based journalists."
       },
       {
@@ -87,24 +87,24 @@
         "link": "https://www.theverge.com/archives/full",
         "title": "Archive for June 2026 - Page 1 | The Verge",
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2024/10/the_verge_social_share.png",
-        "published": "2026-06-25T20:18:47+00:00",
+        "published": "2026-06-24T21:06:41+00:00",
         "blurb": "The Verge is about technology and how it makes us feel."
       },
       {
         "source": "The Verge",
-        "link": "https://www.theverge.com/tech/956456/instagram-for-tv-youtube-microdramas-longform-video",
-        "title": "Who is Instagram for TV for?",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Screenshot-2026-06-24-at-4.43.00-PM.png?quality=90&strip=all&crop=0%2C1.8565324667509%2C100%2C96.286935066498&w=1200",
-        "published": "2026-06-25T20:10:24+00:00",
-        "blurb": "Do you want to watch Instagram Reels and Stories on your TV?"
+        "link": "https://www.theverge.com/tech/956504/microsoft-surface-pro-laptop-ram",
+        "title": "Microsoft introduces cheaper Surface devices with half the memory",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257765_Microsoft_Surface_Laptop_13_2025_ADiBenedetto_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "published": "2026-06-24T21:39:00+00:00",
+        "blurb": "The 12-inch Surface Pro now starts at $849, while the 13-inch Surface Laptop costs $949 and up."
       },
       {
         "source": "The Verge",
-        "link": "https://www.theverge.com/tech/956950/ram-crisis-apple-price-increase",
-        "title": "RAMageddon just got extremely real",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03702_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-        "published": "2026-06-25T20:00:00+00:00",
-        "blurb": "Better get your Neo now."
+        "link": "https://www.theverge.com/tech/956450/nature-microsoft-quantum-computing-majorana-1-claims",
+        "title": "A new paper argues Microsoft exaggerated its quantum claims a year ago",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Majorana-1-005-4000px.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+        "published": "2026-06-24T20:54:57+00:00",
+        "blurb": "A peer-reviewed critique of Majorana 1 claims Microsoft did not conclusively demonstrate a working topological qubit."
       },
       {
         "source": "TechCrunch",
@@ -119,7 +119,7 @@
         "link": "https://techcrunch.com/events/techcrunch-founder-summit-2026/?utm_source=tc&utm_medium=ad&utm_campaign=tcfoundersummit2026&utm_content=eb&promo=tc_eventtimer&display=",
         "title": "TechCrunch Founder Summit 2026 - Overview",
         "image": "https://techcrunch.com/wp-content/uploads/2025/12/16x9_GeneralArticleImageHeader_FS26_V1.png?resize=1200,675",
-        "published": "2026-06-24T07:00:00-07:00",
+        "published": "2026-06-23T07:00:00-07:00",
         "blurb": "TechCrunch Founder Summit heads to Boston on November 4, 2026 to bring 1,000+ founders and VCs a full day of how-to, must-have scaling knowledge."
       },
       {
@@ -127,7 +127,7 @@
         "link": "https://techcrunch.com/category/startups/",
         "title": "Startups | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "published": "2026-06-25T10:52:05-07:00",
+        "published": "2026-06-24T14:56:41-07:00",
         "blurb": "Read more about tech startup news that breaks down funding, growth, and long-term trajectory of companies across every stage and industry."
       },
       {
@@ -135,7 +135,7 @@
         "link": "https://techcrunch.com/category/venture/",
         "title": "Venture Capital News | TechCrunch",
         "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "published": "2026-06-25T13:19:25-07:00",
+        "published": "2026-06-24T06:58:14-07:00",
         "blurb": "Venture capital news and coverage feature all the VCs, VC-backed startups, and investment trends that founders, investors, and students should be tracking."
       }
     ],
@@ -282,35 +282,35 @@
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/business/2026/06/25/asset-management-giant-invesco-files-for-tokenized-fund-targeting-stablecoin-reserve-market",
-        "title": "Invesco, $2.5T asset manager, files for tokenized fund targeting stablecoin reserves",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/adee12e6a2b810caccb4b8e187a3aac5c314766a-5362x3575.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/tech/2026/06/24/upheaval-at-the-ethereum-foundation-has-some-of-crypto-s-biggest-names-feeling-bullish",
+        "title": "Ethereum (ETH) news: Upheaval at the foundation has some of crypto’s biggest names feeling bullish",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/ab9ea8c9d8346f05438e6f0a8739ddc6e4639afa-1920x1242.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "The $2.5 trillion asset manager deepens its blockchain push after taking over Superstate's tokenized money market fund as fund manager earlier this year."
+        "blurb": "In this week's edition of The Protocol Newsletter, we're looking at Ethereum's eventful week that started off with the launch of EthLabs, plus the layoffs at the Ethereum Foundation, and what this all means for the network."
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/tech/2026/06/25/coinbase-s-base-blockchain-resumes-after-two-hour-outage-disrupted-network",
-        "title": "Coinbase (COIN) news: Base blockchain resumes after two-hour outage disrupted network",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/719d80685a3042ba9bd5e2ba263b4d995299e379-3840x2160.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/business/2026/06/24/kalshi-targets-a-massive-usd40-billion-valuation-widening-lead-over-rival-polymarket",
+        "title": "Kalshi seeks funding at $40 billion valuation, widening lead over rival Polymarket",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/cd68dbf11ea2b03847eb5020d28aec70f8c83de4-2321x1306.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "The incident temporarily halted transaction processing on one of Ethereum's largest layer-2 networks."
+        "blurb": "The prediction market operator, which is eyeing a potential public debut in 2027, could close a new funding round in Q3, according to a Financial Times report."
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/markets/2026/06/25/strategy-s-yield-generating-strc-stock-is-more-correlated-with-btc-than-ever",
-        "title": "STRC’s correlation with BTC hits record high",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/024d211d615916fbb53501cbb63dc60c856cab12-6000x3376.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/policy/2026/06/24/binance-withdraws-greek-mica-bid-but-vows-to-remain-in-europe",
+        "title": "Binance withdraws Greek MiCA bid but vows to remain in the EU",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/2525adad1cb5953ca2fa403eed869e80e89d9022-2400x1368.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "The tightening correlation undermines STRC's appeal as a relatively steadier income vehicle."
+        "blurb": "The crypto giant must find a home base in the EU by July 1 or regulators will force the company to shut down operations for millions of regional users."
       },
       {
         "source": "CoinDesk",
-        "link": "https://www.coindesk.com/business/2026/06/25/kraken-in-talks-to-buy-15-stake-in-defi-lender-aave-at-usd385-million-valuation",
-        "title": "Kraken eyes 15% stake in DeFi lender Aave in deal valuing protocol at $385 million",
-        "image": "https://cdn.sanity.io/images/s3y3vcno/production/b5ae4fb4478c42b7ccde14b1283bce493cf7f8de-3324x1870.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+        "link": "https://www.coindesk.com/markets/2026/06/24/bitcoin-falls-to-usd60-000-as-ai-trade-continues-to-draw-investor-interest-and-capital",
+        "title": "Bitcoin price news: BTC declines to $60,000 area as investors turn to stocks for investment gains",
+        "image": "https://cdn.sanity.io/images/s3y3vcno/production/c7d242469e65ee7e6f0e9ceac50286334728802f-5458x3638.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
         "published": "",
-        "blurb": "The DeFi lender is rebuilding after the fallout from April's KelpDAO exploit sparked a multibillion-dollar exodus of deposits despite Aave itself not being hacked."
+        "blurb": "South Korean memory chip giant on Wednesday filed to raise nearly $30 billion in a U.S."
       }
     ]
   }
