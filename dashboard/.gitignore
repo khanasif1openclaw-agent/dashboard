@@ -1,12 +1,12 @@
+# dependencies
 node_modules/
-# Firecrawl caches / scrape artifacts (never commit)
-.firecrawl/
 
-# Keep generated content.json in git so Pages always has something to load.
-data/*
-!data/content.json
-.DS_Store
-
-# Local secrets (never commit)
+# secrets
 .secrets.ps1
-.env
+
+# build artifacts
+*.log
+
+# temp/scratch
+.tmp_*
+tmp/
