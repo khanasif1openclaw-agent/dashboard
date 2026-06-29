@@ -1,0 +1,10 @@
+Daily Tech News AUDIO job:
+
+1) Use web search for last 24–48h.
+2) Draft an audio-ready script: Top 10 technology stories. For each: Headline, what happened (1 sentence), why it matters (2–4 sentences), and a source URL.
+3) Add 'What to watch next (24–72h)' with 4–6 bullets.
+4) Convert to TTS and post actual audio into Slack #jarvis.
+
+IMPORTANT: The TTS tool should be kept <= 1400 characters per call. Split the script into numbered parts (Part 1/.., Part 2/.. etc) and generate/post one audio clip per part, in order.
+
+DO NOT post any text version afterwards. Audio only.
