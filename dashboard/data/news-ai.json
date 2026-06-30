@@ -1,0 +1,37 @@
+[
+  {
+    "title": "From games to biology and beyond: 10 years of AlphaGo’s impact",
+    "link": "https://deepmind.google/blog/10-years-of-alphago/",
+    "summary": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI.",
+    "image": "",
+    "date": "Mon, 09 Mar 2026 13:52:36 +0000"
+  },
+  {
+    "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+    "link": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+    "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+    "image": "",
+    "date": "Tue, 03 Mar 2026 16:35:55 +0000"
+  },
+  {
+    "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+    "link": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+    "summary": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed.",
+    "image": "",
+    "date": "Thu, 26 Feb 2026 16:01:50 +0000"
+  },
+  {
+    "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+    "link": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+    "summary": "3.1 Pro is designed for tasks where a simple answer isn’t enough.",
+    "image": "",
+    "date": "Thu, 19 Feb 2026 16:06:14 +0000"
+  },
+  {
+    "title": "A new way to express yourself: Gemini can now create music",
+    "link": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
+    "summary": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images.",
+    "image": "",
+    "date": "Wed, 18 Feb 2026 16:01:38 +0000"
+  }
+]

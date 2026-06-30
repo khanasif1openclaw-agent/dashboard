@@ -1,0 +1,230 @@
+{
+  "generatedAt": "2026-03-16T23:58:29.700Z",
+  "note": "Heuristic list based on web search results; treat as a \"viral\" signal, not definitive trending.",
+  "repos": [
+    {
+      "url": "https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare",
+      "title": "AgenticHealthAI/Awesome-AI-Agents-for-Healthcare - GitHub",
+      "description": "This repository is a curated list of research papers, projects, and resources related to the application of Agentic AI / AI agents for healthcare, ...",
+      "sourceQuery": "ai-github-trending",
+      "position": 1
+    },
+    {
+      "url": "https://github.com/hyperspaceai/agi",
+      "title": "hyperspaceai/agi: The first distributed AGI system ... - GitHub",
+      "description": "This is a living research repository written by autonomous AI agents on the Hyperspace network. Each agent runs experiments, gossips findings with peers ...",
+      "sourceQuery": "ai-github-trending",
+      "position": 3
+    },
+    {
+      "url": "https://github.com/evinjohnn/natively-cluely-ai-assistant",
+      "title": "Natively – Open Source AI Meeting Assistant & Cluely Alternative",
+      "description": "Natively - Free open-source AI interview copilot & meeting assistant. The best Cluely alternative, Final Round AI alternative, and Interview Coder ...",
+      "sourceQuery": "ai-github-trending",
+      "position": 4
+    },
+    {
+      "url": "https://github.com/different-ai/openwork",
+      "title": "GitHub - different-ai/openwork: An open-source alternative to ...",
+      "description": "Local-first, cloud-ready: OpenWork runs on your machine in one click. Send a message instantly. Composable: desktop app, WhatsApp/Slack/Telegram connector, ...",
+      "sourceQuery": "ai-github-trending",
+      "position": 5
+    },
+    {
+      "url": "https://github.com/RightNow-AI/openfang",
+      "title": "RightNow-AI/openfang - Agent Operating System - GitHub",
+      "description": "Open-source Agent OS built in Rust. 137K LOC. 14 crates. 1,767+ tests. Zero clippy warnings. One binary. Battle-tested. Agents that actually work for you.",
+      "sourceQuery": "ai-github-trending",
+      "position": 6
+    },
+    {
+      "url": "https://github.com/aiming-lab/AutoResearchClaw",
+      "title": "Chat an Idea. Get a Paper. Fully Autonomous. - GitHub",
+      "description": "Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. - aiming-lab/AutoResearchClaw.",
+      "sourceQuery": "ai-github-trending",
+      "position": 8
+    },
+    {
+      "url": "https://github.com/HKUDS/nanobot",
+      "title": "nanobot: The Ultra-Lightweight OpenClaw - GitHub",
+      "description": "nanobot is an ultra-lightweight personal AI assistant inspired by OpenClaw. ⚡️ Delivers core agent functionality with 99% fewer lines of code than OpenClaw.",
+      "sourceQuery": "ai-github-trending",
+      "position": 9
+    },
+    {
+      "url": "https://github.com/ruvnet/ruvector",
+      "title": "RuVector is a High Performance, Real-Time, Self-Learning ... - GitHub",
+      "description": "The self-learning, self-optimizing vector database — with graph intelligence, local AI, and PostgreSQL built in. Created by rUv and powering Cognitum, a CES ...",
+      "sourceQuery": "ai-github-trending",
+      "position": 10
+    },
+    {
+      "url": "https://github.com/Vexa-ai/vexa",
+      "title": "Vexa - GitHub",
+      "description": "Vexa is an open-source, self-hostable API for real-time meeting transcription. It automatically joins Google Meet, Microsoft Teams, and Zoom meetings, captures ...",
+      "sourceQuery": "ai-meeting",
+      "position": 2
+    },
+    {
+      "url": "https://github.com/accomplish-ai/accomplish",
+      "title": "Accomplish™ is the open source Al coworker that lives on ... - GitHub",
+      "description": "Accomplish is an open source AI desktop agent that automates file management, document creation, and browser tasks locally on your machine.",
+      "sourceQuery": "ai-meeting",
+      "position": 4
+    },
+    {
+      "url": "https://github.com/OpenWhispr/openwhispr",
+      "title": "OpenWhispr - GitHub",
+      "description": "Voice-to-text dictation and productivity app with AI agents, meeting transcription, notes, and local/cloud speech recognition. Privacy-first and available cross ...",
+      "sourceQuery": "ai-meeting",
+      "position": 5
+    },
+    {
+      "url": "https://github.com/netease-youdao/LobsterAI",
+      "title": "GitHub - netease-youdao/LobsterAI: Your 24/7 all-scenario AI agent ...",
+      "description": "LobsterAI is an all-in-one personal assistant Agent developed by NetEase Youdao. It works around the clock to handle your everyday tasks — data analysis, making ...",
+      "sourceQuery": "ai-meeting",
+      "position": 6
+    },
+    {
+      "url": "https://github.com/sipeed/picoclaw",
+      "title": "GitHub - sipeed/picoclaw: Tiny, Fast, and Deployable anywhere",
+      "description": "You have a working AI assistant in 2 minutes. Chat Apps. Talk to your picoclaw through Telegram, Discord, WhatsApp, Matrix, QQ, DingTalk, LINE, or WeCom.",
+      "sourceQuery": "ai-meeting",
+      "position": 7
+    },
+    {
+      "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+      "title": "VoltAgent/awesome-openclaw-skills - GitHub",
+      "description": "OpenClaw is a locally-running AI assistant that operates directly on your machine. Skills extend its capabilities, allowing it to interact with external ...",
+      "sourceQuery": "ai-meeting",
+      "position": 8
+    },
+    {
+      "url": "https://github.com/openagents-org/openagents",
+      "title": "OpenAgents - AI Agent Networks for Open Collaboration - GitHub",
+      "description": "What is OpenAgents? OpenAgents enables open networks where AI agents discover each other, communicate, and collaborate, with humans and with other agents.",
+      "sourceQuery": "ai-agents",
+      "position": 2
+    },
+    {
+      "url": "https://github.com/QwenLM/qwen-code",
+      "title": "GitHub - QwenLM/qwen-code: An open-source AI agent that lives in ...",
+      "description": "Qwen Code is an open-source AI agent for the terminal, optimized for Qwen3-Coder. It helps you understand large codebases, automate tedious work, and ship ...",
+      "sourceQuery": "ai-agents",
+      "position": 3
+    },
+    {
+      "url": "https://github.com/twostraws/swift-agent-skills",
+      "title": "Swift Agent Skills for Claude Code, Codex, and more - GitHub",
+      "description": "A curated collection of open-source AI agent skills for Swift and Apple platform development. Use these skills with Claude Code, Codex, Cursor, Windsurf, ...",
+      "sourceQuery": "ai-agents",
+      "position": 5
+    },
+    {
+      "url": "https://github.com/iOfficeAI/AionUi",
+      "title": "iOfficeAI/AionUi: Free, local, open-source 24/7 Cowork app ... - GitHub",
+      "description": "It's a Cowork platform where AI agents work alongside you on your computer — reading files, writing code, browsing the web, and automating tasks. You see ...",
+      "sourceQuery": "ai-agents",
+      "position": 6
+    },
+    {
+      "url": "https://github.com/builderz-labs/mission-control",
+      "title": "GitHub - builderz-labs/mission-control: The open-source dashboard ...",
+      "description": "The open-source dashboard for AI agent orchestration. Manage agent fleets, track tasks, monitor costs, and orchestrate workflows — with direct CLI ...",
+      "sourceQuery": "ai-agents",
+      "position": 7
+    },
+    {
+      "url": "https://github.com/docker/docker-agent",
+      "title": "AI Agent Builder and Runtime by Docker Engineering - GitHub",
+      "description": "docker-agent lets you create and run intelligent AI agents that collaborate to solve complex problems — no code required. docker-agent is a docker CLI ...",
+      "sourceQuery": "ai-agents",
+      "position": 8
+    },
+    {
+      "url": "https://github.com/hkuds/lightrag",
+      "title": "LightRAG: Simple and Fast Retrieval-Augmented Generation - GitHub",
+      "description": "The LightRAG Server is designed to provide Web UI and API support. The Web UI facilitates document indexing, knowledge graph exploration, and a simple RAG query ...",
+      "sourceQuery": "rag",
+      "position": 1
+    },
+    {
+      "url": "https://github.com/IBM/RagWorkbench",
+      "title": "IBM/RagWorkbench: A Rag framework for evaluation - GitHub",
+      "description": "RAGWorkbench is a powerful Python framework designed to evaluate and benchmark RAG systems across multiple datasets and metrics.",
+      "sourceQuery": "rag",
+      "position": 2
+    },
+    {
+      "url": "https://github.com/Tencent/WeKnora",
+      "title": "Tencent/WeKnora: LLM-powered framework for deep document ...",
+      "description": "At its core, WeKnora follows the RAG (Retrieval-Augmented Generation) paradigm, enabling high-quality, context-aware answers by combining relevant document ...",
+      "sourceQuery": "rag",
+      "position": 3
+    },
+    {
+      "url": "https://github.com/raphaelmansuy/edgequake",
+      "title": "GitHub - raphaelmansuy/edgequake: High-performance GraphRAG ...",
+      "description": "EdgeQuake solves this by implementing the LightRAG algorithm in Rust: documents are not just chunked and embedded — they are decomposed into a knowledge graph ...",
+      "sourceQuery": "rag",
+      "position": 4
+    },
+    {
+      "url": "https://github.com/HKUDS/LightRAG/releases",
+      "title": "Releases · HKUDS/LightRAG - GitHub",
+      "description": "LightRAG implements a configurable metadata size control system with two key features: Source ID limiting: Controls the maximum number of chunk IDs stored per ...",
+      "sourceQuery": "rag",
+      "position": 5
+    },
+    {
+      "url": "https://github.com/rafska/awesome-local-llm",
+      "title": "rafska/awesome-local-llm",
+      "description": "vanna - an open-source Python RAG framework for SQL generation and related functionality; graphiti - build real-time knowledge graphs for AI Agents; onyx ...",
+      "sourceQuery": "rag",
+      "position": 7
+    },
+    {
+      "url": "https://github.com/microsoft/agent-framework",
+      "title": "Welcome to Microsoft Agent Framework! - GitHub",
+      "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. - microsoft/agent-framework.",
+      "sourceQuery": "rag",
+      "position": 8
+    },
+    {
+      "url": "https://github.com/endee-io/endee",
+      "title": "endee-io/endee: Endee.io – A high-performance vector ... - GitHub",
+      "description": "Endee is a high-performance open-source vector database built for AI search and retrieval workloads. It is designed for teams building RAG pipelines, ...",
+      "sourceQuery": "vector",
+      "position": 1
+    },
+    {
+      "url": "https://github.com/zilliztech/knowhere",
+      "title": "GitHub - zilliztech/knowhere: Vector search engine inside Milvus ...",
+      "description": "This document will help you to build the Knowhere repository from source code and to run unit tests. Please file an issue if there's a problem.",
+      "sourceQuery": "vector",
+      "position": 3
+    },
+    {
+      "url": "https://github.com/volcengine/vikingdb-python-sdk",
+      "title": "volcengine/vikingdb-python-sdk - GitHub",
+      "description": "Vector Database: Request envelope handling with typed request/response models covering collection, index, and embedding workflows. Memory Management: ...",
+      "sourceQuery": "vector",
+      "position": 4
+    },
+    {
+      "url": "https://github.com/sqliteai/sqlite-ai",
+      "title": "GitHub - sqliteai/sqlite-ai: AI-native extension for SQLite that brings ...",
+      "description": "SQLite-AI is an extension for SQLite that brings artificial intelligence capabilities directly into the database. It enables developers to run, fine-tune, ...",
+      "sourceQuery": "vector",
+      "position": 7
+    },
+    {
+      "url": "https://github.com/spiceai/spiceai",
+      "title": "GitHub - spiceai/spiceai: A portable accelerated SQL query, search ...",
+      "description": "Spice is a SQL query, search, and LLM-inference engine, written in Rust, for data apps and agents. Spice.ai Open Source accelerated data query and LLM-inference ...",
+      "sourceQuery": "vector",
+      "position": 8
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "How NVIDIA AI-Q Reached \\#1 on DeepResearch Bench I and II ",
+    "link": "https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench",
+    "summary": "",
+    "image": "",
+    "date": "Thu, 12 Mar 2026 03:53:34 GMT"
+  },
+  {
+    "title": "Introducing Storage Buckets on the Hugging Face Hub",
+    "link": "https://huggingface.co/blog/storage-buckets",
+    "summary": "",
+    "image": "",
+    "date": "Tue, 10 Mar 2026 00:00:00 GMT"
+  },
+  {
+    "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+    "link": "https://huggingface.co/blog/async-rl-training-landscape",
+    "summary": "",
+    "image": "",
+    "date": "Tue, 10 Mar 2026 00:00:00 GMT"
+  },
+  {
+    "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
+    "summary": "",
+    "image": "",
+    "date": "Mon, 09 Mar 2026 18:36:33 GMT"
+  },
+  {
+    "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
+    "link": "https://huggingface.co/blog/ulysses-sp",
+    "summary": "",
+    "image": "",
+    "date": "Mon, 09 Mar 2026 00:00:00 GMT"
+  }
+]

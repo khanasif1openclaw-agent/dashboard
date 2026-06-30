@@ -1,0 +1,9 @@
+{
+  "time": "2026-03-12T05:15",
+  "interval": 900,
+  "temperature": 23.3,
+  "windspeed": 18.8,
+  "winddirection": 135,
+  "is_day": 1,
+  "weathercode": 2
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "symbol": "AAPL",
+    "price": 260.81,
+    "change": -1.7099999999999795,
+    "changePercent": "-0.65"
+  },
+  {
+    "symbol": "MSFT",
+    "price": 404.88,
+    "change": -0.3199999999999932,
+    "changePercent": "-0.08"
+  },
+  {
+    "symbol": "GOOGL",
+    "price": 308.7,
+    "change": 5.569999999999993,
+    "changePercent": "1.84"
+  },
+  {
+    "symbol": "NVDA",
+    "price": 186.03,
+    "change": 2.990000000000009,
+    "changePercent": "1.63"
+  },
+  {
+    "symbol": "META",
+    "price": 654.86,
+    "change": -12.870000000000005,
+    "changePercent": "-1.93"
+  }
+]
