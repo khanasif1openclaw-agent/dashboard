@@ -19,6 +19,8 @@ Copy-Item -Force .\data\content.json (Join-Path $snapDir 'content.json')
 Copy-Item -Force .\index.html (Join-Path $snapDir 'index.html')
 Copy-Item -Force .\data\email.html (Join-Path $snapDir 'email.html')
 
+# --- Email ---
+$emailOk = $true
 Write-Host "[dashboard] sending email via gog (Gmail API)..."
 powershell -NoProfile -ExecutionPolicy Bypass -File .\send-html-email.ps1
 if ($LASTEXITCODE -ne 0) {
@@ -26,17 +28,20 @@ if ($LASTEXITCODE -ne 0) {
   $subject = "Daily Dashboard - $today"
   powershell -NoProfile -ExecutionPolicy Bypass -File .\send-email-smtp.ps1 -Subject $subject -HtmlPath .\data\email.html
   if ($LASTEXITCODE -ne 0) {
-    throw "Email send failed (exit code $LASTEXITCODE)"
+    $emailOk = $false
+    Write-Warning "[dashboard] SMTP fallback also failed (exit code $LASTEXITCODE). Will still commit + push, then exit non-zero."
   }
 }
 
+# --- Git publish ---
 Write-Host "[dashboard] committing + pushing to GitHub..."
 
 # Fail fast in non-interactive contexts (cron/CI)
 $env:GIT_TERMINAL_PROMPT = "0"
 $env:GCM_INTERACTIVE = "Never"
 
-git add -A
+# Stage ONLY dashboard folder changes (avoid accidentally committing repo-root artifacts)
+git add -A .
 # Commit only if there are changes
 $changed = git status --porcelain
 if ($changed) {
@@ -47,6 +52,10 @@ if ($changed) {
   if ($LASTEXITCODE -ne 0) { throw "git push failed (exit code $LASTEXITCODE)" }
 } else {
   Write-Host "[dashboard] no changes to commit."
+}
+
+if (-not $emailOk) {
+  throw "Email send failed (gog + SMTP). Dashboard was published, but the email did not send."
 }
 
 Write-Host "[dashboard] done."
